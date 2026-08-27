@@ -1,0 +1,15 @@
+# Core analysis stack
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Optional: parquet support. Without it the pipeline transparently falls back
+# to CSV (see src/io_utils.py), so this is a nice-to-have, not a requirement.
+pyarrow>=12.0
+
+# Testing
+pytest>=7.0
+
+# Dev: type stubs for editor/type-checker support (not needed at runtime)
+pandas-stubs
