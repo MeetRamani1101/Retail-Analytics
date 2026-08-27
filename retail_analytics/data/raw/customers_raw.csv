@@ -1,0 +1,4001 @@
+customer_id,signup_date,country,acquisition_channel,age
+C50000,2023-11-18,Austria,Direct,21.0
+C50001,2024-08-26,Germany,Organic Search,54.0
+C50002,2023-11-15,Spain,Organic Search,34.0
+C50003,2023-03-19,Germany,Organic Search,29.0
+C50004,2023-01-24,Germany,Paid Social,42.0
+C50005,2023-04-06,Austria,Organic Search,46.0
+C50006,2024-01-10,Germany,Paid Social,46.0
+C50007,2024-08-26,Germany,Organic Search,38.0
+C50008,2023-05-13,Germany,Referral,40.0
+C50009,2022-07-12,France,Referral,41.0
+C50010,2022-06-23,Spain,Email,42.0
+C50011,2024-04-23,Germany,Organic Search,43.0
+C50012,2024-07-05,Germany,Referral,51.0
+C50013,2021-10-10,France,Organic Search,39.0
+C50014,2021-07-11,Italy,Referral,28.0
+C50015,2023-11-05,Germany,Email,36.0
+C50016,2022-01-05,Italy,Paid Social,47.0
+C50017,2024-07-14,Spain,Organic Search,18.0
+C50018,2022-10-20,Germany,Referral,18.0
+C50019,2022-01-01,Austria,Direct,49.0
+C50020,2024-10-17,Netherlands,Email,56.0
+C50021,2022-02-13,France,Direct,23.0
+C50022,2022-09-10,France,Direct,39.0
+C50023,2022-01-20,Austria,Organic Search,33.0
+C50024,2021-11-02,Austria,Referral,35.0
+C50025,2021-03-09,Austria,Paid Social,42.0
+C50026,2021-06-12,Italy,Paid Social,22.0
+C50027,2022-03-02,France,Organic Search,25.0
+C50028,2021-06-07,Austria,Direct,34.0
+C50029,2023-11-01,Spain,Email,36.0
+C50030,2024-02-12,Germany,Organic Search,
+C50031,2023-02-20,Germany,Paid Social,47.0
+C50032,2022-11-01,Germany,Paid Social,33.0
+C50033,2023-07-18,Spain,Referral,33.0
+C50034,2024-09-02,Germany,Direct,41.0
+C50035,2024-08-09,Netherlands,Paid Social,36.0
+C50036,2021-05-11,  Germany ,Paid Social,48.0
+C50037,2022-03-15,Germany,Email,27.0
+C50038,2022-06-23,Netherlands,Paid Social,21.0
+C50039,2022-07-14,Germany,Paid Social,34.0
+C50040,2023-10-08,SPAIN,Organic Search,39.0
+C50041,2023-03-24,Germany,Organic Search,23.0
+C50042,2021-05-27,Spain,Paid Social,21.0
+C50043,2023-01-23,Germany,Direct,40.0
+C50044,2023-08-11,Italy,Paid Social,29.0
+C50045,2021-10-02,Netherlands,Organic Search,
+C50046,2024-07-23,Germany,Referral,50.0
+C50047,2021-06-03,Germany,Direct,30.0
+C50048,2024-10-21,Germany,Paid Social,52.0
+C50049,2021-09-26,Netherlands,Organic Search,38.0
+C50050,2024-08-02,Austria,Email,42.0
+C50051,2024-09-30,Germany,Paid Social,35.0
+C50052,2024-12-12,France,Email,18.0
+C50053,2024-06-20,  Netherlands ,Organic Search,24.0
+C50054,2024-05-28,France,Organic Search,36.0
+C50055,2023-12-31,Netherlands,Paid Social,42.0
+C50056,2024-05-28,France,Email,18.0
+C50057,2021-12-12,Austria,Paid Social,37.0
+C50058,2023-08-26,Italy,Organic Search,25.0
+C50059,2023-07-30,Germany,Paid Social,41.0
+C50060,2024-08-16,Germany,Referral,38.0
+C50061,2023-05-25,Germany,Organic Search,47.0
+C50062,2023-02-08,France,Email,51.0
+C50063,2023-12-27,Germany,Email,44.0
+C50064,2022-08-12,Italy,Paid Social,48.0
+C50065,2021-12-23,Netherlands,Direct,34.0
+C50066,2023-06-14,France,Direct,72.0
+C50067,2023-03-25,Austria,Paid Social,23.0
+C50068,2022-06-15,Germany,Organic Search,32.0
+C50069,2023-01-14,Austria,Organic Search,49.0
+C50070,2023-01-12,Germany,Organic Search,47.0
+C50071,2022-11-16,Netherlands,Paid Social,
+C50072,2023-01-31,Italy,Direct,46.0
+C50073,2024-02-17,Austria,Direct,18.0
+C50074,2022-09-29,Spain,Organic Search,57.0
+C50075,2024-11-13,Germany,Paid Social,36.0
+C50076,2024-10-13,Spain,Organic Search,53.0
+C50077,2023-06-18,France,Paid Social,18.0
+C50078,2022-11-17,Netherlands,Organic Search,41.0
+C50079,2023-08-26,Germany,Direct,31.0
+C50080,2024-08-07,Germany,Direct,45.0
+C50081,2024-01-11,France,Organic Search,
+C50082,2024-06-23,Germany,Email,42.0
+C50083,2023-08-22,Austria,Email,25.0
+C50084,2023-12-20,Spain,Referral,37.0
+C50085,2022-09-16,Italy,Paid Social,36.0
+C50086,2024-04-11,GERMANY,Organic Search,44.0
+C50087,2022-04-23,Italy,Email,50.0
+C50088,2024-02-27,  Germany ,Organic Search,40.0
+C50089,2024-08-19,France,Email,23.0
+C50090,2021-12-07,SPAIN,Organic Search,39.0
+C50091,2023-11-28,Germany,Email,
+C50092,2021-09-17,Germany,Referral,58.0
+C50093,2024-04-01,Germany,Organic Search,18.0
+C50094,2021-08-23,France,Paid Social,39.0
+C50095,2024-11-01,Austria,Referral,
+C50096,2021-12-18,Germany,Organic Search,36.0
+C50097,2024-11-23,Germany,Email,32.0
+C50098,2024-06-19,France,Email,35.0
+C50099,2023-11-04,Germany,Paid Social,45.0
+C50100,2024-05-31,Austria,Referral,24.0
+C50101,2024-06-13,Italy,Paid Social,
+C50102,2024-11-10,DE,Email,37.0
+C50103,2022-07-21,Spain,Organic Search,
+C50104,2023-10-31,France,Organic Search,51.0
+C50105,2021-09-17,SPAIN,Organic Search,19.0
+C50106,2023-11-30,Germany,Direct,31.0
+C50107,2022-02-24,Germany,Direct,31.0
+C50108,2023-10-01,Netherlands,Referral,64.0
+C50109,2023-10-10,Germany,Organic Search,30.0
+C50110,2023-05-29,Spain,Paid Social,18.0
+C50111,2023-08-10,  Netherlands ,Referral,31.0
+C50112,2024-05-12,Italy,Email,43.0
+C50113,2024-06-18,Germany,Organic Search,47.0
+C50114,2023-07-02,France,Direct,65.0
+C50115,2023-11-11,Austria,Organic Search,55.0
+C50116,2024-10-27,Germany,Organic Search,40.0
+C50117,2021-11-11,France,Direct,27.0
+C50118,2021-11-05,Netherlands,Paid Social,
+C50119,2021-08-31,Italy,Paid Social,34.0
+C50120,2024-01-17,Austria,Email,30.0
+C50121,2023-03-27,GERMANY,Direct,
+C50122,2024-05-23,France,Organic Search,
+C50123,2024-02-01,Netherlands,Referral,32.0
+C50124,2022-11-25,Germany,Paid Social,35.0
+C50125,2024-09-25,France,Organic Search,47.0
+C50126,2024-05-10,Germany,Paid Social,33.0
+C50127,2022-08-18,  Germany ,Paid Social,23.0
+C50128,2023-01-09,France,Organic Search,19.0
+C50129,2022-10-27,Germany,Paid Social,
+C50130,2022-01-28,Netherlands,Email,
+C50131,2022-01-09,Germany,Email,
+C50132,2024-11-01,Austria,Email,32.0
+C50133,2023-04-22,Germany,Referral,43.0
+C50134,2023-02-06,Spain,Paid Social,55.0
+C50135,2024-04-05,Germany,Paid Social,29.0
+C50136,2023-09-16,France,Paid Social,39.0
+C50137,2024-11-01,  Germany ,Email,49.0
+C50138,2024-05-29,Germany,Organic Search,29.0
+C50139,2023-06-16,France,Paid Social,38.0
+C50140,2023-01-27,Spain,Organic Search,
+C50141,2024-12-19,Spain,Paid Social,22.0
+C50142,2024-03-23,Germany,Direct,40.0
+C50143,2024-11-15,Germany,Email,38.0
+C50144,2021-11-08,Austria,Paid Social,45.0
+C50145,2024-08-09,  Netherlands ,Email,24.0
+C50146,2023-12-24,  Germany ,Email,38.0
+C50147,2021-11-16,Austria,Paid Social,55.0
+C50148,2023-10-29,France,Paid Social,63.0
+C50149,2024-02-18,Netherlands,Email,53.0
+C50150,2021-02-09,Germany,Organic Search,24.0
+C50151,2023-05-14,France,Paid Social,43.0
+C50152,2024-07-14,Germany,Paid Social,32.0
+C50153,2022-09-27,Austria,Referral,41.0
+C50154,2023-05-20,Germany,Direct,29.0
+C50155,2023-04-28,Austria,Referral,18.0
+C50156,2022-10-07,Austria,Paid Social,34.0
+C50157,2024-10-15,Austria,Organic Search,47.0
+C50158,2024-05-30,Germany,Email,41.0
+C50159,2021-10-22,GERMANY,Referral,43.0
+C50160,2024-12-29,France,Direct,41.0
+C50161,2024-09-06,Netherlands,Referral,43.0
+C50162,2022-09-09,Spain,Organic Search,44.0
+C50163,2024-07-26,Germany,Email,35.0
+C50164,2021-10-13,Spain,Direct,39.0
+C50165,2024-12-31,Germany,Email,59.0
+C50166,2024-01-26,Germany,Email,40.0
+C50167,2024-01-08,Germany,Paid Social,39.0
+C50168,2021-09-06,Austria,Email,39.0
+C50169,2024-09-24,Germany,Organic Search,35.0
+C50170,2021-04-01,  Germany ,Organic Search,33.0
+C50171,2022-06-30,Austria,Referral,
+C50172,2021-12-30,France,Direct,32.0
+C50173,2024-05-25,Germany,Direct,36.0
+C50174,2022-04-15,Germany,Paid Social,29.0
+C50175,2024-10-07,France,Organic Search,39.0
+C50176,2024-01-15,Germany,Organic Search,45.0
+C50177,2021-04-21,Germany,Referral,35.0
+C50178,2021-01-18,  NETHERLANDS ,Email,18.0
+C50179,2021-06-02,Germany,Direct,45.0
+C50180,2023-11-18,NETHERLANDS,Paid Social,39.0
+C50181,2024-06-20,Germany,Email,26.0
+C50182,2022-06-26,Germany,Referral,47.0
+C50183,2024-08-08,Germany,Organic Search,21.0
+C50184,2021-06-17,Germany,Direct,51.0
+C50185,2024-06-19,Germany,Email,37.0
+C50186,2024-10-24,GERMANY,Organic Search,18.0
+C50187,2024-05-20,Spain,Organic Search,40.0
+C50188,2024-03-02,Spain,Direct,33.0
+C50189,2024-07-27,Germany,Email,31.0
+C50190,2021-05-02,FRANCE,Referral,29.0
+C50191,2022-04-22,France,Referral,36.0
+C50192,2021-11-22,Spain,Paid Social,32.0
+C50193,2023-07-18,Germany,Referral,18.0
+C50194,2024-04-22,Germany,Direct,53.0
+C50195,2023-12-16,Germany,Organic Search,35.0
+C50196,2024-08-09,Germany,Referral,29.0
+C50197,2022-01-23,Germany,Organic Search,24.0
+C50198,2024-04-10,Spain,Paid Social,47.0
+C50199,2022-04-06,Spain,Paid Social,22.0
+C50200,2022-08-19,DE,Direct,40.0
+C50201,2024-03-15,France,Organic Search,31.0
+C50202,2024-12-13,Germany,Paid Social,32.0
+C50203,2023-11-25,France,Email,25.0
+C50204,2021-06-10,France,Organic Search,31.0
+C50205,2023-11-30,Germany,Referral,38.0
+C50206,2021-05-08,Spain,Direct,41.0
+C50207,2024-09-11,Italy,Organic Search,29.0
+C50208,2024-03-14,Netherlands,Organic Search,
+C50209,2022-02-27,Netherlands,Direct,49.0
+C50210,2021-09-09,France,Organic Search,18.0
+C50211,2022-03-19,Germany,Organic Search,38.0
+C50212,2024-12-13,Germany,Direct,27.0
+C50213,2023-05-20,Netherlands,Direct,25.0
+C50214,2024-06-02,GERMANY,Email,41.0
+C50215,2023-12-24,Spain,Email,31.0
+C50216,2023-10-10,France,Direct,23.0
+C50217,2022-01-03,Germany,Email,54.0
+C50218,2024-11-10,  GERMANY ,Email,
+C50219,2022-10-06,Italy,Referral,18.0
+C50220,2023-10-16,Germany,Email,20.0
+C50221,2024-03-04,Germany,Paid Social,45.0
+C50222,2024-01-07,Germany,Paid Social,35.0
+C50223,2024-11-05,Netherlands,Paid Social,56.0
+C50224,2022-01-10,Italy,Paid Social,45.0
+C50225,2023-07-23,Germany,Paid Social,42.0
+C50226,2023-03-07,Spain,Paid Social,26.0
+C50227,2023-06-09,Germany,Referral,44.0
+C50228,2021-11-10,Netherlands,Paid Social,23.0
+C50229,2021-12-11,Germany,Organic Search,54.0
+C50230,2022-08-30,DE,Organic Search,
+C50231,2022-10-12,Netherlands,Organic Search,28.0
+C50232,2023-04-09,France,Referral,48.0
+C50233,2023-11-24,Germany,Paid Social,65.0
+C50234,2023-12-22,Spain,Organic Search,35.0
+C50235,2023-03-18,Italy,Referral,45.0
+C50236,2023-03-13,France,Organic Search,
+C50237,2022-05-20,Netherlands,Organic Search,39.0
+C50238,2023-10-29,Austria,Referral,20.0
+C50239,2022-10-31,GERMANY,Email,38.0
+C50240,2021-04-21,Spain,Referral,39.0
+C50241,2023-03-27,Germany,Referral,60.0
+C50242,2023-06-09,Austria,Direct,18.0
+C50243,2022-06-03,Germany,Organic Search,35.0
+C50244,2023-10-10,Germany,Referral,53.0
+C50245,2023-10-02,France,Email,35.0
+C50246,2024-03-06,France,Organic Search,36.0
+C50247,2024-01-06,Spain,Direct,28.0
+C50248,2024-01-11,Italy,Paid Social,27.0
+C50249,2022-10-30,Germany,Direct,18.0
+C50250,2024-06-05,Germany,Email,30.0
+C50251,2023-09-12,Germany,Paid Social,26.0
+C50252,2023-04-13,France,Organic Search,39.0
+C50253,2023-12-12,France,Direct,29.0
+C50254,2023-01-04,Spain,Email,32.0
+C50255,2023-07-28,Austria,Organic Search,33.0
+C50256,2024-04-13,Germany,Organic Search,37.0
+C50257,2024-09-14,France,Referral,32.0
+C50258,2024-10-17,Netherlands,Organic Search,25.0
+C50259,2023-07-17,France,Email,39.0
+C50260,2023-08-07,Germany,Email,51.0
+C50261,2024-06-18,Germany,Organic Search,40.0
+C50262,2022-10-27,Germany,Email,31.0
+C50263,2024-07-27,Germany,Organic Search,37.0
+C50264,2023-07-05,Austria,Direct,18.0
+C50265,2021-11-03,Germany,Direct,36.0
+C50266,2021-07-24,Netherlands,Organic Search,33.0
+C50267,2024-07-31,FRANCE,Paid Social,27.0
+C50268,2021-06-13,Spain,Paid Social,29.0
+C50269,2022-09-04,Germany,Direct,33.0
+C50270,2022-11-26,Germany,Paid Social,50.0
+C50271,2022-02-27,Germany,Email,51.0
+C50272,2022-10-26,France,Direct,27.0
+C50273,2024-04-19,Germany,Organic Search,32.0
+C50274,2021-02-17,  Austria ,Email,32.0
+C50275,2024-07-16,Germany,Organic Search,48.0
+C50276,2024-08-15,Germany,Email,40.0
+C50277,2023-01-21,GERMANY,Paid Social,
+C50278,2022-01-20,  Austria ,Direct,44.0
+C50279,2023-11-12,Spain,Paid Social,
+C50280,2021-11-11,DE,Organic Search,
+C50281,2023-01-10,France,Referral,38.0
+C50282,2024-11-22,AUSTRIA,Referral,28.0
+C50283,2024-12-27,  Netherlands ,Email,35.0
+C50284,2024-05-20,Germany,Referral,53.0
+C50285,2022-10-21,France,Organic Search,33.0
+C50286,2024-02-19,Austria,Email,49.0
+C50287,2024-03-10,Germany,Organic Search,30.0
+C50288,2023-02-12,Netherlands,Organic Search,29.0
+C50289,2023-12-29,France,Direct,46.0
+C50290,2021-02-04,France,Referral,28.0
+C50291,2022-05-05,Germany,Organic Search,48.0
+C50292,2023-08-13,DE,Organic Search,42.0
+C50293,2022-02-09,Spain,Direct,28.0
+C50294,2022-02-13,Germany,Organic Search,37.0
+C50295,2024-07-25,Germany,Organic Search,31.0
+C50296,2024-12-21,Germany,Organic Search,42.0
+C50297,2023-09-20,Germany,Organic Search,61.0
+C50298,2024-07-28,Italy,Paid Social,34.0
+C50299,2024-12-22,France,Direct,44.0
+C50300,2021-12-27,Germany,Paid Social,38.0
+C50301,2023-05-06,Germany,Paid Social,38.0
+C50302,2023-02-19,Italy,Referral,36.0
+C50303,2021-08-13,Germany,Email,28.0
+C50304,2024-05-03,Austria,Referral,42.0
+C50305,2023-04-17,Germany,Email,35.0
+C50306,2023-06-03,  Germany ,Email,27.0
+C50307,2022-01-14,Netherlands,Email,
+C50308,2022-03-14,Germany,Referral,39.0
+C50309,2024-10-04,Netherlands,Email,35.0
+C50310,2021-05-15,Germany,Referral,54.0
+C50311,2022-06-16,  Austria ,Organic Search,18.0
+C50312,2022-09-22,Austria,Email,53.0
+C50313,2023-06-30,Austria,Referral,27.0
+C50314,2023-10-26,Germany,Organic Search,41.0
+C50315,2023-07-04,NETHERLANDS,Direct,31.0
+C50316,2021-08-23,Italy,Organic Search,27.0
+C50317,2022-07-04,Germany,Organic Search,
+C50318,2024-08-02,Germany,Direct,60.0
+C50319,2023-12-25,  Austria ,Organic Search,35.0
+C50320,2024-01-07,Germany,Paid Social,42.0
+C50321,2024-01-31,Netherlands,Paid Social,39.0
+C50322,2024-05-11,Austria,Direct,
+C50323,2021-06-19,Germany,Paid Social,18.0
+C50324,2023-01-13,France,Email,43.0
+C50325,2023-08-31,France,Referral,29.0
+C50326,2022-12-02,Germany,Email,18.0
+C50327,2024-08-03,Spain,Direct,34.0
+C50328,2023-06-20,Germany,Referral,60.0
+C50329,2024-05-17,Germany,Paid Social,30.0
+C50330,2024-08-10,Spain,Direct,47.0
+C50331,2023-07-18,Germany,Paid Social,52.0
+C50332,2024-10-06,Spain,Organic Search,38.0
+C50333,2023-10-27,GERMANY,Organic Search,39.0
+C50334,2024-08-09,France,Email,18.0
+C50335,2022-12-05,Germany,Organic Search,29.0
+C50336,2023-07-11,Netherlands,Email,49.0
+C50337,2023-08-21,Austria,Paid Social,39.0
+C50338,2021-10-10,Spain,Paid Social,42.0
+C50339,2023-02-27,Italy,Organic Search,40.0
+C50340,2024-10-14,Netherlands,Referral,64.0
+C50341,2023-12-17,Austria,Paid Social,
+C50342,2022-03-08,France,Organic Search,57.0
+C50343,2022-12-03,Spain,Paid Social,40.0
+C50344,2022-04-03,Netherlands,Paid Social,58.0
+C50345,2021-03-20,Spain,Email,23.0
+C50346,2024-10-24,Germany,Paid Social,40.0
+C50347,2023-05-06,France,Organic Search,33.0
+C50348,2022-10-16,Austria,Direct,40.0
+C50349,2023-11-10,DE,Paid Social,53.0
+C50350,2021-01-25,  Germany ,Organic Search,43.0
+C50351,2022-08-30,DE,Referral,53.0
+C50352,2024-03-07,France,Email,30.0
+C50353,2023-12-21,Germany,Email,28.0
+C50354,2024-12-14,GERMANY,Paid Social,38.0
+C50355,2023-12-05,Germany,Paid Social,38.0
+C50356,2023-06-13,Netherlands,Paid Social,36.0
+C50357,2024-05-09,Italy,Organic Search,26.0
+C50358,2024-09-30,Italy,Organic Search,52.0
+C50359,2024-03-26,  Netherlands ,Direct,34.0
+C50360,2024-11-27,Netherlands,Email,55.0
+C50361,2024-05-31,Germany,Paid Social,38.0
+C50362,2024-08-25,Spain,Organic Search,46.0
+C50363,2021-10-30,GERMANY,Referral,45.0
+C50364,2024-04-08,DE,Organic Search,28.0
+C50365,2023-04-25,Italy,Organic Search,42.0
+C50366,2023-09-16,Spain,Organic Search,61.0
+C50367,2024-01-13,Germany,Email,41.0
+C50368,2024-12-03,DE,Email,49.0
+C50369,2024-12-17,France,Organic Search,
+C50370,2022-09-16,Germany,Organic Search,42.0
+C50371,2024-04-10,Germany,Email,40.0
+C50372,2024-04-27,Germany,Email,45.0
+C50373,2022-12-14,France,Email,47.0
+C50374,2021-11-20,France,Organic Search,22.0
+C50375,2021-05-05,France,Email,41.0
+C50376,2024-05-26,Germany,Direct,36.0
+C50377,2023-06-29,Italy,Email,
+C50378,2024-12-18,Netherlands,Organic Search,54.0
+C50379,2023-05-28,Spain,Email,29.0
+C50380,2024-12-11,Germany,Paid Social,21.0
+C50381,2023-03-17,Netherlands,Organic Search,48.0
+C50382,2024-06-12,Spain,Organic Search,21.0
+C50383,2021-08-24,Germany,Direct,18.0
+C50384,2023-09-19,Germany,Paid Social,49.0
+C50385,2024-06-20,Germany,Direct,40.0
+C50386,2024-10-21,Germany,Paid Social,44.0
+C50387,2024-07-12,France,Paid Social,33.0
+C50388,2021-04-23,Germany,Organic Search,21.0
+C50389,2023-01-21,Germany,Email,24.0
+C50390,2021-05-26,Netherlands,Organic Search,35.0
+C50391,2021-10-19,Germany,Paid Social,23.0
+C50392,2024-02-06,Germany,Organic Search,42.0
+C50393,2024-03-18,Netherlands,Paid Social,32.0
+C50394,2024-05-22,Germany,Paid Social,40.0
+C50395,2024-08-24,Germany,Organic Search,40.0
+C50396,2024-04-16,Germany,Organic Search,43.0
+C50397,2024-06-19,Germany,Direct,44.0
+C50398,2021-05-26,France,Organic Search,34.0
+C50399,2022-06-19,Germany,Paid Social,40.0
+C50400,2023-12-07,Germany,Paid Social,41.0
+C50401,2024-08-16,Italy,Paid Social,18.0
+C50402,2021-01-15,SPAIN,Email,46.0
+C50403,2023-07-31,Germany,Organic Search,40.0
+C50404,2024-02-08,Germany,Paid Social,45.0
+C50405,2021-04-03,France,Email,23.0
+C50406,2023-03-03,Spain,Paid Social,34.0
+C50407,2024-09-23,Austria,Direct,25.0
+C50408,2024-02-01,Germany,Direct,47.0
+C50409,2022-06-24,Germany,Organic Search,21.0
+C50410,2024-08-11,Germany,Paid Social,27.0
+C50411,2022-12-16,Spain,Organic Search,44.0
+C50412,2024-08-12,Spain,Organic Search,30.0
+C50413,2022-10-03,Germany,Paid Social,27.0
+C50414,2023-10-31,France,Email,49.0
+C50415,2023-02-25,Germany,Paid Social,49.0
+C50416,2022-08-25,Netherlands,Organic Search,47.0
+C50417,2024-09-14,Spain,Organic Search,48.0
+C50418,2022-03-27,France,Direct,
+C50419,2021-08-24,Germany,Direct,36.0
+C50420,2022-12-07,DE,Organic Search,30.0
+C50421,2024-03-23,Germany,Email,40.0
+C50422,2024-06-26,Austria,Paid Social,32.0
+C50423,2024-12-30,Germany,Email,33.0
+C50424,2022-09-29,Spain,Email,45.0
+C50425,2023-03-12,GERMANY,Direct,52.0
+C50426,2021-12-17,Germany,Organic Search,43.0
+C50427,2023-10-13,Germany,Paid Social,60.0
+C50428,2024-12-29,Germany,Direct,30.0
+C50429,2024-03-05,Germany,Organic Search,18.0
+C50430,2023-11-06,Netherlands,Organic Search,47.0
+C50431,2023-02-18,Germany,Email,29.0
+C50432,2024-10-12,Germany,Referral,35.0
+C50433,2023-07-08,  Germany ,Email,18.0
+C50434,2021-12-12,Germany,Referral,27.0
+C50435,2023-01-11,DE,Email,20.0
+C50436,2021-07-12,Italy,Organic Search,33.0
+C50437,2022-04-22,Germany,Email,33.0
+C50438,2021-02-26,Austria,Referral,39.0
+C50439,2023-05-13,Austria,Direct,53.0
+C50440,2023-12-21,Italy,Organic Search,46.0
+C50441,2022-12-09,Germany,Organic Search,19.0
+C50442,2023-03-29,Germany,Referral,45.0
+C50443,2024-11-23,France,Organic Search,39.0
+C50444,2024-04-29,SPAIN,Organic Search,37.0
+C50445,2023-09-01,Austria,Referral,38.0
+C50446,2022-09-10,France,Paid Social,40.0
+C50447,2024-09-24,Germany,Paid Social,30.0
+C50448,2022-06-20,AUSTRIA,Organic Search,36.0
+C50449,2022-11-12,Spain,Organic Search,52.0
+C50450,2024-10-06,Germany,Referral,30.0
+C50451,2023-08-18,Netherlands,Paid Social,26.0
+C50452,2024-04-19,Germany,Organic Search,37.0
+C50453,2023-11-01,France,Paid Social,24.0
+C50454,2024-01-12,France,Organic Search,18.0
+C50455,2022-10-03,AUSTRIA,Organic Search,34.0
+C50456,2022-07-01,Italy,Organic Search,55.0
+C50457,2022-11-08,France,Paid Social,38.0
+C50458,2022-01-24,Germany,Organic Search,40.0
+C50459,2024-09-02,Germany,Paid Social,18.0
+C50460,2022-09-08,Germany,Paid Social,43.0
+C50461,2023-09-27,Germany,Paid Social,39.0
+C50462,2024-06-10,Germany,Organic Search,30.0
+C50463,2024-06-02,France,Organic Search,40.0
+C50464,2023-04-23,Germany,Organic Search,40.0
+C50465,2023-06-12,Germany,Paid Social,25.0
+C50466,2024-12-27,  Austria ,Email,42.0
+C50467,2024-02-05,Germany,Organic Search,52.0
+C50468,2024-07-03,Netherlands,Referral,35.0
+C50469,2024-09-29,Spain,Email,28.0
+C50470,2024-06-05,France,Organic Search,36.0
+C50471,2022-03-22,Germany,Organic Search,48.0
+C50472,2023-09-27,Germany,Organic Search,23.0
+C50473,2021-10-03,  Netherlands ,Organic Search,
+C50474,2024-01-11,France,Paid Social,30.0
+C50475,2024-11-19,Germany,Organic Search,
+C50476,2023-07-28,France,Referral,
+C50477,2023-04-15,France,Paid Social,
+C50478,2021-04-20,Germany,Email,56.0
+C50479,2024-11-24,Netherlands,Referral,21.0
+C50480,2021-10-05,GERMANY,Paid Social,44.0
+C50481,2021-05-05,GERMANY,Direct,59.0
+C50482,2022-07-09,Austria,Direct,46.0
+C50483,2021-07-08,Germany,Paid Social,22.0
+C50484,2023-05-15,  Netherlands ,Organic Search,23.0
+C50485,2023-08-02,Germany,Paid Social,29.0
+C50486,2022-10-24,Germany,Organic Search,40.0
+C50487,2021-06-01,Spain,Paid Social,41.0
+C50488,2021-10-24,Germany,Paid Social,23.0
+C50489,2023-02-07,Germany,Paid Social,28.0
+C50490,2021-06-25,Spain,Referral,28.0
+C50491,2024-03-02,Austria,Organic Search,36.0
+C50492,2022-05-01,Netherlands,Paid Social,62.0
+C50493,2022-10-08,Germany,Paid Social,27.0
+C50494,2023-02-21,Germany,Referral,26.0
+C50495,2023-03-24,NETHERLANDS,Email,24.0
+C50496,2021-01-06,Germany,Organic Search,46.0
+C50497,2021-10-25,Germany,Email,38.0
+C50498,2024-08-21,Austria,Organic Search,27.0
+C50499,2021-01-05,GERMANY,Email,
+C50500,2023-07-23,Germany,Email,29.0
+C50501,2023-06-29,Germany,Paid Social,42.0
+C50502,2022-11-24,France,Email,
+C50503,2023-04-13,Netherlands,Direct,45.0
+C50504,2024-05-29,Spain,Referral,37.0
+C50505,2024-07-30,Germany,Paid Social,
+C50506,2022-08-01,Germany,Email,22.0
+C50507,2022-11-08,FRANCE,Paid Social,47.0
+C50508,2022-07-02,Germany,Referral,46.0
+C50509,2023-06-16,FRANCE,Referral,32.0
+C50510,2024-02-14,Italy,Organic Search,53.0
+C50511,2022-06-08,France,Organic Search,38.0
+C50512,2022-11-21,Germany,Organic Search,47.0
+C50513,2024-10-26,Italy,Organic Search,42.0
+C50514,2021-05-25,Germany,Paid Social,
+C50515,2023-05-23,Italy,Organic Search,27.0
+C50516,2024-03-17,France,Email,36.0
+C50517,2022-01-14,France,Organic Search,48.0
+C50518,2021-05-22,Italy,Organic Search,32.0
+C50519,2021-12-20,France,Email,43.0
+C50520,2024-10-15,France,Paid Social,
+C50521,2021-01-31,Germany,Paid Social,47.0
+C50522,2022-03-28,Netherlands,Referral,42.0
+C50523,2021-04-07,France,Direct,24.0
+C50524,2021-10-22,Germany,Email,35.0
+C50525,2023-12-05,Netherlands,Organic Search,49.0
+C50526,2022-07-01,Netherlands,Organic Search,23.0
+C50527,2023-10-06,Germany,Direct,25.0
+C50528,2023-10-31,  Germany ,Email,37.0
+C50529,2024-08-08,France,Referral,64.0
+C50530,2021-01-16,Germany,Email,30.0
+C50531,2024-08-12,  Germany ,Organic Search,44.0
+C50532,2023-12-04,France,Paid Social,41.0
+C50533,2022-02-07,Germany,Referral,31.0
+C50534,2024-05-21,Germany,Direct,40.0
+C50535,2024-08-14,NETHERLANDS,Organic Search,33.0
+C50536,2022-07-22,Germany,Email,34.0
+C50537,2024-10-15,Italy,Organic Search,18.0
+C50538,2023-05-14,SPAIN,Direct,
+C50539,2023-11-15,NETHERLANDS,Organic Search,49.0
+C50540,2024-12-17,ITALY,Email,39.0
+C50541,2023-01-05,Spain,Organic Search,51.0
+C50542,2024-07-02,GERMANY,Email,45.0
+C50543,2022-11-02,AUSTRIA,Email,37.0
+C50544,2024-06-18,Germany,Paid Social,30.0
+C50545,2023-11-12,Netherlands,Referral,32.0
+C50546,2022-05-18,France,Direct,20.0
+C50547,2023-03-21,Germany,Direct,35.0
+C50548,2022-11-01,Germany,Paid Social,40.0
+C50549,2021-08-08,Italy,Referral,
+C50550,2021-04-03,Germany,Email,44.0
+C50551,2022-12-14,Germany,Email,28.0
+C50552,2021-03-02,Germany,Paid Social,21.0
+C50553,2022-02-13,  France ,Email,36.0
+C50554,2024-03-31,Spain,Organic Search,48.0
+C50555,2024-03-13,Austria,Paid Social,35.0
+C50556,2024-04-15,France,Organic Search,45.0
+C50557,2022-10-31,DE,Organic Search,36.0
+C50558,2024-09-17,Germany,Organic Search,
+C50559,2023-11-04,France,Organic Search,19.0
+C50560,2021-11-24,Austria,Referral,57.0
+C50561,2021-12-31,Austria,Paid Social,25.0
+C50562,2024-02-25,Germany,Organic Search,48.0
+C50563,2022-02-27,NETHERLANDS,Referral,35.0
+C50564,2023-07-22,France,Direct,37.0
+C50565,2024-12-24,France,Direct,35.0
+C50566,2021-01-14,France,Referral,41.0
+C50567,2021-02-23,Netherlands,Direct,43.0
+C50568,2024-12-25,France,Email,51.0
+C50569,2023-10-24,Italy,Direct,55.0
+C50570,2021-11-26,France,Direct,42.0
+C50571,2024-09-24,GERMANY,Paid Social,59.0
+C50572,2024-09-08,Germany,Direct,39.0
+C50573,2023-08-27,France,Referral,51.0
+C50574,2023-12-07,France,Referral,43.0
+C50575,2022-08-23,France,Direct,31.0
+C50576,2021-05-30,Austria,Paid Social,40.0
+C50577,2023-11-05,Germany,Paid Social,44.0
+C50578,2022-09-26,Netherlands,Email,38.0
+C50579,2024-01-24,Netherlands,Referral,43.0
+C50580,2024-07-25,Germany,Direct,
+C50581,2021-02-28,Germany,Direct,38.0
+C50582,2023-11-06,Germany,Email,18.0
+C50583,2022-06-13,Germany,Direct,58.0
+C50584,2024-09-01,Austria,Organic Search,34.0
+C50585,2022-07-21,Spain,Direct,28.0
+C50586,2023-11-24,Netherlands,Organic Search,25.0
+C50587,2023-09-17,DE,Email,34.0
+C50588,2023-02-24,Netherlands,Organic Search,31.0
+C50589,2024-02-08,Austria,Email,29.0
+C50590,2024-04-01,Germany,Paid Social,30.0
+C50591,2023-10-03,SPAIN,Organic Search,44.0
+C50592,2024-05-06,Germany,Email,62.0
+C50593,2024-12-16,Germany,Referral,48.0
+C50594,2023-03-28,GERMANY,Organic Search,51.0
+C50595,2023-07-31,Germany,Email,33.0
+C50596,2021-02-10,Spain,Organic Search,39.0
+C50597,2024-06-14,France,Organic Search,
+C50598,2023-08-07,Germany,Organic Search,30.0
+C50599,2023-03-12,France,Email,33.0
+C50600,2021-09-15,GERMANY,Referral,48.0
+C50601,2024-09-17,Germany,Email,51.0
+C50602,2023-02-22,Germany,Referral,39.0
+C50603,2024-02-14,Netherlands,Email,24.0
+C50604,2022-01-12,Germany,Referral,34.0
+C50605,2024-11-25,Austria,Direct,21.0
+C50606,2022-03-10,  Germany ,Paid Social,39.0
+C50607,2022-04-18,Austria,Organic Search,41.0
+C50608,2024-08-17,Austria,Organic Search,35.0
+C50609,2024-10-09,Germany,Email,41.0
+C50610,2022-05-11,DE,Paid Social,43.0
+C50611,2023-06-03,Italy,Organic Search,41.0
+C50612,2024-04-09,France,Direct,24.0
+C50613,2024-09-06,Netherlands,Direct,35.0
+C50614,2023-01-31,  Germany ,Organic Search,43.0
+C50615,2023-08-03,Germany,Organic Search,57.0
+C50616,2024-04-18,France,Organic Search,35.0
+C50617,2024-04-07,Spain,Paid Social,45.0
+C50618,2024-06-01,Germany,Direct,49.0
+C50619,2023-10-07,Austria,Email,
+C50620,2021-10-09,Netherlands,Organic Search,52.0
+C50621,2024-10-01,Germany,Paid Social,52.0
+C50622,2024-08-24,Germany,Organic Search,
+C50623,2024-06-16,Germany,Paid Social,44.0
+C50624,2021-09-28,France,Paid Social,66.0
+C50625,2022-04-27,Netherlands,Email,31.0
+C50626,2024-04-20,France,Paid Social,63.0
+C50627,2021-03-15,Germany,Direct,
+C50628,2024-12-12,Netherlands,Organic Search,54.0
+C50629,2023-01-28,Netherlands,Referral,34.0
+C50630,2024-03-25,DE,Organic Search,48.0
+C50631,2024-09-15,France,Organic Search,55.0
+C50632,2023-02-22,Germany,Direct,25.0
+C50633,2022-11-03,Netherlands,Email,36.0
+C50634,2023-11-22,GERMANY,Organic Search,18.0
+C50635,2023-10-20,Germany,Paid Social,36.0
+C50636,2023-03-14,Germany,Email,28.0
+C50637,2023-11-13,Netherlands,Direct,35.0
+C50638,2024-10-31,Netherlands,Email,73.0
+C50639,2023-06-01,Germany,Organic Search,59.0
+C50640,2022-04-13,Spain,Paid Social,21.0
+C50641,2023-01-28,Spain,Organic Search,45.0
+C50642,2023-02-21,Germany,Organic Search,48.0
+C50643,2021-12-05,Netherlands,Email,34.0
+C50644,2022-02-08,Germany,Referral,40.0
+C50645,2024-02-16,Italy,Organic Search,41.0
+C50646,2022-12-04,Germany,Referral,22.0
+C50647,2024-11-19,Germany,Email,26.0
+C50648,2022-07-04,France,Referral,40.0
+C50649,2021-09-26,Germany,Organic Search,39.0
+C50650,2024-05-01,Netherlands,Paid Social,29.0
+C50651,2024-09-08,France,Organic Search,28.0
+C50652,2022-08-31,GERMANY,Organic Search,37.0
+C50653,2022-04-22,France,Organic Search,49.0
+C50654,2022-03-23,Spain,Paid Social,37.0
+C50655,2023-08-09,Austria,Organic Search,
+C50656,2023-06-02,France,Organic Search,30.0
+C50657,2022-07-31,Germany,Direct,40.0
+C50658,2021-05-16,Germany,Referral,34.0
+C50659,2023-06-19,Spain,Paid Social,45.0
+C50660,2024-11-23,Austria,Direct,29.0
+C50661,2024-01-11,France,Organic Search,61.0
+C50662,2023-07-07,Spain,Paid Social,18.0
+C50663,2021-10-22,Germany,Referral,59.0
+C50664,2022-07-19,Netherlands,Paid Social,39.0
+C50665,2022-09-26,GERMANY,Organic Search,45.0
+C50666,2024-05-13,Germany,Paid Social,54.0
+C50667,2024-09-04,France,Paid Social,48.0
+C50668,2024-09-29,Germany,Email,29.0
+C50669,2024-12-17,Italy,Paid Social,45.0
+C50670,2024-12-15,Germany,Paid Social,60.0
+C50671,2024-11-17,Austria,Organic Search,
+C50672,2021-07-24,Austria,Paid Social,63.0
+C50673,2021-12-19,NETHERLANDS,Organic Search,43.0
+C50674,2022-10-11,Italy,Direct,33.0
+C50675,2023-09-16,Germany,Referral,27.0
+C50676,2021-09-22,Germany,Paid Social,35.0
+C50677,2024-08-04,Germany,Referral,18.0
+C50678,2023-12-01,GERMANY,Organic Search,33.0
+C50679,2023-09-03,Spain,Paid Social,35.0
+C50680,2022-02-12,France,Paid Social,25.0
+C50681,2022-07-21,Germany,Paid Social,47.0
+C50682,2022-02-03,Germany,Referral,35.0
+C50683,2024-08-10,France,Direct,30.0
+C50684,2023-10-24,Austria,Paid Social,34.0
+C50685,2024-04-11,Germany,Paid Social,42.0
+C50686,2022-09-28,AUSTRIA,Email,39.0
+C50687,2023-01-19,Netherlands,Organic Search,30.0
+C50688,2023-03-08,Austria,Organic Search,40.0
+C50689,2024-05-08,Germany,Direct,
+C50690,2024-05-21,Netherlands,Referral,24.0
+C50691,2022-05-01,Germany,Direct,35.0
+C50692,2024-11-06,Germany,Organic Search,45.0
+C50693,2021-11-13,AUSTRIA,Organic Search,45.0
+C50694,2024-09-23,Netherlands,Paid Social,35.0
+C50695,2021-09-29,Germany,Direct,46.0
+C50696,2022-08-08,SPAIN,Organic Search,
+C50697,2024-08-05,Germany,Organic Search,27.0
+C50698,2022-03-12,Netherlands,Organic Search,35.0
+C50699,2023-03-20,Italy,Referral,56.0
+C50700,2023-05-08,France,Referral,
+C50701,2022-07-07,DE,Email,35.0
+C50702,2024-03-15,Netherlands,Organic Search,57.0
+C50703,2024-08-10,Austria,Email,35.0
+C50704,2024-09-02,Netherlands,Paid Social,65.0
+C50705,2022-12-04,NETHERLANDS,Organic Search,32.0
+C50706,2023-08-20,Germany,Organic Search,26.0
+C50707,2022-07-12,Austria,Paid Social,36.0
+C50708,2022-07-06,Germany,Paid Social,35.0
+C50709,2022-02-04,Italy,Direct,28.0
+C50710,2024-11-05,DE,Paid Social,69.0
+C50711,2024-09-15,Germany,Paid Social,42.0
+C50712,2024-05-26,Spain,Email,44.0
+C50713,2023-08-04,Germany,Email,32.0
+C50714,2023-06-30,Germany,Organic Search,31.0
+C50715,2023-08-19,Austria,Email,50.0
+C50716,2023-08-27,GERMANY,Organic Search,18.0
+C50717,2023-04-18,GERMANY,Paid Social,24.0
+C50718,2021-12-07,France,Email,35.0
+C50719,2021-11-24,  Germany ,Email,54.0
+C50720,2024-11-16,Germany,Paid Social,34.0
+C50721,2023-06-19,Germany,Organic Search,43.0
+C50722,2024-11-17,Germany,Paid Social,38.0
+C50723,2022-02-09,Germany,Paid Social,54.0
+C50724,2023-09-18,Germany,Direct,19.0
+C50725,2022-05-03,Netherlands,Paid Social,47.0
+C50726,2022-07-21,Netherlands,Direct,36.0
+C50727,2021-04-04,GERMANY,Paid Social,49.0
+C50728,2021-11-09,Germany,Referral,28.0
+C50729,2024-10-13,Spain,Organic Search,38.0
+C50730,2022-11-07,NETHERLANDS,Organic Search,37.0
+C50731,2023-11-21,Germany,Organic Search,26.0
+C50732,2023-05-28,FRANCE,Organic Search,23.0
+C50733,2023-03-02,Germany,Direct,31.0
+C50734,2023-08-21,Austria,Email,40.0
+C50735,2022-03-26,Spain,Email,29.0
+C50736,2024-12-21,Spain,Paid Social,34.0
+C50737,2024-07-07,Germany,Email,18.0
+C50738,2024-04-18,Germany,Email,34.0
+C50739,2023-06-02,  GERMANY ,Referral,50.0
+C50740,2022-01-19,Germany,Email,46.0
+C50741,2024-10-17,Germany,Referral,37.0
+C50742,2022-12-07,Netherlands,Organic Search,41.0
+C50743,2021-05-29,Germany,Direct,28.0
+C50744,2022-12-08,Spain,Organic Search,57.0
+C50745,2024-06-13,DE,Paid Social,63.0
+C50746,2023-12-08,Germany,Direct,40.0
+C50747,2024-04-28,Spain,Organic Search,69.0
+C50748,2024-06-12,DE,Organic Search,30.0
+C50749,2022-05-10,Germany,Paid Social,23.0
+C50750,2024-10-20,Netherlands,Paid Social,29.0
+C50751,2023-04-22,Germany,Direct,35.0
+C50752,2023-12-27,Germany,Referral,66.0
+C50753,2021-01-08,France,Paid Social,35.0
+C50754,2024-12-25,GERMANY,Direct,28.0
+C50755,2022-09-04,  NETHERLANDS ,Email,27.0
+C50756,2021-06-29,Germany,Direct,52.0
+C50757,2023-05-19,Netherlands,Organic Search,50.0
+C50758,2021-12-01,Austria,Paid Social,32.0
+C50759,2022-01-18,Germany,Organic Search,18.0
+C50760,2023-12-19,Germany,Organic Search,24.0
+C50761,2023-02-19,DE,Email,
+C50762,2024-10-18,Austria,Organic Search,46.0
+C50763,2022-11-03,Netherlands,Paid Social,39.0
+C50764,2024-04-01,Netherlands,Email,60.0
+C50765,2023-05-23,Germany,Organic Search,61.0
+C50766,2024-01-19,Germany,Paid Social,38.0
+C50767,2023-11-11,France,Email,38.0
+C50768,2023-06-07,Germany,Direct,31.0
+C50769,2024-11-14,Austria,Organic Search,35.0
+C50770,2022-12-09,GERMANY,Direct,20.0
+C50771,2022-03-07,Germany,Referral,20.0
+C50772,2024-02-09,France,Email,18.0
+C50773,2024-08-04,DE,Paid Social,
+C50774,2021-05-03,Netherlands,Email,19.0
+C50775,2023-05-08,France,Referral,61.0
+C50776,2024-09-20,Spain,Organic Search,29.0
+C50777,2024-04-27,Spain,Direct,59.0
+C50778,2024-12-24,Spain,Direct,34.0
+C50779,2023-08-21,NETHERLANDS,Paid Social,19.0
+C50780,2024-01-19,Netherlands,Email,53.0
+C50781,2022-10-08,Netherlands,Paid Social,55.0
+C50782,2024-11-12,France,Referral,27.0
+C50783,2023-01-12,GERMANY,Referral,34.0
+C50784,2024-04-15,Netherlands,Organic Search,27.0
+C50785,2023-03-06,Germany,Organic Search,37.0
+C50786,2023-09-27,Germany,Paid Social,39.0
+C50787,2024-03-25,Spain,Direct,34.0
+C50788,2023-07-24,Germany,Paid Social,
+C50789,2024-10-04,France,Direct,31.0
+C50790,2023-03-28,Netherlands,Paid Social,46.0
+C50791,2024-01-05,GERMANY,Organic Search,35.0
+C50792,2022-12-08,Spain,Direct,34.0
+C50793,2023-03-12,Germany,Email,27.0
+C50794,2023-04-25,Spain,Paid Social,31.0
+C50795,2021-11-24,Austria,Organic Search,55.0
+C50796,2021-09-09,Germany,Organic Search,24.0
+C50797,2024-01-28,Germany,Organic Search,47.0
+C50798,2024-01-14,Germany,Paid Social,
+C50799,2024-01-23,DE,Email,41.0
+C50800,2021-03-04,Germany,Organic Search,29.0
+C50801,2022-11-14,Italy,Organic Search,34.0
+C50802,2022-04-15,Germany,Organic Search,38.0
+C50803,2024-05-27,Spain,Paid Social,32.0
+C50804,2024-08-19,GERMANY,Direct,42.0
+C50805,2022-07-10,Italy,Paid Social,43.0
+C50806,2024-01-28,Germany,Organic Search,64.0
+C50807,2021-12-02,France,Email,41.0
+C50808,2022-08-26,France,Direct,18.0
+C50809,2021-12-21,Germany,Referral,
+C50810,2022-09-08,Austria,Referral,36.0
+C50811,2024-02-05,Germany,Direct,62.0
+C50812,2024-10-07,France,Email,56.0
+C50813,2022-04-23,DE,Direct,32.0
+C50814,2023-09-03,Netherlands,Organic Search,47.0
+C50815,2024-03-05,  Germany ,Referral,31.0
+C50816,2024-11-17,Germany,Direct,
+C50817,2023-11-23,Germany,Direct,46.0
+C50818,2022-07-24,Germany,Paid Social,51.0
+C50819,2023-12-11,Germany,Referral,49.0
+C50820,2022-11-05,Italy,Organic Search,39.0
+C50821,2024-12-09,France,Email,68.0
+C50822,2023-03-01,Netherlands,Paid Social,34.0
+C50823,2024-02-17,GERMANY,Email,19.0
+C50824,2021-03-15,Germany,Email,21.0
+C50825,2023-03-01,France,Paid Social,56.0
+C50826,2024-09-02,Germany,Organic Search,37.0
+C50827,2023-11-23,Germany,Paid Social,40.0
+C50828,2023-04-30,France,Email,
+C50829,2024-11-01,France,Email,33.0
+C50830,2024-08-12,Italy,Referral,29.0
+C50831,2022-11-08,  GERMANY ,Organic Search,44.0
+C50832,2023-09-06,France,Referral,37.0
+C50833,2023-06-29,Germany,Email,43.0
+C50834,2023-12-19,Germany,Organic Search,42.0
+C50835,2022-11-26,Austria,Paid Social,33.0
+C50836,2022-07-05,Germany,Paid Social,20.0
+C50837,2024-10-09,Netherlands,Paid Social,19.0
+C50838,2024-10-20,Germany,Organic Search,74.0
+C50839,2024-08-02,GERMANY,Organic Search,56.0
+C50840,2024-12-11,Italy,Organic Search,54.0
+C50841,2024-04-22,Germany,Organic Search,30.0
+C50842,2024-05-12,Austria,Organic Search,38.0
+C50843,2024-05-10,Germany,Referral,28.0
+C50844,2023-06-17,Italy,Paid Social,22.0
+C50845,2023-05-17,Germany,Paid Social,31.0
+C50846,2022-06-29,Germany,Email,54.0
+C50847,2024-01-02,  Austria ,Paid Social,48.0
+C50848,2022-09-17,Germany,Organic Search,
+C50849,2022-07-28,Germany,Organic Search,34.0
+C50850,2023-10-26,Italy,Organic Search,47.0
+C50851,2023-03-15,France,Email,
+C50852,2022-05-22,Netherlands,Paid Social,39.0
+C50853,2024-07-05,Netherlands,Paid Social,43.0
+C50854,2024-08-19,  Spain ,Email,43.0
+C50855,2022-02-17,SPAIN,Direct,41.0
+C50856,2021-01-25,France,Paid Social,30.0
+C50857,2022-11-29,Germany,Paid Social,
+C50858,2024-06-16,Germany,Paid Social,24.0
+C50859,2024-07-28,Netherlands,Email,19.0
+C50860,2021-12-20,SPAIN,Referral,37.0
+C50861,2024-05-23,France,Email,48.0
+C50862,2021-11-02,Germany,Organic Search,21.0
+C50863,2023-02-15,Germany,Paid Social,41.0
+C50864,2024-12-30,France,Referral,47.0
+C50865,2022-04-05,Spain,Paid Social,18.0
+C50866,2022-01-21,Germany,Direct,35.0
+C50867,2023-04-02,Netherlands,Paid Social,58.0
+C50868,2023-12-04,Austria,Paid Social,45.0
+C50869,2024-10-29,Italy,Paid Social,18.0
+C50870,2024-12-14,DE,Paid Social,46.0
+C50871,2021-07-18,Italy,Referral,
+C50872,2021-12-20,Netherlands,Organic Search,46.0
+C50873,2024-06-09,Austria,Email,30.0
+C50874,2022-08-18,GERMANY,Email,37.0
+C50875,2024-09-12,France,Direct,32.0
+C50876,2024-01-23,Netherlands,Email,38.0
+C50877,2021-10-25,Germany,Direct,31.0
+C50878,2024-07-22,FRANCE,Direct,35.0
+C50879,2022-03-06,France,Paid Social,24.0
+C50880,2023-04-03,France,Direct,44.0
+C50881,2023-09-15,Germany,Direct,40.0
+C50882,2023-07-13,France,Organic Search,19.0
+C50883,2024-02-18,Germany,Email,50.0
+C50884,2024-01-11,Spain,Organic Search,36.0
+C50885,2024-12-24,Italy,Email,40.0
+C50886,2024-12-31,Germany,Organic Search,47.0
+C50887,2023-08-02,Germany,Referral,42.0
+C50888,2021-09-17,Germany,Paid Social,52.0
+C50889,2024-04-03,France,Email,34.0
+C50890,2024-12-10,Spain,Organic Search,50.0
+C50891,2022-11-02,France,Email,39.0
+C50892,2023-05-23,Germany,Paid Social,44.0
+C50893,2023-04-04,Germany,Email,43.0
+C50894,2021-06-02,Germany,Paid Social,53.0
+C50895,2024-02-02,Spain,Organic Search,47.0
+C50896,2022-12-24,Netherlands,Paid Social,33.0
+C50897,2024-06-05,  France ,Direct,30.0
+C50898,2024-07-21,Germany,Organic Search,37.0
+C50899,2024-07-10,Italy,Email,29.0
+C50900,2023-03-24,Germany,Organic Search,25.0
+C50901,2022-11-07,Spain,Email,18.0
+C50902,2024-04-26,Spain,Organic Search,19.0
+C50903,2024-06-20,France,Paid Social,62.0
+C50904,2023-07-01,Spain,Paid Social,30.0
+C50905,2024-09-20,Germany,Organic Search,61.0
+C50906,2022-01-01,Netherlands,Paid Social,43.0
+C50907,2024-09-06,Germany,Paid Social,37.0
+C50908,2021-09-20,France,Paid Social,20.0
+C50909,2022-01-20,Germany,Direct,
+C50910,2023-08-24,Germany,Paid Social,61.0
+C50911,2021-07-13,Germany,Direct,57.0
+C50912,2021-06-05,Germany,Paid Social,41.0
+C50913,2021-01-02,Netherlands,Organic Search,24.0
+C50914,2023-04-20,France,Organic Search,
+C50915,2024-05-23,Germany,Paid Social,28.0
+C50916,2021-04-17,Italy,Paid Social,53.0
+C50917,2024-01-11,Italy,Direct,58.0
+C50918,2024-07-12,Germany,Email,40.0
+C50919,2022-02-18,Germany,Email,34.0
+C50920,2022-01-07,  Netherlands ,Paid Social,57.0
+C50921,2024-08-19,AUSTRIA,Paid Social,26.0
+C50922,2024-07-12,  Germany ,Email,39.0
+C50923,2023-08-30,Austria,Organic Search,44.0
+C50924,2024-07-08,Germany,Organic Search,28.0
+C50925,2021-09-12,Germany,Organic Search,30.0
+C50926,2023-02-21,Austria,Organic Search,29.0
+C50927,2024-04-14,Netherlands,Email,55.0
+C50928,2022-07-28,Spain,Organic Search,61.0
+C50929,2024-04-29,Germany,Organic Search,39.0
+C50930,2023-07-18,Germany,Direct,35.0
+C50931,2024-04-27,Germany,Direct,31.0
+C50932,2023-05-28,Germany,Paid Social,38.0
+C50933,2023-01-15,Germany,Paid Social,31.0
+C50934,2022-05-23,France,Referral,37.0
+C50935,2022-05-04,France,Organic Search,43.0
+C50936,2024-04-29,  Netherlands ,Paid Social,33.0
+C50937,2021-11-09,Germany,Organic Search,36.0
+C50938,2021-08-27,Germany,Paid Social,36.0
+C50939,2022-03-05,Netherlands,Direct,34.0
+C50940,2022-03-04,Germany,Referral,33.0
+C50941,2024-07-12,Spain,Direct,47.0
+C50942,2023-02-27,Germany,Referral,18.0
+C50943,2024-12-23,  France ,Email,57.0
+C50944,2021-12-18,Spain,Referral,40.0
+C50945,2024-01-12,France,Email,45.0
+C50946,2023-05-07,Netherlands,Paid Social,47.0
+C50947,2023-02-19,Netherlands,Organic Search,30.0
+C50948,2024-09-02,Germany,Paid Social,27.0
+C50949,2024-12-09,Netherlands,Organic Search,26.0
+C50950,2024-08-31,Spain,Paid Social,35.0
+C50951,2022-04-05,Italy,Organic Search,46.0
+C50952,2022-05-26,France,Email,31.0
+C50953,2024-01-15,Germany,Organic Search,45.0
+C50954,2022-09-17,Austria,Organic Search,
+C50955,2024-04-11,France,Paid Social,33.0
+C50956,2023-10-02,Germany,Organic Search,52.0
+C50957,2023-09-14,DE,Direct,36.0
+C50958,2024-07-18,Germany,Paid Social,28.0
+C50959,2024-03-15,France,Paid Social,30.0
+C50960,2021-03-25,Germany,Organic Search,18.0
+C50961,2021-05-28,Germany,Referral,26.0
+C50962,2023-11-13,Germany,Email,51.0
+C50963,2023-06-25,Italy,Paid Social,31.0
+C50964,2022-08-01,Germany,Organic Search,32.0
+C50965,2023-03-27,GERMANY,Referral,18.0
+C50966,2024-05-05,France,Direct,18.0
+C50967,2024-07-16,Germany,Paid Social,52.0
+C50968,2023-09-26,  Italy ,Organic Search,45.0
+C50969,2023-02-09,Spain,Organic Search,22.0
+C50970,2022-08-18,Germany,Organic Search,30.0
+C50971,2023-08-09,France,Referral,38.0
+C50972,2022-10-27,Germany,Direct,24.0
+C50973,2023-09-30,Germany,Direct,18.0
+C50974,2024-02-07,Germany,Referral,36.0
+C50975,2021-07-10,Germany,Organic Search,45.0
+C50976,2021-01-04,Germany,Direct,45.0
+C50977,2022-05-11,France,Paid Social,49.0
+C50978,2024-09-22,Germany,Paid Social,19.0
+C50979,2024-01-04,Germany,Email,39.0
+C50980,2022-02-25,France,Organic Search,35.0
+C50981,2024-09-17,France,Referral,
+C50982,2023-06-04,Germany,Direct,35.0
+C50983,2023-06-12,Germany,Referral,30.0
+C50984,2024-10-31,Germany,Referral,18.0
+C50985,2021-06-23,GERMANY,Paid Social,52.0
+C50986,2022-05-16,Austria,Organic Search,42.0
+C50987,2023-10-26,Spain,Referral,20.0
+C50988,2022-04-10,Germany,Email,44.0
+C50989,2024-02-10,GERMANY,Direct,33.0
+C50990,2022-05-14,Austria,Organic Search,33.0
+C50991,2021-09-27,Netherlands,Organic Search,29.0
+C50992,2022-05-01,Germany,Paid Social,44.0
+C50993,2023-04-02,Germany,Email,28.0
+C50994,2022-03-05,France,Referral,25.0
+C50995,2021-12-13,France,Direct,52.0
+C50996,2024-08-19,DE,Organic Search,36.0
+C50997,2022-11-05,Germany,Paid Social,36.0
+C50998,2023-01-04,Germany,Organic Search,
+C50999,2021-06-12,Germany,Organic Search,30.0
+C51000,2022-12-30,  France ,Paid Social,32.0
+C51001,2022-08-09,Netherlands,Email,42.0
+C51002,2023-11-24,France,Paid Social,
+C51003,2022-04-28,Germany,Paid Social,41.0
+C51004,2024-09-15,Germany,Email,29.0
+C51005,2024-10-26,Spain,Referral,48.0
+C51006,2021-09-28,France,Organic Search,45.0
+C51007,2021-10-15,Germany,Paid Social,43.0
+C51008,2021-11-01,Germany,Email,19.0
+C51009,2023-12-04,Austria,Referral,37.0
+C51010,2021-11-16,Austria,Referral,24.0
+C51011,2024-08-11,SPAIN,Organic Search,38.0
+C51012,2024-05-01,Netherlands,Paid Social,18.0
+C51013,2024-07-09,France,Direct,20.0
+C51014,2023-08-14,FRANCE,Paid Social,52.0
+C51015,2024-12-28,Germany,Paid Social,
+C51016,2021-05-13,Netherlands,Direct,34.0
+C51017,2023-03-03,Netherlands,Organic Search,27.0
+C51018,2022-11-10,Germany,Email,25.0
+C51019,2024-11-13,Spain,Direct,40.0
+C51020,2023-10-15,Germany,Organic Search,34.0
+C51021,2024-06-25,GERMANY,Email,57.0
+C51022,2022-02-22,Germany,Paid Social,36.0
+C51023,2024-12-11,Spain,Direct,39.0
+C51024,2023-07-11,Spain,Direct,21.0
+C51025,2023-07-04,France,Direct,34.0
+C51026,2024-12-04,Italy,Organic Search,40.0
+C51027,2023-02-02,  Spain ,Referral,34.0
+C51028,2023-02-26,Spain,Direct,32.0
+C51029,2023-10-24,Spain,Email,42.0
+C51030,2021-11-29,Germany,Email,56.0
+C51031,2022-11-06,Austria,Organic Search,40.0
+C51032,2022-04-06,FRANCE,Direct,52.0
+C51033,2021-10-06,Austria,Organic Search,45.0
+C51034,2024-08-24,Germany,Paid Social,51.0
+C51035,2023-10-30,Austria,Direct,31.0
+C51036,2023-01-01,Italy,Direct,36.0
+C51037,2023-03-13,Germany,Direct,36.0
+C51038,2023-04-13,DE,Paid Social,45.0
+C51039,2023-12-20,Germany,Organic Search,48.0
+C51040,2024-10-23,Germany,Paid Social,40.0
+C51041,2024-10-29,Germany,Organic Search,
+C51042,2023-02-17,Austria,Direct,31.0
+C51043,2022-11-18,France,Email,49.0
+C51044,2023-05-10,Germany,Paid Social,50.0
+C51045,2023-10-04,Netherlands,Organic Search,46.0
+C51046,2023-05-24,Germany,Paid Social,40.0
+C51047,2024-01-18,DE,Direct,47.0
+C51048,2023-09-18,SPAIN,Email,27.0
+C51049,2022-11-05,Netherlands,Organic Search,40.0
+C51050,2022-12-13,DE,Organic Search,42.0
+C51051,2023-01-30,Netherlands,Paid Social,22.0
+C51052,2021-09-16,ITALY,Organic Search,44.0
+C51053,2022-02-14,Germany,Direct,23.0
+C51054,2024-03-29,Germany,Email,33.0
+C51055,2023-02-14,Germany,Organic Search,38.0
+C51056,2022-05-15,France,Referral,29.0
+C51057,2023-09-28,Netherlands,Paid Social,39.0
+C51058,2024-05-03,Austria,Organic Search,39.0
+C51059,2022-07-28,Germany,Email,28.0
+C51060,2024-07-16,Germany,Organic Search,45.0
+C51061,2024-10-24,Netherlands,Paid Social,
+C51062,2023-11-08,Italy,Referral,65.0
+C51063,2024-01-29,Germany,Direct,37.0
+C51064,2021-06-05,Germany,Paid Social,24.0
+C51065,2024-11-10,Germany,Email,26.0
+C51066,2023-02-19,France,Organic Search,52.0
+C51067,2024-10-20,Germany,Email,33.0
+C51068,2023-10-18,Germany,Organic Search,22.0
+C51069,2021-01-16,Netherlands,Email,48.0
+C51070,2021-04-28,Germany,Organic Search,33.0
+C51071,2024-02-11,GERMANY,Direct,46.0
+C51072,2023-09-28,Germany,Direct,49.0
+C51073,2021-03-25,Spain,Paid Social,41.0
+C51074,2024-04-20,Germany,Referral,67.0
+C51075,2024-08-10,Germany,Organic Search,18.0
+C51076,2023-07-08,Germany,Referral,28.0
+C51077,2023-05-29,Netherlands,Organic Search,35.0
+C51078,2021-01-19,DE,Organic Search,
+C51079,2024-06-04,Germany,Email,60.0
+C51080,2022-11-21,Germany,Paid Social,53.0
+C51081,2024-09-06,Germany,Paid Social,28.0
+C51082,2023-01-22,Netherlands,Paid Social,30.0
+C51083,2023-10-01,Italy,Organic Search,28.0
+C51084,2022-08-18,France,Organic Search,29.0
+C51085,2022-02-03,Germany,Email,56.0
+C51086,2024-05-23,Austria,Email,35.0
+C51087,2023-07-08,Austria,Organic Search,37.0
+C51088,2023-08-27,GERMANY,Paid Social,47.0
+C51089,2024-11-29,Germany,Email,18.0
+C51090,2024-11-27,Germany,Email,39.0
+C51091,2024-08-14,Austria,Referral,25.0
+C51092,2022-03-27,  Netherlands ,Paid Social,34.0
+C51093,2023-11-05,DE,Paid Social,31.0
+C51094,2024-09-05,Spain,Email,30.0
+C51095,2023-01-24,Germany,Paid Social,41.0
+C51096,2021-10-01,Germany,Organic Search,41.0
+C51097,2024-06-30,Germany,Organic Search,35.0
+C51098,2023-06-19,DE,Referral,42.0
+C51099,2023-09-30,Netherlands,Organic Search,28.0
+C51100,2024-12-15,Germany,Email,46.0
+C51101,2023-11-20,Germany,Email,36.0
+C51102,2023-04-05,Austria,Paid Social,32.0
+C51103,2023-01-18,Austria,Referral,28.0
+C51104,2023-03-26,Netherlands,Email,35.0
+C51105,2021-11-08,Germany,Organic Search,60.0
+C51106,2024-06-13,Spain,Referral,37.0
+C51107,2024-07-27,AUSTRIA,Paid Social,24.0
+C51108,2022-09-10,Netherlands,Paid Social,49.0
+C51109,2022-10-10,Netherlands,Email,32.0
+C51110,2024-09-02,Spain,Email,41.0
+C51111,2021-03-17,Italy,Paid Social,31.0
+C51112,2023-08-07,Netherlands,Direct,53.0
+C51113,2023-05-26,Germany,Email,31.0
+C51114,2024-02-22,Germany,Email,55.0
+C51115,2022-02-09,  AUSTRIA ,Organic Search,25.0
+C51116,2024-01-29,Netherlands,Organic Search,34.0
+C51117,2023-01-27,Germany,Paid Social,55.0
+C51118,2023-12-03,Germany,Email,40.0
+C51119,2021-05-02,Spain,Paid Social,65.0
+C51120,2023-05-24,Spain,Referral,35.0
+C51121,2023-08-09,Italy,Organic Search,41.0
+C51122,2022-05-14,France,Email,61.0
+C51123,2021-12-23,Austria,Referral,20.0
+C51124,2022-03-28,Spain,Referral,18.0
+C51125,2022-12-11,  Germany ,Referral,28.0
+C51126,2021-09-21,Germany,Direct,48.0
+C51127,2024-11-12,Italy,Organic Search,
+C51128,2023-03-08,Germany,Email,45.0
+C51129,2024-06-28,Netherlands,Direct,44.0
+C51130,2024-12-07,Netherlands,Email,62.0
+C51131,2021-08-15,Netherlands,Organic Search,51.0
+C51132,2024-01-10,Germany,Direct,42.0
+C51133,2024-08-30,Austria,Organic Search,54.0
+C51134,2023-12-21,Germany,Paid Social,44.0
+C51135,2023-04-10,  Spain ,Organic Search,32.0
+C51136,2023-04-13,Germany,Paid Social,24.0
+C51137,2021-04-20,Netherlands,Paid Social,31.0
+C51138,2023-08-25,AUSTRIA,Paid Social,38.0
+C51139,2024-12-25,Germany,Direct,40.0
+C51140,2024-11-23,Germany,Paid Social,18.0
+C51141,2021-05-03,Austria,Paid Social,35.0
+C51142,2024-03-10,Germany,Direct,
+C51143,2022-10-07,Germany,Referral,45.0
+C51144,2024-09-30,France,Organic Search,58.0
+C51145,2021-05-16,Italy,Organic Search,40.0
+C51146,2024-11-01,France,Email,27.0
+C51147,2024-07-27,Germany,Referral,18.0
+C51148,2021-11-06,ITALY,Email,46.0
+C51149,2021-06-24,France,Organic Search,28.0
+C51150,2024-07-24,France,Referral,
+C51151,2022-01-25,Germany,Email,55.0
+C51152,2023-08-25,Germany,Email,19.0
+C51153,2024-10-12,Germany,Direct,45.0
+C51154,2023-10-04,Netherlands,Referral,54.0
+C51155,2023-02-25,Germany,Email,50.0
+C51156,2023-05-02,Netherlands,Email,18.0
+C51157,2021-07-02,Germany,Email,28.0
+C51158,2024-12-02,Germany,Paid Social,23.0
+C51159,2022-10-21,Germany,Paid Social,44.0
+C51160,2022-03-30,France,Email,43.0
+C51161,2022-09-12,AUSTRIA,Email,18.0
+C51162,2024-11-28,Germany,Paid Social,34.0
+C51163,2021-09-15,Germany,Organic Search,48.0
+C51164,2024-08-26,DE,Email,40.0
+C51165,2024-03-12,Austria,Email,40.0
+C51166,2024-07-19,Germany,Paid Social,34.0
+C51167,2024-12-09,AUSTRIA,Paid Social,25.0
+C51168,2024-07-31,Germany,Organic Search,38.0
+C51169,2024-11-08,DE,Direct,39.0
+C51170,2021-11-26,Austria,Direct,45.0
+C51171,2024-06-14,FRANCE,Email,46.0
+C51172,2023-09-07,Germany,Paid Social,39.0
+C51173,2023-09-05,Italy,Referral,51.0
+C51174,2024-09-26,GERMANY,Paid Social,34.0
+C51175,2024-12-05,Germany,Direct,21.0
+C51176,2024-03-09,Germany,Organic Search,44.0
+C51177,2023-06-20,  FRANCE ,Organic Search,40.0
+C51178,2023-05-17,Austria,Email,44.0
+C51179,2023-02-10,Germany,Organic Search,23.0
+C51180,2023-01-05,  Italy ,Email,59.0
+C51181,2023-02-17,Netherlands,Referral,47.0
+C51182,2021-09-05,Italy,Organic Search,
+C51183,2021-08-07,Austria,Paid Social,27.0
+C51184,2024-05-28,Italy,Email,51.0
+C51185,2023-05-03,Netherlands,Referral,25.0
+C51186,2024-10-27,Germany,Paid Social,65.0
+C51187,2023-11-26,  France ,Organic Search,31.0
+C51188,2021-04-18,Netherlands,Email,59.0
+C51189,2022-01-28,France,Paid Social,36.0
+C51190,2022-04-29,Austria,Referral,57.0
+C51191,2024-12-09,Germany,Email,29.0
+C51192,2022-05-22,Spain,Organic Search,38.0
+C51193,2023-08-01,Germany,Referral,48.0
+C51194,2024-11-01,Italy,Paid Social,46.0
+C51195,2024-12-10,Germany,Organic Search,51.0
+C51196,2022-06-22,Germany,Email,32.0
+C51197,2021-05-27,Austria,Direct,39.0
+C51198,2022-01-20,Austria,Email,53.0
+C51199,2021-07-03,Austria,Organic Search,30.0
+C51200,2022-04-10,Italy,Email,45.0
+C51201,2023-10-05,Germany,Organic Search,35.0
+C51202,2024-10-09,SPAIN,Paid Social,40.0
+C51203,2023-08-28,Germany,Paid Social,39.0
+C51204,2023-12-12,France,Organic Search,29.0
+C51205,2022-04-22,FRANCE,Paid Social,35.0
+C51206,2024-06-19,Germany,Direct,40.0
+C51207,2023-12-02,France,Organic Search,37.0
+C51208,2024-08-22,Austria,Referral,
+C51209,2024-11-13,Germany,Email,50.0
+C51210,2022-12-16,Italy,Paid Social,41.0
+C51211,2021-09-07,France,Organic Search,29.0
+C51212,2022-06-04,Germany,Organic Search,28.0
+C51213,2023-04-22,Netherlands,Organic Search,62.0
+C51214,2024-11-10,Germany,Email,26.0
+C51215,2023-01-29,Germany,Direct,39.0
+C51216,2024-05-19,Netherlands,Direct,42.0
+C51217,2023-09-01,Germany,Organic Search,34.0
+C51218,2022-03-18,Germany,Organic Search,
+C51219,2022-11-05,AUSTRIA,Organic Search,29.0
+C51220,2024-01-12,Germany,Direct,31.0
+C51221,2024-02-03,DE,Organic Search,29.0
+C51222,2023-04-18,Austria,Organic Search,54.0
+C51223,2022-06-09,GERMANY,Email,38.0
+C51224,2024-03-28,France,Email,32.0
+C51225,2022-02-19,Germany,Organic Search,39.0
+C51226,2024-11-02,Netherlands,Email,46.0
+C51227,2022-03-27,Germany,Organic Search,34.0
+C51228,2021-10-15,Italy,Organic Search,49.0
+C51229,2023-07-09,Germany,Organic Search,23.0
+C51230,2023-08-06,Netherlands,Paid Social,52.0
+C51231,2023-07-23,Germany,Direct,38.0
+C51232,2023-04-20,Germany,Paid Social,37.0
+C51233,2024-12-27,France,Referral,30.0
+C51234,2023-06-25,France,Paid Social,23.0
+C51235,2023-06-14,Italy,Email,18.0
+C51236,2023-03-31,Germany,Direct,29.0
+C51237,2021-07-11,Germany,Paid Social,45.0
+C51238,2023-11-03,Germany,Direct,26.0
+C51239,2022-06-07,DE,Email,19.0
+C51240,2023-12-25,Spain,Referral,27.0
+C51241,2021-05-31,Spain,Organic Search,33.0
+C51242,2024-12-14,SPAIN,Email,34.0
+C51243,2023-06-02,Germany,Paid Social,36.0
+C51244,2024-09-24,Germany,Direct,50.0
+C51245,2023-06-11,Austria,Direct,53.0
+C51246,2021-06-25,Germany,Paid Social,62.0
+C51247,2024-07-11,Netherlands,Direct,19.0
+C51248,2024-01-06,Germany,Direct,28.0
+C51249,2024-05-30,Germany,Email,46.0
+C51250,2023-04-09,Spain,Organic Search,33.0
+C51251,2023-12-25,Germany,Organic Search,48.0
+C51252,2024-08-15,Italy,Organic Search,40.0
+C51253,2023-12-18,Germany,Organic Search,57.0
+C51254,2022-12-16,Germany,Direct,51.0
+C51255,2024-01-22,Germany,Organic Search,51.0
+C51256,2024-02-02,Germany,Email,33.0
+C51257,2024-11-24,France,Email,
+C51258,2023-01-19,GERMANY,Email,34.0
+C51259,2023-04-05,Netherlands,Organic Search,20.0
+C51260,2024-07-01,Spain,Email,
+C51261,2023-07-20,Germany,Email,47.0
+C51262,2024-04-13,Germany,Email,34.0
+C51263,2023-05-21,Germany,Organic Search,54.0
+C51264,2022-05-17,Austria,Email,
+C51265,2024-04-22,Netherlands,Organic Search,18.0
+C51266,2021-12-05,Germany,Email,50.0
+C51267,2022-04-16,France,Paid Social,
+C51268,2023-12-13,DE,Organic Search,36.0
+C51269,2024-04-24,Germany,Referral,40.0
+C51270,2024-09-22,DE,Organic Search,43.0
+C51271,2022-08-22,Italy,Direct,48.0
+C51272,2021-10-22,Germany,Direct,45.0
+C51273,2024-11-20,Germany,Paid Social,45.0
+C51274,2022-01-22,Germany,Organic Search,29.0
+C51275,2022-04-14,France,Organic Search,42.0
+C51276,2022-09-21,France,Direct,20.0
+C51277,2023-08-18,Germany,Email,57.0
+C51278,2024-09-10,France,Organic Search,21.0
+C51279,2024-05-08,Netherlands,Paid Social,34.0
+C51280,2024-03-13,Germany,Organic Search,22.0
+C51281,2022-03-03,SPAIN,Email,29.0
+C51282,2022-12-31,Germany,Paid Social,38.0
+C51283,2023-06-15,Germany,Organic Search,32.0
+C51284,2022-01-08,Italy,Referral,52.0
+C51285,2022-08-23,Austria,Organic Search,41.0
+C51286,2022-10-17,Germany,Paid Social,32.0
+C51287,2021-11-27,Spain,Email,36.0
+C51288,2023-09-13,France,Direct,53.0
+C51289,2024-03-09,Germany,Paid Social,49.0
+C51290,2021-07-19,Spain,Direct,24.0
+C51291,2023-06-18,Austria,Paid Social,30.0
+C51292,2024-05-31,Germany,Direct,44.0
+C51293,2024-04-25,Netherlands,Organic Search,42.0
+C51294,2024-07-04,Germany,Email,25.0
+C51295,2023-05-06,Germany,Organic Search,47.0
+C51296,2024-07-09,Italy,Direct,
+C51297,2022-06-30,France,Direct,54.0
+C51298,2023-01-04,Netherlands,Paid Social,44.0
+C51299,2022-03-06,Netherlands,Paid Social,24.0
+C51300,2023-05-31,France,Email,32.0
+C51301,2023-02-18,Germany,Organic Search,31.0
+C51302,2022-06-30,Italy,Email,40.0
+C51303,2024-04-29,Netherlands,Email,36.0
+C51304,2022-10-26,Netherlands,Paid Social,24.0
+C51305,2022-08-22,France,Organic Search,21.0
+C51306,2021-12-05,Germany,Direct,45.0
+C51307,2023-04-23,Germany,Organic Search,41.0
+C51308,2022-10-09,Germany,Email,39.0
+C51309,2023-01-17,Germany,Organic Search,41.0
+C51310,2022-06-21,Netherlands,Organic Search,31.0
+C51311,2024-05-11,Spain,Organic Search,40.0
+C51312,2024-10-26,Germany,Paid Social,68.0
+C51313,2023-07-10,Germany,Email,52.0
+C51314,2023-12-31,Netherlands,Paid Social,35.0
+C51315,2024-08-25,Germany,Email,32.0
+C51316,2024-12-30,Italy,Email,18.0
+C51317,2023-11-27,GERMANY,Organic Search,51.0
+C51318,2024-09-17,GERMANY,Organic Search,47.0
+C51319,2024-10-05,Germany,Email,31.0
+C51320,2024-06-09,Italy,Email,21.0
+C51321,2023-05-23,Germany,Email,24.0
+C51322,2021-08-16,Netherlands,Organic Search,
+C51323,2021-02-20,Germany,Referral,37.0
+C51324,2023-06-13,Germany,Organic Search,46.0
+C51325,2023-07-05,Spain,Email,39.0
+C51326,2023-03-11,GERMANY,Organic Search,50.0
+C51327,2023-10-05,Germany,Email,42.0
+C51328,2023-09-15,France,Paid Social,48.0
+C51329,2024-07-26,Spain,Email,18.0
+C51330,2021-10-18,Germany,Organic Search,23.0
+C51331,2022-06-03,Germany,Email,34.0
+C51332,2024-06-11,Italy,Organic Search,51.0
+C51333,2024-08-06,Netherlands,Email,61.0
+C51334,2024-12-27,SPAIN,Organic Search,36.0
+C51335,2024-08-31,Austria,Organic Search,31.0
+C51336,2024-09-17,Netherlands,Email,18.0
+C51337,2022-10-27,  Germany ,Organic Search,48.0
+C51338,2023-03-03,GERMANY,Organic Search,31.0
+C51339,2022-08-14,Austria,Referral,74.0
+C51340,2023-11-19,Austria,Referral,29.0
+C51341,2024-11-04,Italy,Direct,63.0
+C51342,2022-12-11,France,Paid Social,47.0
+C51343,2023-09-21,Germany,Paid Social,26.0
+C51344,2022-09-29,France,Referral,41.0
+C51345,2022-02-21,Netherlands,Organic Search,47.0
+C51346,2022-04-10,FRANCE,Email,35.0
+C51347,2021-06-19,Austria,Organic Search,48.0
+C51348,2024-11-14,Netherlands,Direct,48.0
+C51349,2023-03-05,Germany,Email,45.0
+C51350,2024-07-23,France,Paid Social,38.0
+C51351,2024-02-12,Netherlands,Paid Social,24.0
+C51352,2022-04-04,SPAIN,Organic Search,
+C51353,2022-03-04,Germany,Paid Social,40.0
+C51354,2024-07-01,France,Email,
+C51355,2022-08-09,France,Paid Social,40.0
+C51356,2024-10-10,France,Paid Social,37.0
+C51357,2021-12-24,Germany,Organic Search,22.0
+C51358,2024-02-08,Spain,Email,34.0
+C51359,2024-07-03,DE,Paid Social,34.0
+C51360,2022-06-20,France,Organic Search,61.0
+C51361,2022-08-27,France,Direct,41.0
+C51362,2024-11-28,Germany,Paid Social,50.0
+C51363,2022-08-08,Netherlands,Paid Social,37.0
+C51364,2023-04-11,France,Direct,18.0
+C51365,2023-04-15,Netherlands,Paid Social,46.0
+C51366,2022-07-20,Germany,Direct,30.0
+C51367,2024-05-24,Austria,Email,34.0
+C51368,2024-05-20,Germany,Email,25.0
+C51369,2023-01-29,Netherlands,Organic Search,39.0
+C51370,2024-07-24,Netherlands,Organic Search,51.0
+C51371,2022-05-12,  Germany ,Paid Social,49.0
+C51372,2021-01-15,France,Organic Search,57.0
+C51373,2023-10-08,Spain,Organic Search,59.0
+C51374,2024-12-26,Netherlands,Email,18.0
+C51375,2021-04-28,Germany,Email,24.0
+C51376,2022-05-03,France,Organic Search,18.0
+C51377,2023-08-05,  GERMANY ,Referral,46.0
+C51378,2024-06-29,Netherlands,Direct,30.0
+C51379,2021-09-03,Netherlands,Referral,32.0
+C51380,2023-02-22,Germany,Referral,35.0
+C51381,2024-04-24,Netherlands,Email,43.0
+C51382,2023-01-20,Austria,Organic Search,20.0
+C51383,2022-03-29,Austria,Paid Social,23.0
+C51384,2022-04-10,Germany,Direct,38.0
+C51385,2023-03-15,Germany,Email,52.0
+C51386,2023-06-16,France,Referral,38.0
+C51387,2024-08-20,GERMANY,Direct,29.0
+C51388,2023-12-30,France,Organic Search,18.0
+C51389,2024-02-22,Germany,Paid Social,49.0
+C51390,2024-12-16,GERMANY,Email,29.0
+C51391,2023-03-18,Netherlands,Organic Search,24.0
+C51392,2023-03-06,Germany,Email,18.0
+C51393,2024-10-20,Austria,Referral,21.0
+C51394,2022-07-08,Germany,Email,26.0
+C51395,2024-04-05,France,Organic Search,
+C51396,2024-05-02,Germany,Email,23.0
+C51397,2021-09-23,Austria,Organic Search,40.0
+C51398,2023-06-01,DE,Direct,
+C51399,2022-04-20,Germany,Organic Search,65.0
+C51400,2022-03-23,Netherlands,Direct,18.0
+C51401,2023-05-27,Germany,Paid Social,40.0
+C51402,2022-09-18,Netherlands,Paid Social,40.0
+C51403,2024-06-14,Germany,Paid Social,26.0
+C51404,2024-10-04,  France ,Organic Search,39.0
+C51405,2024-06-21,Germany,Paid Social,47.0
+C51406,2022-08-11,Spain,Referral,39.0
+C51407,2022-08-24,FRANCE,Referral,55.0
+C51408,2022-07-23,Netherlands,Organic Search,18.0
+C51409,2021-12-13,  Germany ,Email,28.0
+C51410,2024-11-08,Germany,Direct,56.0
+C51411,2023-03-04,Germany,Referral,
+C51412,2022-06-02,Spain,Paid Social,44.0
+C51413,2024-08-05,DE,Organic Search,
+C51414,2023-02-28,Germany,Direct,18.0
+C51415,2021-04-18,AUSTRIA,Paid Social,48.0
+C51416,2022-02-06,Germany,Paid Social,51.0
+C51417,2023-12-27,Germany,Referral,30.0
+C51418,2024-06-01,France,Organic Search,70.0
+C51419,2022-05-08,DE,Referral,40.0
+C51420,2024-10-14,Germany,Organic Search,18.0
+C51421,2024-08-09,Netherlands,Referral,43.0
+C51422,2024-08-07,Germany,Direct,29.0
+C51423,2022-06-07,Spain,Direct,52.0
+C51424,2021-05-30,Netherlands,Direct,45.0
+C51425,2024-08-26,Spain,Direct,31.0
+C51426,2022-10-13,Netherlands,Organic Search,56.0
+C51427,2023-12-03,Spain,Direct,49.0
+C51428,2024-05-07,Germany,Direct,28.0
+C51429,2021-11-29,  France ,Paid Social,36.0
+C51430,2024-05-29,France,Paid Social,44.0
+C51431,2024-11-03,Spain,Organic Search,34.0
+C51432,2024-04-04,DE,Email,34.0
+C51433,2023-04-27,France,Email,38.0
+C51434,2024-09-04,Austria,Paid Social,25.0
+C51435,2023-08-16,DE,Paid Social,18.0
+C51436,2024-04-21,Spain,Email,41.0
+C51437,2024-07-09,Germany,Organic Search,18.0
+C51438,2024-04-26,Germany,Direct,26.0
+C51439,2022-09-15,NETHERLANDS,Organic Search,18.0
+C51440,2021-11-07,France,Organic Search,18.0
+C51441,2022-06-25,Germany,Organic Search,43.0
+C51442,2023-07-16,Germany,Direct,
+C51443,2023-07-19,Germany,Direct,35.0
+C51444,2023-10-22,Austria,Organic Search,22.0
+C51445,2023-02-22,Spain,Organic Search,30.0
+C51446,2024-06-05,France,Paid Social,43.0
+C51447,2024-10-10,  Germany ,Organic Search,37.0
+C51448,2022-07-10,France,Referral,48.0
+C51449,2024-04-13,Spain,Organic Search,50.0
+C51450,2024-02-09,Austria,Paid Social,35.0
+C51451,2023-08-10,Germany,Paid Social,18.0
+C51452,2022-03-29,Germany,Paid Social,
+C51453,2024-06-13,Spain,Paid Social,37.0
+C51454,2024-11-24,Spain,Organic Search,29.0
+C51455,2024-03-28,Germany,Organic Search,25.0
+C51456,2024-10-14,SPAIN,Organic Search,39.0
+C51457,2024-12-17,  Germany ,Organic Search,
+C51458,2022-12-22,Germany,Direct,32.0
+C51459,2023-12-26,Austria,Organic Search,
+C51460,2023-06-09,France,Organic Search,22.0
+C51461,2024-12-19,Germany,Organic Search,53.0
+C51462,2021-09-14,Spain,Referral,
+C51463,2023-03-18,Spain,Direct,48.0
+C51464,2024-09-03,Germany,Referral,54.0
+C51465,2022-09-09,Netherlands,Email,33.0
+C51466,2024-06-06,Austria,Referral,34.0
+C51467,2023-02-05,France,Paid Social,59.0
+C51468,2024-12-13,Italy,Direct,46.0
+C51469,2024-09-11,Netherlands,Referral,18.0
+C51470,2022-10-06,Germany,Organic Search,43.0
+C51471,2024-05-18,Germany,Paid Social,31.0
+C51472,2022-11-30,Spain,Organic Search,49.0
+C51473,2023-11-19,Italy,Organic Search,43.0
+C51474,2024-01-18,Germany,Referral,18.0
+C51475,2024-07-19,Germany,Organic Search,
+C51476,2021-03-18,Austria,Referral,41.0
+C51477,2022-05-25,Germany,Direct,42.0
+C51478,2024-03-17,Germany,Paid Social,45.0
+C51479,2023-09-29,Spain,Paid Social,56.0
+C51480,2023-07-07,Austria,Email,43.0
+C51481,2021-06-12,Spain,Referral,38.0
+C51482,2022-12-17,Netherlands,Organic Search,52.0
+C51483,2024-08-23,Germany,Organic Search,65.0
+C51484,2021-04-06,Spain,Email,49.0
+C51485,2023-02-24,Germany,Direct,40.0
+C51486,2024-11-10,Germany,Organic Search,43.0
+C51487,2021-05-31,Spain,Paid Social,41.0
+C51488,2024-04-27,Netherlands,Direct,38.0
+C51489,2022-07-28,DE,Organic Search,64.0
+C51490,2024-08-25,Germany,Organic Search,29.0
+C51491,2024-04-23,Italy,Email,52.0
+C51492,2024-09-13,Netherlands,Organic Search,36.0
+C51493,2022-05-17,Netherlands,Organic Search,20.0
+C51494,2023-08-21,Spain,Email,36.0
+C51495,2024-05-28,Germany,Email,31.0
+C51496,2022-07-08,Austria,Paid Social,45.0
+C51497,2022-06-12,NETHERLANDS,Paid Social,39.0
+C51498,2021-03-26,AUSTRIA,Email,26.0
+C51499,2024-11-22,Spain,Email,56.0
+C51500,2024-03-15,NETHERLANDS,Referral,51.0
+C51501,2023-12-23,Germany,Referral,57.0
+C51502,2024-04-21,Germany,Email,41.0
+C51503,2023-08-21,Italy,Direct,38.0
+C51504,2023-06-12,Italy,Referral,46.0
+C51505,2023-05-08,Italy,Organic Search,31.0
+C51506,2023-12-28,Germany,Direct,40.0
+C51507,2022-04-21,Germany,Direct,36.0
+C51508,2024-09-15,DE,Paid Social,20.0
+C51509,2024-06-30,Austria,Organic Search,40.0
+C51510,2022-12-19,Germany,Email,33.0
+C51511,2023-10-17,Netherlands,Paid Social,35.0
+C51512,2021-12-26,Germany,Referral,42.0
+C51513,2024-12-06,France,Paid Social,53.0
+C51514,2024-09-30,Germany,Organic Search,28.0
+C51515,2024-10-18,Germany,Organic Search,34.0
+C51516,2022-11-23,GERMANY,Direct,
+C51517,2022-02-20,Spain,Organic Search,28.0
+C51518,2022-05-10,Austria,Referral,31.0
+C51519,2021-09-05,Italy,Organic Search,36.0
+C51520,2021-11-12,France,Paid Social,45.0
+C51521,2021-07-23,Germany,Paid Social,42.0
+C51522,2024-12-22,Germany,Organic Search,25.0
+C51523,2021-07-29,Netherlands,Email,54.0
+C51524,2021-12-08,Germany,Email,49.0
+C51525,2024-07-16,Austria,Organic Search,27.0
+C51526,2023-10-19,Austria,Paid Social,53.0
+C51527,2024-05-23,Spain,Referral,
+C51528,2023-12-17,Germany,Email,36.0
+C51529,2024-09-09,France,Paid Social,42.0
+C51530,2023-12-26,GERMANY,Referral,38.0
+C51531,2023-08-09,Germany,Organic Search,45.0
+C51532,2024-03-18,Netherlands,Organic Search,40.0
+C51533,2023-05-05,France,Email,34.0
+C51534,2022-12-14,Austria,Email,18.0
+C51535,2023-06-01,GERMANY,Referral,44.0
+C51536,2022-02-21,Italy,Organic Search,34.0
+C51537,2024-06-15,Italy,Paid Social,
+C51538,2022-08-02,France,Email,44.0
+C51539,2022-01-20,Spain,Organic Search,34.0
+C51540,2022-07-09,Germany,Paid Social,50.0
+C51541,2024-07-31,Austria,Email,40.0
+C51542,2022-11-20,Spain,Organic Search,40.0
+C51543,2024-02-18,Austria,Paid Social,36.0
+C51544,2024-08-15,  Austria ,Organic Search,
+C51545,2021-08-07,  France ,Direct,29.0
+C51546,2024-05-13,Austria,Organic Search,34.0
+C51547,2022-10-16,Netherlands,Organic Search,23.0
+C51548,2022-05-19,Germany,Organic Search,47.0
+C51549,2024-02-21,Germany,Organic Search,31.0
+C51550,2024-10-06,Austria,Organic Search,32.0
+C51551,2022-09-27,Netherlands,Email,32.0
+C51552,2023-10-05,France,Organic Search,39.0
+C51553,2022-09-18,Spain,Organic Search,23.0
+C51554,2023-09-18,NETHERLANDS,Organic Search,18.0
+C51555,2023-12-07,GERMANY,Paid Social,43.0
+C51556,2023-11-24,Germany,Organic Search,18.0
+C51557,2023-12-09,Netherlands,Email,48.0
+C51558,2021-12-14,Austria,Email,57.0
+C51559,2024-02-26,France,Referral,36.0
+C51560,2024-02-05,France,Organic Search,54.0
+C51561,2024-02-14,Austria,Direct,38.0
+C51562,2021-07-29,  Netherlands ,Email,57.0
+C51563,2023-05-04,Spain,Organic Search,33.0
+C51564,2023-03-14,Germany,Paid Social,18.0
+C51565,2021-08-29,Austria,Referral,37.0
+C51566,2022-05-29,France,Paid Social,58.0
+C51567,2023-04-26,Germany,Paid Social,44.0
+C51568,2024-04-19,Netherlands,Email,32.0
+C51569,2022-06-23,Austria,Organic Search,42.0
+C51570,2024-07-19,France,Direct,50.0
+C51571,2023-09-07,Austria,Organic Search,37.0
+C51572,2024-05-08,Germany,Organic Search,70.0
+C51573,2023-06-07,Germany,Organic Search,32.0
+C51574,2023-07-11,  GERMANY ,Paid Social,50.0
+C51575,2023-12-04,Germany,Direct,47.0
+C51576,2024-10-24,Netherlands,Referral,30.0
+C51577,2023-07-02,Spain,Direct,33.0
+C51578,2023-08-17,Austria,Paid Social,50.0
+C51579,2023-11-14,Germany,Paid Social,40.0
+C51580,2024-04-14,Germany,Paid Social,42.0
+C51581,2021-07-24,Germany,Organic Search,18.0
+C51582,2023-08-01,Netherlands,Direct,46.0
+C51583,2023-06-19,Germany,Paid Social,41.0
+C51584,2024-10-18,France,Paid Social,37.0
+C51585,2023-07-04,Austria,Paid Social,42.0
+C51586,2023-06-01,Netherlands,Referral,33.0
+C51587,2024-11-26,Germany,Organic Search,31.0
+C51588,2023-05-09,Germany,Email,35.0
+C51589,2022-03-14,Netherlands,Email,32.0
+C51590,2022-05-19,France,Referral,64.0
+C51591,2021-09-17,Germany,Organic Search,49.0
+C51592,2021-01-02,Spain,Organic Search,26.0
+C51593,2023-04-14,France,Paid Social,62.0
+C51594,2024-05-17,France,Direct,33.0
+C51595,2024-04-09,Germany,Direct,38.0
+C51596,2021-04-10,Germany,Email,49.0
+C51597,2023-10-07,Germany,Organic Search,18.0
+C51598,2022-01-22,Germany,Organic Search,35.0
+C51599,2024-11-06,France,Email,31.0
+C51600,2022-02-16,France,Organic Search,40.0
+C51601,2023-12-12,Spain,Email,42.0
+C51602,2022-11-14,Italy,Referral,37.0
+C51603,2023-12-30,Germany,Paid Social,37.0
+C51604,2023-03-18,Germany,Paid Social,51.0
+C51605,2024-05-07,Austria,Organic Search,
+C51606,2022-06-12,Italy,Organic Search,38.0
+C51607,2024-10-03,Spain,Email,40.0
+C51608,2023-07-13,Germany,Paid Social,60.0
+C51609,2024-05-03,  Germany ,Organic Search,
+C51610,2024-08-08,Germany,Organic Search,
+C51611,2024-12-30,Spain,Organic Search,18.0
+C51612,2022-05-31,Netherlands,Email,21.0
+C51613,2022-09-14,France,Email,32.0
+C51614,2022-07-16,France,Paid Social,37.0
+C51615,2022-08-06,Germany,Paid Social,31.0
+C51616,2023-10-22,Netherlands,Organic Search,42.0
+C51617,2024-12-25,Germany,Paid Social,31.0
+C51618,2024-12-22,NETHERLANDS,Organic Search,27.0
+C51619,2023-08-15,Austria,Direct,45.0
+C51620,2023-12-27,  Netherlands ,Organic Search,
+C51621,2024-08-18,GERMANY,Paid Social,25.0
+C51622,2024-10-29,Spain,Organic Search,41.0
+C51623,2022-04-26,Austria,Referral,18.0
+C51624,2023-08-17,Germany,Organic Search,20.0
+C51625,2024-07-22,Germany,Direct,
+C51626,2022-10-09,Netherlands,Organic Search,52.0
+C51627,2023-04-25,Germany,Referral,29.0
+C51628,2024-12-18,  Germany ,Email,28.0
+C51629,2024-12-17,  Germany ,Organic Search,38.0
+C51630,2024-10-03,Germany,Organic Search,38.0
+C51631,2024-06-17,France,Paid Social,29.0
+C51632,2022-08-16,Netherlands,Referral,62.0
+C51633,2022-11-06,GERMANY,Direct,35.0
+C51634,2023-09-09,Austria,Organic Search,39.0
+C51635,2023-09-26,Germany,Paid Social,33.0
+C51636,2023-07-19,GERMANY,Organic Search,43.0
+C51637,2023-12-24,GERMANY,Organic Search,
+C51638,2023-03-13,Austria,Email,58.0
+C51639,2024-04-26,Italy,Paid Social,29.0
+C51640,2022-11-25,FRANCE,Organic Search,51.0
+C51641,2022-11-21,Germany,Direct,45.0
+C51642,2021-11-27,Germany,Referral,50.0
+C51643,2022-03-29,Germany,Referral,37.0
+C51644,2024-08-09,Spain,Organic Search,36.0
+C51645,2023-05-03,Germany,Direct,49.0
+C51646,2022-06-07,Italy,Email,49.0
+C51647,2024-05-07,Netherlands,Paid Social,57.0
+C51648,2023-09-17,France,Organic Search,40.0
+C51649,2021-03-09,Spain,Direct,37.0
+C51650,2022-10-30,Germany,Paid Social,18.0
+C51651,2022-03-07,  Austria ,Referral,19.0
+C51652,2024-01-15,Germany,Email,33.0
+C51653,2022-08-26,Spain,Referral,25.0
+C51654,2021-07-07,France,Email,48.0
+C51655,2021-06-11,Germany,Direct,22.0
+C51656,2023-10-21,  SPAIN ,Organic Search,32.0
+C51657,2021-03-10,Germany,Organic Search,32.0
+C51658,2024-08-07,Germany,Email,
+C51659,2022-01-24,AUSTRIA,Paid Social,31.0
+C51660,2023-11-19,France,Email,43.0
+C51661,2023-05-01,Spain,Email,40.0
+C51662,2023-04-29,Netherlands,Paid Social,49.0
+C51663,2021-07-24,Netherlands,Referral,48.0
+C51664,2024-06-21,Germany,Paid Social,38.0
+C51665,2024-09-20,Germany,Direct,18.0
+C51666,2021-02-05,Italy,Organic Search,35.0
+C51667,2022-03-10,Germany,Email,38.0
+C51668,2024-10-01,France,Direct,41.0
+C51669,2023-09-12,Germany,Organic Search,29.0
+C51670,2022-01-13,  Germany ,Paid Social,52.0
+C51671,2022-04-24,Netherlands,Organic Search,38.0
+C51672,2024-01-19,AUSTRIA,Email,27.0
+C51673,2024-03-31,Austria,Paid Social,33.0
+C51674,2023-11-11,Spain,Organic Search,61.0
+C51675,2024-11-17,Germany,Direct,46.0
+C51676,2023-07-05,France,Organic Search,51.0
+C51677,2022-10-05,Germany,Paid Social,
+C51678,2023-06-13,Austria,Email,30.0
+C51679,2023-01-03,Germany,Organic Search,30.0
+C51680,2022-06-01,  France ,Organic Search,40.0
+C51681,2021-05-18,Germany,Direct,36.0
+C51682,2022-12-23,Austria,Email,32.0
+C51683,2024-03-16,Austria,Organic Search,34.0
+C51684,2021-02-28,Spain,Referral,28.0
+C51685,2023-04-24,Germany,Paid Social,36.0
+C51686,2024-01-01,  Italy ,Organic Search,51.0
+C51687,2023-11-24,DE,Email,20.0
+C51688,2024-05-25,Germany,Paid Social,42.0
+C51689,2024-06-29,Germany,Organic Search,55.0
+C51690,2024-03-17,DE,Direct,36.0
+C51691,2021-10-05,France,Organic Search,32.0
+C51692,2023-06-10,Germany,Organic Search,49.0
+C51693,2023-11-15,Germany,Organic Search,
+C51694,2022-07-08,Netherlands,Referral,38.0
+C51695,2021-05-09,Spain,Email,26.0
+C51696,2022-05-31,DE,Direct,18.0
+C51697,2023-05-15,Netherlands,Organic Search,36.0
+C51698,2023-03-20,Germany,Referral,23.0
+C51699,2022-03-06,Austria,Email,38.0
+C51700,2024-07-13,Germany,Organic Search,51.0
+C51701,2024-10-22,Germany,Organic Search,60.0
+C51702,2022-04-21,Germany,Referral,39.0
+C51703,2024-10-26,Netherlands,Organic Search,50.0
+C51704,2021-02-27,Germany,Email,43.0
+C51705,2024-10-21,Netherlands,Paid Social,33.0
+C51706,2024-11-16,Germany,Organic Search,18.0
+C51707,2021-02-09,France,Direct,58.0
+C51708,2024-05-11,FRANCE,Referral,
+C51709,2024-12-03,Germany,Paid Social,55.0
+C51710,2024-10-03,France,Email,44.0
+C51711,2024-12-04,Netherlands,Paid Social,26.0
+C51712,2023-09-13,  France ,Referral,42.0
+C51713,2021-08-08,Germany,Organic Search,64.0
+C51714,2024-08-08,Netherlands,Paid Social,56.0
+C51715,2023-11-28,Germany,Paid Social,32.0
+C51716,2023-11-29,Germany,Paid Social,29.0
+C51717,2023-03-25,Germany,Paid Social,39.0
+C51718,2023-10-09,France,Organic Search,36.0
+C51719,2022-01-20,Germany,Direct,52.0
+C51720,2024-04-16,Netherlands,Organic Search,47.0
+C51721,2021-08-01,Germany,Organic Search,18.0
+C51722,2024-04-05,Austria,Paid Social,44.0
+C51723,2024-08-07,Germany,Email,36.0
+C51724,2023-06-07,Netherlands,Organic Search,38.0
+C51725,2023-07-25,Austria,Paid Social,41.0
+C51726,2022-10-23,Germany,Email,52.0
+C51727,2024-12-03,Germany,Organic Search,50.0
+C51728,2024-04-09,France,Direct,29.0
+C51729,2023-01-16,Italy,Paid Social,37.0
+C51730,2022-03-03,Italy,Email,33.0
+C51731,2022-05-24,Germany,Organic Search,18.0
+C51732,2023-05-27,Austria,Email,37.0
+C51733,2024-11-07,Germany,Referral,
+C51734,2024-04-10,Germany,Organic Search,
+C51735,2022-05-16,Netherlands,Organic Search,38.0
+C51736,2024-08-18,France,Organic Search,37.0
+C51737,2023-01-29,France,Organic Search,41.0
+C51738,2024-08-10,Spain,Direct,26.0
+C51739,2022-07-01,Germany,Email,21.0
+C51740,2023-12-03,Netherlands,Email,21.0
+C51741,2024-10-23,Germany,Direct,54.0
+C51742,2022-07-28,Germany,Referral,26.0
+C51743,2024-02-25,Germany,Referral,32.0
+C51744,2024-12-20,Italy,Paid Social,63.0
+C51745,2022-01-14,France,Paid Social,29.0
+C51746,2021-09-02,Germany,Organic Search,42.0
+C51747,2024-02-04,Netherlands,Paid Social,51.0
+C51748,2022-12-04,ITALY,Paid Social,50.0
+C51749,2021-07-22,SPAIN,Organic Search,22.0
+C51750,2023-06-11,France,Paid Social,29.0
+C51751,2024-05-01,Germany,Paid Social,42.0
+C51752,2022-09-11,Netherlands,Organic Search,61.0
+C51753,2022-11-27,Austria,Organic Search,29.0
+C51754,2024-08-04,Spain,Paid Social,32.0
+C51755,2023-08-07,Austria,Paid Social,43.0
+C51756,2024-08-01,FRANCE,Email,45.0
+C51757,2023-05-03,Germany,Email,46.0
+C51758,2024-11-17,FRANCE,Organic Search,28.0
+C51759,2024-01-09,Germany,Organic Search,32.0
+C51760,2021-11-03,Germany,Organic Search,41.0
+C51761,2024-09-12,France,Organic Search,53.0
+C51762,2023-06-29,Netherlands,Paid Social,35.0
+C51763,2021-12-27,Spain,Direct,38.0
+C51764,2022-01-18,AUSTRIA,Organic Search,26.0
+C51765,2024-02-19,Spain,Paid Social,60.0
+C51766,2021-05-22,Austria,Email,40.0
+C51767,2022-09-13,DE,Paid Social,51.0
+C51768,2021-12-23,Germany,Organic Search,38.0
+C51769,2023-04-26,Netherlands,Organic Search,39.0
+C51770,2023-03-21,Germany,Direct,20.0
+C51771,2023-08-09,Germany,Organic Search,18.0
+C51772,2022-09-02,Germany,Email,53.0
+C51773,2021-04-10,SPAIN,Referral,39.0
+C51774,2023-11-28,Austria,Organic Search,40.0
+C51775,2023-01-23,Italy,Email,23.0
+C51776,2024-01-10,Italy,Organic Search,27.0
+C51777,2021-10-18,SPAIN,Organic Search,51.0
+C51778,2021-02-14,Germany,Paid Social,59.0
+C51779,2022-07-12,Spain,Direct,31.0
+C51780,2023-05-17,SPAIN,Organic Search,46.0
+C51781,2023-02-21,Spain,Organic Search,40.0
+C51782,2024-06-29,Germany,Direct,37.0
+C51783,2023-01-29,Germany,Organic Search,60.0
+C51784,2023-08-19,Italy,Direct,33.0
+C51785,2023-11-04,Germany,Email,53.0
+C51786,2021-03-11,Germany,Email,43.0
+C51787,2023-07-31,France,Referral,38.0
+C51788,2022-12-12,Germany,Email,54.0
+C51789,2023-03-31,Germany,Organic Search,41.0
+C51790,2021-09-29,ITALY,Direct,37.0
+C51791,2024-06-01,Spain,Direct,55.0
+C51792,2024-11-07,Spain,Direct,53.0
+C51793,2021-03-12,Germany,Email,52.0
+C51794,2023-11-13,DE,Paid Social,18.0
+C51795,2024-05-12,France,Paid Social,
+C51796,2022-09-10,France,Organic Search,41.0
+C51797,2024-06-05,Germany,Paid Social,38.0
+C51798,2023-12-19,Austria,Email,45.0
+C51799,2024-10-25,Italy,Email,41.0
+C51800,2024-12-14,France,Paid Social,46.0
+C51801,2021-05-08,Germany,Paid Social,35.0
+C51802,2023-05-02,Germany,Email,56.0
+C51803,2023-09-09,Germany,Paid Social,47.0
+C51804,2022-01-06,Germany,Direct,45.0
+C51805,2022-11-29,France,Email,44.0
+C51806,2024-12-20,France,Organic Search,52.0
+C51807,2021-02-22,France,Organic Search,50.0
+C51808,2023-05-12,Spain,Email,37.0
+C51809,2024-08-01,Germany,Paid Social,50.0
+C51810,2022-11-10,Germany,Referral,40.0
+C51811,2023-06-16,Germany,Organic Search,61.0
+C51812,2024-12-11,Germany,Organic Search,51.0
+C51813,2023-06-10,  France ,Paid Social,30.0
+C51814,2021-12-05,DE,Referral,66.0
+C51815,2021-06-03,Spain,Direct,18.0
+C51816,2024-11-10,Netherlands,Direct,46.0
+C51817,2022-08-10,Germany,Paid Social,30.0
+C51818,2023-07-17,Germany,Referral,61.0
+C51819,2021-09-07,Germany,Organic Search,41.0
+C51820,2023-04-03,Germany,Email,28.0
+C51821,2024-10-26,Spain,Direct,35.0
+C51822,2023-07-15,France,Paid Social,29.0
+C51823,2024-12-04,Germany,Direct,34.0
+C51824,2022-07-30,Germany,Organic Search,34.0
+C51825,2023-07-18,Germany,Organic Search,29.0
+C51826,2024-08-18,Spain,Paid Social,41.0
+C51827,2023-05-06,Germany,Direct,43.0
+C51828,2022-09-02,Germany,Paid Social,
+C51829,2024-08-14,Germany,Referral,18.0
+C51830,2023-02-15,Austria,Organic Search,42.0
+C51831,2023-08-20,France,Referral,44.0
+C51832,2024-12-09,  Netherlands ,Email,47.0
+C51833,2022-03-25,Germany,Organic Search,45.0
+C51834,2022-10-07,Germany,Email,57.0
+C51835,2021-04-07,Spain,Email,50.0
+C51836,2023-02-18,Germany,Paid Social,70.0
+C51837,2022-04-19,Germany,Organic Search,75.0
+C51838,2024-02-11,France,Organic Search,18.0
+C51839,2022-03-15,GERMANY,Direct,18.0
+C51840,2024-02-05,Germany,Email,38.0
+C51841,2022-08-07,Austria,Referral,44.0
+C51842,2022-12-27,FRANCE,Email,37.0
+C51843,2022-12-18,Germany,Referral,46.0
+C51844,2024-03-22,Germany,Organic Search,35.0
+C51845,2023-05-30,Austria,Paid Social,30.0
+C51846,2023-01-05,Germany,Email,31.0
+C51847,2024-08-11,Germany,Organic Search,36.0
+C51848,2023-10-09,Netherlands,Organic Search,48.0
+C51849,2022-05-14,Netherlands,Email,32.0
+C51850,2024-09-27,Italy,Direct,35.0
+C51851,2022-12-08,Germany,Email,45.0
+C51852,2021-04-29,Germany,Organic Search,36.0
+C51853,2023-07-05,France,Direct,51.0
+C51854,2021-11-20,Netherlands,Organic Search,27.0
+C51855,2022-06-26,Germany,Organic Search,24.0
+C51856,2024-04-24,DE,Direct,42.0
+C51857,2021-12-04,Germany,Referral,43.0
+C51858,2024-06-26,Spain,Direct,28.0
+C51859,2024-11-02,Spain,Referral,54.0
+C51860,2023-11-19,France,Email,61.0
+C51861,2024-03-15,Italy,Organic Search,30.0
+C51862,2024-03-19,Italy,Paid Social,56.0
+C51863,2024-12-25,Germany,Direct,18.0
+C51864,2022-12-07,Germany,Direct,51.0
+C51865,2022-02-07,Netherlands,Paid Social,28.0
+C51866,2023-08-05,Germany,Paid Social,50.0
+C51867,2023-08-23,Germany,Organic Search,26.0
+C51868,2022-03-09,Germany,Paid Social,37.0
+C51869,2023-11-27,Italy,Direct,28.0
+C51870,2021-02-15,Germany,Organic Search,35.0
+C51871,2024-10-24,Austria,Paid Social,60.0
+C51872,2022-08-08,Germany,Direct,37.0
+C51873,2021-05-01,Germany,Paid Social,
+C51874,2021-10-17,Spain,Paid Social,33.0
+C51875,2022-06-29,  GERMANY ,Paid Social,56.0
+C51876,2022-08-24,Germany,Organic Search,18.0
+C51877,2021-04-12,Germany,Organic Search,35.0
+C51878,2022-09-02,Netherlands,Organic Search,32.0
+C51879,2022-04-06,Germany,Organic Search,56.0
+C51880,2023-01-30,Germany,Organic Search,40.0
+C51881,2023-02-08,Germany,Organic Search,
+C51882,2022-12-03,Germany,Organic Search,22.0
+C51883,2022-11-16,Germany,Direct,26.0
+C51884,2021-09-05,France,Organic Search,49.0
+C51885,2021-03-21,GERMANY,Paid Social,48.0
+C51886,2022-04-22,Germany,Direct,
+C51887,2024-05-04,Netherlands,Organic Search,31.0
+C51888,2024-12-23,Austria,Paid Social,47.0
+C51889,2024-10-25,Germany,Referral,24.0
+C51890,2023-07-18,Germany,Email,43.0
+C51891,2023-08-21,Germany,Organic Search,42.0
+C51892,2022-10-27,  Italy ,Referral,35.0
+C51893,2024-05-22,Germany,Email,43.0
+C51894,2024-05-13,Germany,Paid Social,39.0
+C51895,2024-08-03,France,Organic Search,44.0
+C51896,2024-09-23,Germany,Organic Search,22.0
+C51897,2023-04-17,Germany,Referral,45.0
+C51898,2024-05-15,Germany,Paid Social,50.0
+C51899,2024-06-25,Netherlands,Organic Search,42.0
+C51900,2022-10-18,Netherlands,Paid Social,45.0
+C51901,2024-10-25,Netherlands,Direct,37.0
+C51902,2021-09-15,Austria,Organic Search,49.0
+C51903,2024-12-26,Germany,Organic Search,39.0
+C51904,2024-05-18,Spain,Paid Social,24.0
+C51905,2021-09-13,Austria,Email,48.0
+C51906,2024-01-15,Austria,Paid Social,18.0
+C51907,2021-04-16,Austria,Direct,41.0
+C51908,2024-05-18,Germany,Organic Search,33.0
+C51909,2024-06-18,DE,Paid Social,33.0
+C51910,2023-11-14,FRANCE,Paid Social,40.0
+C51911,2024-08-15,Germany,Paid Social,29.0
+C51912,2021-09-24,France,Paid Social,44.0
+C51913,2022-08-27,Germany,Referral,39.0
+C51914,2023-03-21,Germany,Paid Social,31.0
+C51915,2021-05-09,Italy,Referral,54.0
+C51916,2023-05-06,Netherlands,Organic Search,40.0
+C51917,2022-08-09,France,Email,46.0
+C51918,2023-02-19,Germany,Paid Social,55.0
+C51919,2023-04-05,France,Paid Social,55.0
+C51920,2024-09-07,Spain,Organic Search,45.0
+C51921,2022-08-18,Netherlands,Direct,34.0
+C51922,2024-09-21,Netherlands,Direct,21.0
+C51923,2023-04-06,France,Referral,40.0
+C51924,2022-11-16,Germany,Direct,51.0
+C51925,2023-07-15,Netherlands,Organic Search,42.0
+C51926,2023-03-26,Italy,Paid Social,18.0
+C51927,2022-07-28,France,Paid Social,48.0
+C51928,2023-07-16,Germany,Direct,49.0
+C51929,2022-01-17,France,Organic Search,34.0
+C51930,2022-12-22,France,Organic Search,50.0
+C51931,2023-10-02,Italy,Email,46.0
+C51932,2023-03-20,Netherlands,Organic Search,30.0
+C51933,2024-07-13,Germany,Referral,53.0
+C51934,2022-07-26,Germany,Organic Search,23.0
+C51935,2024-12-03,France,Email,37.0
+C51936,2024-06-02,Germany,Direct,36.0
+C51937,2024-12-01,France,Email,28.0
+C51938,2024-07-27,Austria,Organic Search,42.0
+C51939,2021-12-28,Netherlands,Organic Search,54.0
+C51940,2023-08-15,Germany,Organic Search,53.0
+C51941,2022-02-21,Austria,Organic Search,
+C51942,2024-07-07,AUSTRIA,Email,18.0
+C51943,2023-10-24,  Germany ,Paid Social,22.0
+C51944,2022-08-07,Netherlands,Organic Search,40.0
+C51945,2024-10-26,  Netherlands ,Organic Search,
+C51946,2021-11-01,  Spain ,Direct,32.0
+C51947,2023-09-29,Germany,Organic Search,61.0
+C51948,2024-03-27,Germany,Organic Search,39.0
+C51949,2021-06-21,France,Paid Social,45.0
+C51950,2023-11-09,GERMANY,Organic Search,50.0
+C51951,2024-07-05,Germany,Direct,39.0
+C51952,2021-07-13,Austria,Organic Search,69.0
+C51953,2023-07-28,GERMANY,Email,27.0
+C51954,2022-07-29,FRANCE,Email,31.0
+C51955,2024-01-23,  Italy ,Referral,27.0
+C51956,2021-11-09,France,Email,57.0
+C51957,2024-11-02,France,Referral,48.0
+C51958,2024-09-22,France,Paid Social,31.0
+C51959,2022-03-24,Germany,Paid Social,28.0
+C51960,2022-11-09,Germany,Email,55.0
+C51961,2023-10-28,Netherlands,Email,42.0
+C51962,2024-03-24,Germany,Paid Social,55.0
+C51963,2023-04-28,Germany,Organic Search,37.0
+C51964,2022-01-26,  Germany ,Organic Search,44.0
+C51965,2021-10-08,Spain,Paid Social,42.0
+C51966,2024-12-31,Germany,Organic Search,31.0
+C51967,2023-05-15,Austria,Paid Social,36.0
+C51968,2024-08-31,Germany,Organic Search,24.0
+C51969,2023-06-20,Netherlands,Email,44.0
+C51970,2024-10-19,Germany,Email,
+C51971,2021-08-31,GERMANY,Email,50.0
+C51972,2021-10-30,France,Email,46.0
+C51973,2024-10-26,Netherlands,Organic Search,36.0
+C51974,2024-11-12,Germany,Organic Search,57.0
+C51975,2022-10-27,France,Email,49.0
+C51976,2022-12-27,France,Referral,55.0
+C51977,2023-05-12,Germany,Email,55.0
+C51978,2023-03-24,France,Email,36.0
+C51979,2022-03-31,Germany,Email,43.0
+C51980,2024-09-25,France,Referral,47.0
+C51981,2022-07-21,Germany,Email,24.0
+C51982,2024-03-10,France,Referral,24.0
+C51983,2021-07-12,Germany,Organic Search,22.0
+C51984,2021-04-28,France,Organic Search,37.0
+C51985,2024-01-12,FRANCE,Paid Social,34.0
+C51986,2022-12-03,Spain,Paid Social,21.0
+C51987,2024-01-14,France,Referral,40.0
+C51988,2021-09-15,Austria,Paid Social,37.0
+C51989,2024-11-14,Germany,Organic Search,52.0
+C51990,2024-04-25,Germany,Referral,62.0
+C51991,2024-09-04,Germany,Organic Search,
+C51992,2021-12-16,France,Referral,30.0
+C51993,2022-11-05,Netherlands,Organic Search,46.0
+C51994,2023-01-15,Spain,Paid Social,38.0
+C51995,2023-08-28,  France ,Paid Social,
+C51996,2022-09-29,Netherlands,Organic Search,28.0
+C51997,2021-06-26,Germany,Organic Search,32.0
+C51998,2023-01-16,Germany,Organic Search,36.0
+C51999,2022-07-23,AUSTRIA,Paid Social,48.0
+C52000,2023-02-09,Germany,Paid Social,44.0
+C52001,2022-04-13,Germany,Referral,
+C52002,2022-08-04,Italy,Organic Search,46.0
+C52003,2023-12-13,Italy,Paid Social,43.0
+C52004,2023-02-12,Netherlands,Organic Search,34.0
+C52005,2022-12-13,Germany,Direct,26.0
+C52006,2023-08-24,Spain,Referral,31.0
+C52007,2024-05-20,Germany,Direct,30.0
+C52008,2023-01-30,France,Direct,18.0
+C52009,2023-10-28,Germany,Paid Social,26.0
+C52010,2024-11-30,Spain,Email,57.0
+C52011,2023-08-09,  Spain ,Organic Search,42.0
+C52012,2024-10-06,Netherlands,Direct,33.0
+C52013,2024-06-12,Germany,Paid Social,43.0
+C52014,2021-06-21,France,Paid Social,18.0
+C52015,2023-04-10,Germany,Direct,41.0
+C52016,2024-03-02,Spain,Referral,53.0
+C52017,2024-12-19,Germany,Direct,37.0
+C52018,2023-05-19,Germany,Organic Search,18.0
+C52019,2021-09-12,Netherlands,Organic Search,33.0
+C52020,2023-09-27,France,Organic Search,53.0
+C52021,2021-11-26,Spain,Paid Social,41.0
+C52022,2024-04-29,Germany,Paid Social,21.0
+C52023,2023-07-22,Austria,Organic Search,66.0
+C52024,2024-03-29,Germany,Referral,23.0
+C52025,2024-08-28,  Germany ,Organic Search,35.0
+C52026,2023-12-15,France,Email,26.0
+C52027,2023-11-26,Germany,Direct,
+C52028,2024-05-02,Netherlands,Email,33.0
+C52029,2024-08-01,Germany,Paid Social,46.0
+C52030,2024-08-27,  Germany ,Organic Search,
+C52031,2021-04-22,Austria,Organic Search,33.0
+C52032,2023-09-20,Germany,Referral,26.0
+C52033,2022-05-18,Netherlands,Paid Social,44.0
+C52034,2024-08-19,Austria,Organic Search,44.0
+C52035,2024-01-06,Germany,Direct,41.0
+C52036,2023-03-29,Austria,Email,41.0
+C52037,2022-03-28,  GERMANY ,Referral,37.0
+C52038,2022-12-03,Germany,Paid Social,39.0
+C52039,2024-03-08,Germany,Direct,36.0
+C52040,2022-04-27,Spain,Organic Search,51.0
+C52041,2021-09-14,France,Organic Search,
+C52042,2024-09-15,France,Direct,40.0
+C52043,2024-05-12,Italy,Direct,38.0
+C52044,2022-04-18,Germany,Paid Social,41.0
+C52045,2022-09-22,Spain,Organic Search,30.0
+C52046,2024-12-05,Austria,Organic Search,47.0
+C52047,2024-03-13,Italy,Referral,43.0
+C52048,2023-11-24,Spain,Referral,33.0
+C52049,2022-10-16,Italy,Paid Social,
+C52050,2022-10-03,Germany,Organic Search,38.0
+C52051,2021-05-01,Austria,Email,26.0
+C52052,2024-04-04,Austria,Referral,42.0
+C52053,2021-05-11,  Netherlands ,Paid Social,41.0
+C52054,2021-01-17,Germany,Email,50.0
+C52055,2024-04-05,Italy,Direct,48.0
+C52056,2024-11-13,Germany,Organic Search,37.0
+C52057,2024-05-04,FRANCE,Email,32.0
+C52058,2023-06-06,France,Email,38.0
+C52059,2023-06-24,GERMANY,Paid Social,42.0
+C52060,2023-04-20,Austria,Direct,44.0
+C52061,2022-11-11,Germany,Email,42.0
+C52062,2023-08-09,Netherlands,Paid Social,37.0
+C52063,2023-04-13,Spain,Organic Search,50.0
+C52064,2023-11-09,Germany,Email,30.0
+C52065,2024-09-25,Netherlands,Organic Search,68.0
+C52066,2024-12-27,Germany,Organic Search,47.0
+C52067,2021-08-10,Spain,Paid Social,24.0
+C52068,2023-02-08,Italy,Email,40.0
+C52069,2022-03-14,Germany,Direct,47.0
+C52070,2022-12-23,Netherlands,Email,34.0
+C52071,2022-09-15,France,Referral,20.0
+C52072,2022-03-02,France,Paid Social,26.0
+C52073,2024-05-12,Netherlands,Paid Social,45.0
+C52074,2023-07-08,France,Direct,18.0
+C52075,2024-10-16,Netherlands,Paid Social,21.0
+C52076,2021-04-11,Germany,Referral,44.0
+C52077,2021-07-12,Germany,Paid Social,35.0
+C52078,2023-03-06,Spain,Organic Search,30.0
+C52079,2021-08-13,Germany,Email,
+C52080,2022-08-05,Netherlands,Organic Search,20.0
+C52081,2024-12-18,Germany,Organic Search,44.0
+C52082,2022-05-05,Spain,Organic Search,28.0
+C52083,2022-04-15,France,Organic Search,
+C52084,2023-10-11,Germany,Paid Social,42.0
+C52085,2023-07-10,  Germany ,Direct,35.0
+C52086,2023-10-19,France,Paid Social,30.0
+C52087,2023-01-27,Italy,Referral,18.0
+C52088,2024-07-16,France,Email,42.0
+C52089,2021-12-21,France,Organic Search,39.0
+C52090,2023-04-09,Austria,Organic Search,32.0
+C52091,2024-02-22,Germany,Direct,26.0
+C52092,2024-08-27,France,Email,38.0
+C52093,2023-01-17,Germany,Direct,44.0
+C52094,2023-10-04,Germany,Paid Social,39.0
+C52095,2021-07-17,Austria,Email,58.0
+C52096,2022-02-22,Spain,Referral,46.0
+C52097,2021-07-17,Spain,Direct,37.0
+C52098,2024-04-03,Spain,Organic Search,47.0
+C52099,2022-09-15,France,Direct,39.0
+C52100,2024-03-30,Germany,Paid Social,39.0
+C52101,2021-07-10,Netherlands,Referral,54.0
+C52102,2024-08-21,Italy,Paid Social,27.0
+C52103,2024-07-25,Austria,Email,38.0
+C52104,2021-09-03,France,Paid Social,52.0
+C52105,2021-03-16,Netherlands,Referral,42.0
+C52106,2021-06-15,Austria,Organic Search,34.0
+C52107,2024-08-12,Spain,Paid Social,18.0
+C52108,2022-06-19,Austria,Email,18.0
+C52109,2023-09-10,France,Referral,63.0
+C52110,2023-04-06,Germany,Paid Social,42.0
+C52111,2024-06-14,France,Email,31.0
+C52112,2023-06-28,GERMANY,Paid Social,42.0
+C52113,2023-07-13,Italy,Email,27.0
+C52114,2024-12-21,France,Email,34.0
+C52115,2022-01-13,France,Email,27.0
+C52116,2024-07-20,Germany,Referral,
+C52117,2021-06-03,Netherlands,Paid Social,18.0
+C52118,2023-06-14,FRANCE,Organic Search,19.0
+C52119,2024-09-13,Germany,Email,50.0
+C52120,2024-01-25,Spain,Organic Search,26.0
+C52121,2024-02-17,Germany,Organic Search,
+C52122,2022-08-06,France,Referral,49.0
+C52123,2023-03-27,Germany,Paid Social,38.0
+C52124,2023-01-13,France,Paid Social,34.0
+C52125,2023-08-08,Netherlands,Direct,40.0
+C52126,2023-05-24,DE,Organic Search,33.0
+C52127,2022-11-15,Germany,Organic Search,52.0
+C52128,2022-10-13,Italy,Organic Search,
+C52129,2022-07-17,Netherlands,Organic Search,55.0
+C52130,2023-01-10,Germany,Email,18.0
+C52131,2022-01-13,GERMANY,Referral,33.0
+C52132,2024-08-30,Germany,Email,
+C52133,2023-11-14,SPAIN,Organic Search,44.0
+C52134,2021-12-11,Germany,Paid Social,18.0
+C52135,2024-02-26,France,Organic Search,18.0
+C52136,2024-08-06,Netherlands,Email,54.0
+C52137,2022-06-24,Spain,Email,31.0
+C52138,2022-01-14,Netherlands,Organic Search,20.0
+C52139,2021-01-29,Austria,Referral,25.0
+C52140,2021-05-22,Germany,Referral,43.0
+C52141,2024-05-10,Spain,Organic Search,28.0
+C52142,2024-12-20,Germany,Email,41.0
+C52143,2021-05-15,Germany,Email,26.0
+C52144,2024-04-25,Italy,Organic Search,18.0
+C52145,2021-07-24,Germany,Organic Search,55.0
+C52146,2023-11-02,  GERMANY ,Email,43.0
+C52147,2024-05-03,Netherlands,Direct,34.0
+C52148,2023-01-02,Germany,Email,32.0
+C52149,2021-02-05,Germany,Email,56.0
+C52150,2023-11-06,Netherlands,Email,45.0
+C52151,2024-12-23,Austria,Paid Social,52.0
+C52152,2022-07-28,Austria,Organic Search,31.0
+C52153,2022-03-30,Germany,Paid Social,39.0
+C52154,2021-11-20,France,Direct,43.0
+C52155,2023-09-19,Austria,Referral,31.0
+C52156,2023-11-07,Germany,Direct,37.0
+C52157,2024-06-10,Germany,Organic Search,31.0
+C52158,2024-04-30,Germany,Paid Social,43.0
+C52159,2024-09-20,DE,Email,22.0
+C52160,2024-06-24,Germany,Organic Search,45.0
+C52161,2022-07-11,Austria,Organic Search,42.0
+C52162,2023-09-20,Italy,Referral,36.0
+C52163,2022-09-30,Germany,Email,43.0
+C52164,2022-11-19,Netherlands,Email,34.0
+C52165,2024-10-28,Germany,Organic Search,30.0
+C52166,2024-02-13,Germany,Paid Social,45.0
+C52167,2024-12-08,Austria,Organic Search,45.0
+C52168,2023-03-25,France,Organic Search,32.0
+C52169,2023-08-28,Italy,Paid Social,31.0
+C52170,2023-06-26,France,Organic Search,36.0
+C52171,2021-10-15,Germany,Direct,31.0
+C52172,2022-06-23,France,Paid Social,56.0
+C52173,2023-08-16,Germany,Organic Search,42.0
+C52174,2021-07-13,Spain,Organic Search,38.0
+C52175,2024-10-27,Netherlands,Email,
+C52176,2021-11-20,Germany,Organic Search,47.0
+C52177,2022-04-15,France,Organic Search,31.0
+C52178,2024-05-13,Netherlands,Paid Social,30.0
+C52179,2021-09-21,Austria,Organic Search,47.0
+C52180,2024-09-27,Germany,Email,43.0
+C52181,2024-04-01,Germany,Paid Social,18.0
+C52182,2021-07-16,Germany,Organic Search,36.0
+C52183,2024-02-24,Germany,Referral,40.0
+C52184,2023-12-18,France,Paid Social,34.0
+C52185,2024-05-05,Germany,Email,40.0
+C52186,2024-07-17,Germany,Organic Search,18.0
+C52187,2024-03-24,FRANCE,Email,18.0
+C52188,2023-10-26,Germany,Organic Search,26.0
+C52189,2022-11-08,Spain,Paid Social,41.0
+C52190,2024-03-01,Netherlands,Organic Search,18.0
+C52191,2024-11-21,Germany,Direct,28.0
+C52192,2023-10-28,FRANCE,Organic Search,18.0
+C52193,2024-01-24,Germany,Direct,35.0
+C52194,2023-04-21,Spain,Direct,
+C52195,2024-05-03,France,Paid Social,35.0
+C52196,2024-12-29,France,Organic Search,37.0
+C52197,2022-02-03,Spain,Paid Social,48.0
+C52198,2022-04-23,Spain,Direct,38.0
+C52199,2023-08-31,Austria,Email,35.0
+C52200,2023-06-18,Germany,Paid Social,49.0
+C52201,2023-10-09,Germany,Organic Search,44.0
+C52202,2021-05-27,Netherlands,Referral,41.0
+C52203,2023-03-07,  France ,Organic Search,36.0
+C52204,2023-10-22,Netherlands,Organic Search,34.0
+C52205,2023-10-25,Austria,Organic Search,
+C52206,2024-01-16,Germany,Paid Social,34.0
+C52207,2024-03-26,Germany,Direct,53.0
+C52208,2023-12-30,France,Referral,25.0
+C52209,2024-06-08,DE,Organic Search,55.0
+C52210,2023-12-10,Netherlands,Paid Social,44.0
+C52211,2023-08-28,Austria,Referral,26.0
+C52212,2023-11-19,France,Paid Social,44.0
+C52213,2021-10-01,Austria,Organic Search,30.0
+C52214,2022-08-22,France,Paid Social,38.0
+C52215,2023-08-16,Austria,Email,32.0
+C52216,2024-08-31,  Germany ,Direct,36.0
+C52217,2024-02-10,Austria,Email,49.0
+C52218,2021-09-06,Austria,Organic Search,44.0
+C52219,2023-11-02,Germany,Email,24.0
+C52220,2022-05-28,France,Organic Search,25.0
+C52221,2024-04-10,Spain,Direct,41.0
+C52222,2024-07-16,Germany,Paid Social,42.0
+C52223,2023-11-04,  Austria ,Organic Search,30.0
+C52224,2023-11-01,Italy,Paid Social,57.0
+C52225,2022-12-02,SPAIN,Organic Search,48.0
+C52226,2023-05-03,Germany,Organic Search,30.0
+C52227,2024-08-22,Netherlands,Email,29.0
+C52228,2024-03-29,Italy,Referral,35.0
+C52229,2023-08-06,France,Referral,34.0
+C52230,2023-01-15,Germany,Paid Social,53.0
+C52231,2021-05-30,Germany,Organic Search,50.0
+C52232,2021-12-30,Austria,Paid Social,38.0
+C52233,2022-04-06,FRANCE,Paid Social,46.0
+C52234,2023-01-22,Germany,Organic Search,48.0
+C52235,2024-11-09,Germany,Direct,39.0
+C52236,2023-07-19,Austria,Direct,43.0
+C52237,2022-06-19,France,Organic Search,45.0
+C52238,2021-10-11,Spain,Referral,44.0
+C52239,2022-12-02,  AUSTRIA ,Email,29.0
+C52240,2024-07-05,Italy,Organic Search,30.0
+C52241,2023-02-06,SPAIN,Email,35.0
+C52242,2024-05-21,Germany,Organic Search,30.0
+C52243,2024-06-21,Netherlands,Organic Search,20.0
+C52244,2021-10-23,Germany,Direct,46.0
+C52245,2023-11-22,Italy,Email,42.0
+C52246,2024-11-23,Germany,Organic Search,22.0
+C52247,2023-03-04,Netherlands,Paid Social,35.0
+C52248,2021-06-01,Spain,Direct,
+C52249,2024-10-20,Germany,Paid Social,40.0
+C52250,2024-09-11,Spain,Direct,25.0
+C52251,2023-08-09,Germany,Direct,22.0
+C52252,2023-09-15,  France ,Paid Social,
+C52253,2022-05-10,France,Email,20.0
+C52254,2024-07-08,Germany,Email,35.0
+C52255,2023-07-10,Netherlands,Referral,34.0
+C52256,2021-04-15,Spain,Paid Social,37.0
+C52257,2024-02-14,Germany,Organic Search,41.0
+C52258,2024-11-15,France,Organic Search,57.0
+C52259,2024-07-18,Spain,Email,19.0
+C52260,2022-08-29,Austria,Referral,49.0
+C52261,2021-06-07,GERMANY,Referral,18.0
+C52262,2024-11-05,Italy,Email,55.0
+C52263,2024-11-02,Germany,Organic Search,18.0
+C52264,2023-08-22,Netherlands,Organic Search,67.0
+C52265,2023-12-30,France,Referral,33.0
+C52266,2023-05-25,Austria,Paid Social,53.0
+C52267,2023-03-28,Germany,Referral,51.0
+C52268,2021-11-10,Germany,Organic Search,33.0
+C52269,2021-09-21,Austria,Paid Social,34.0
+C52270,2022-06-16,Germany,Direct,28.0
+C52271,2024-07-26,  France ,Organic Search,47.0
+C52272,2022-01-05,Austria,Organic Search,33.0
+C52273,2022-06-05,Netherlands,Email,28.0
+C52274,2023-09-11,  Germany ,Email,44.0
+C52275,2022-05-16,Germany,Direct,27.0
+C52276,2022-02-08,Italy,Direct,34.0
+C52277,2023-09-29,FRANCE,Referral,39.0
+C52278,2023-01-15,Germany,Organic Search,30.0
+C52279,2023-12-12,  Germany ,Paid Social,32.0
+C52280,2024-10-09,Germany,Direct,56.0
+C52281,2022-01-15,Italy,Paid Social,36.0
+C52282,2024-10-10,Germany,Direct,34.0
+C52283,2024-09-29,Germany,Email,36.0
+C52284,2024-07-18,France,Organic Search,
+C52285,2023-12-18,Germany,Paid Social,26.0
+C52286,2023-12-05,Germany,Email,43.0
+C52287,2023-12-27,Italy,Organic Search,41.0
+C52288,2024-02-22,Netherlands,Paid Social,18.0
+C52289,2021-02-22,Germany,Email,60.0
+C52290,2024-11-22,DE,Organic Search,56.0
+C52291,2023-10-25,Germany,Paid Social,28.0
+C52292,2024-05-30,Germany,Email,25.0
+C52293,2023-01-28,Netherlands,Referral,41.0
+C52294,2021-02-10,France,Paid Social,21.0
+C52295,2023-07-25,Austria,Direct,54.0
+C52296,2023-07-21,Spain,Direct,
+C52297,2023-04-21,Germany,Paid Social,57.0
+C52298,2022-12-04,Italy,Organic Search,28.0
+C52299,2022-07-15,France,Referral,37.0
+C52300,2023-08-16,Germany,Organic Search,53.0
+C52301,2023-01-25,SPAIN,Referral,34.0
+C52302,2024-12-03,  Germany ,Email,41.0
+C52303,2022-02-27,France,Paid Social,51.0
+C52304,2022-11-04,Austria,Email,31.0
+C52305,2022-09-25,Germany,Paid Social,23.0
+C52306,2023-09-04,Spain,Direct,20.0
+C52307,2023-07-11,Germany,Organic Search,45.0
+C52308,2024-01-01,Spain,Direct,43.0
+C52309,2024-11-14,GERMANY,Organic Search,51.0
+C52310,2022-09-11,Germany,Referral,35.0
+C52311,2024-02-25,Germany,Direct,
+C52312,2021-03-20,Spain,Paid Social,18.0
+C52313,2022-08-05,Germany,Organic Search,72.0
+C52314,2023-05-26,Spain,Referral,44.0
+C52315,2021-04-07,Germany,Referral,40.0
+C52316,2023-12-02,France,Paid Social,41.0
+C52317,2024-02-09,Germany,Paid Social,21.0
+C52318,2024-04-23,Germany,Referral,28.0
+C52319,2023-08-02,Italy,Organic Search,59.0
+C52320,2023-11-16,FRANCE,Email,46.0
+C52321,2023-02-24,Netherlands,Paid Social,29.0
+C52322,2021-05-05,France,Organic Search,23.0
+C52323,2021-09-28,France,Referral,32.0
+C52324,2024-01-14,Netherlands,Paid Social,
+C52325,2024-12-27,Spain,Direct,63.0
+C52326,2021-02-20,Netherlands,Email,36.0
+C52327,2023-09-22,France,Paid Social,24.0
+C52328,2024-04-28,Netherlands,Paid Social,37.0
+C52329,2024-07-16,Netherlands,Paid Social,41.0
+C52330,2023-09-07,France,Referral,23.0
+C52331,2023-12-05,Netherlands,Email,43.0
+C52332,2024-02-29,France,Referral,53.0
+C52333,2024-08-17,Austria,Paid Social,40.0
+C52334,2021-11-17,Italy,Organic Search,28.0
+C52335,2024-10-22,Italy,Organic Search,32.0
+C52336,2021-03-23,Spain,Referral,18.0
+C52337,2024-07-25,Netherlands,Paid Social,36.0
+C52338,2021-08-05,Austria,Paid Social,42.0
+C52339,2022-04-09,Germany,Paid Social,27.0
+C52340,2021-01-13,France,Paid Social,61.0
+C52341,2023-05-02,Germany,Email,48.0
+C52342,2022-11-26,Germany,Email,18.0
+C52343,2022-02-14,Italy,Direct,18.0
+C52344,2023-05-10,Spain,Organic Search,26.0
+C52345,2023-03-04,France,Email,57.0
+C52346,2024-05-16,Germany,Organic Search,49.0
+C52347,2024-09-20,Netherlands,Referral,57.0
+C52348,2024-01-11,France,Email,38.0
+C52349,2021-11-21,Austria,Paid Social,35.0
+C52350,2022-09-27,Italy,Referral,23.0
+C52351,2024-10-10,Germany,Paid Social,42.0
+C52352,2021-09-02,Germany,Organic Search,36.0
+C52353,2023-03-11,Germany,Paid Social,35.0
+C52354,2024-11-07,Germany,Organic Search,57.0
+C52355,2024-11-15,Germany,Direct,36.0
+C52356,2023-03-17,Germany,Referral,54.0
+C52357,2024-01-28,Germany,Referral,19.0
+C52358,2023-05-17,Germany,Direct,70.0
+C52359,2024-05-01,Germany,Referral,34.0
+C52360,2021-04-08,Austria,Paid Social,46.0
+C52361,2022-01-01,Germany,Organic Search,48.0
+C52362,2023-11-28,Spain,Paid Social,32.0
+C52363,2022-06-15,Germany,Direct,48.0
+C52364,2024-01-26,GERMANY,Direct,48.0
+C52365,2022-12-21,Germany,Referral,29.0
+C52366,2024-09-14,Austria,Organic Search,30.0
+C52367,2024-07-08,Germany,Organic Search,39.0
+C52368,2023-07-03,France,Direct,37.0
+C52369,2024-05-21,Germany,Organic Search,55.0
+C52370,2022-08-19,Italy,Email,46.0
+C52371,2023-07-05,Germany,Paid Social,37.0
+C52372,2022-04-14,Germany,Organic Search,45.0
+C52373,2024-08-19,Spain,Email,18.0
+C52374,2024-07-12,Germany,Direct,31.0
+C52375,2024-09-29,Germany,Referral,41.0
+C52376,2024-09-05,Austria,Paid Social,51.0
+C52377,2024-11-23,Germany,Paid Social,40.0
+C52378,2022-06-08,Germany,Direct,55.0
+C52379,2024-10-28,  France ,Email,48.0
+C52380,2023-10-08,Germany,Paid Social,32.0
+C52381,2023-04-01,Spain,Email,36.0
+C52382,2023-09-25,Netherlands,Organic Search,
+C52383,2022-12-08,NETHERLANDS,Organic Search,33.0
+C52384,2022-09-16,Germany,Direct,56.0
+C52385,2022-06-30,Netherlands,Email,25.0
+C52386,2021-08-19,Netherlands,Organic Search,42.0
+C52387,2023-07-08,Germany,Organic Search,47.0
+C52388,2024-09-15,Spain,Direct,34.0
+C52389,2023-12-16,France,Email,32.0
+C52390,2023-08-08,Austria,Email,37.0
+C52391,2023-04-10,Germany,Organic Search,48.0
+C52392,2023-05-27,Germany,Direct,
+C52393,2022-05-05,Netherlands,Direct,25.0
+C52394,2024-07-12,Austria,Paid Social,52.0
+C52395,2022-04-16,DE,Organic Search,43.0
+C52396,2024-03-22,GERMANY,Email,50.0
+C52397,2024-05-08,Austria,Referral,47.0
+C52398,2023-10-13,GERMANY,Referral,64.0
+C52399,2024-08-21,Germany,Direct,
+C52400,2022-09-20,Netherlands,Email,29.0
+C52401,2024-09-09,Germany,Paid Social,
+C52402,2024-04-05,Germany,Paid Social,31.0
+C52403,2024-06-17,Germany,Referral,33.0
+C52404,2024-01-25,Spain,Organic Search,21.0
+C52405,2024-08-05,Germany,Organic Search,35.0
+C52406,2024-12-25,Netherlands,Email,45.0
+C52407,2023-03-29,Italy,Paid Social,37.0
+C52408,2024-07-03,NETHERLANDS,Referral,25.0
+C52409,2024-04-21,France,Organic Search,20.0
+C52410,2023-05-12,  France ,Paid Social,63.0
+C52411,2024-10-23,Germany,Organic Search,42.0
+C52412,2023-02-21,  Netherlands ,Email,28.0
+C52413,2023-10-01,Italy,Referral,44.0
+C52414,2021-10-12,Austria,Paid Social,64.0
+C52415,2022-06-04,France,Paid Social,45.0
+C52416,2024-07-30,GERMANY,Organic Search,18.0
+C52417,2023-02-24,Spain,Email,70.0
+C52418,2023-02-21,Germany,Direct,18.0
+C52419,2022-07-08,Spain,Referral,36.0
+C52420,2023-07-02,Germany,Organic Search,24.0
+C52421,2024-06-24,Austria,Email,29.0
+C52422,2024-09-22,AUSTRIA,Organic Search,41.0
+C52423,2021-07-20,France,Organic Search,18.0
+C52424,2023-10-13,Germany,Organic Search,37.0
+C52425,2023-05-31,Spain,Organic Search,52.0
+C52426,2023-11-28,Germany,Organic Search,28.0
+C52427,2023-05-05,Germany,Referral,21.0
+C52428,2023-02-27,France,Organic Search,36.0
+C52429,2023-06-06,France,Referral,34.0
+C52430,2023-10-21,Netherlands,Direct,31.0
+C52431,2023-07-14,Germany,Email,24.0
+C52432,2023-06-06,France,Paid Social,44.0
+C52433,2024-07-07,Spain,Referral,45.0
+C52434,2024-04-22,Germany,Organic Search,25.0
+C52435,2022-12-07,France,Paid Social,27.0
+C52436,2024-06-19,Netherlands,Paid Social,40.0
+C52437,2024-08-12,Spain,Referral,26.0
+C52438,2022-01-20,Netherlands,Referral,40.0
+C52439,2023-10-22,Spain,Referral,56.0
+C52440,2022-09-11,Germany,Email,37.0
+C52441,2024-04-15,GERMANY,Paid Social,23.0
+C52442,2022-06-26,Italy,Referral,43.0
+C52443,2024-02-01,Spain,Direct,36.0
+C52444,2022-07-24,DE,Paid Social,36.0
+C52445,2023-07-26,France,Direct,44.0
+C52446,2024-11-13,France,Direct,46.0
+C52447,2023-02-03,Germany,Paid Social,38.0
+C52448,2024-09-03,DE,Organic Search,
+C52449,2024-12-19,Austria,Organic Search,63.0
+C52450,2024-09-02,France,Referral,52.0
+C52451,2022-02-13,Germany,Organic Search,48.0
+C52452,2024-07-09,Germany,Paid Social,40.0
+C52453,2021-04-10,Germany,Email,26.0
+C52454,2023-02-20,AUSTRIA,Direct,52.0
+C52455,2024-08-29,France,Referral,40.0
+C52456,2024-02-21,Germany,Referral,31.0
+C52457,2023-08-22,Netherlands,Paid Social,35.0
+C52458,2023-02-12,Italy,Organic Search,26.0
+C52459,2024-07-01,Germany,Email,51.0
+C52460,2024-03-14,France,Organic Search,46.0
+C52461,2023-06-02,France,Email,40.0
+C52462,2024-09-20,GERMANY,Direct,37.0
+C52463,2022-06-11,France,Email,30.0
+C52464,2022-02-22,Netherlands,Email,18.0
+C52465,2023-12-31,Germany,Email,21.0
+C52466,2024-12-05,Germany,Referral,29.0
+C52467,2022-07-11,Spain,Paid Social,27.0
+C52468,2022-07-15,Germany,Paid Social,41.0
+C52469,2021-12-23,Netherlands,Organic Search,48.0
+C52470,2024-08-19,Netherlands,Email,36.0
+C52471,2022-06-05,Spain,Organic Search,55.0
+C52472,2023-07-16,Austria,Paid Social,29.0
+C52473,2024-12-23,DE,Referral,36.0
+C52474,2021-02-09,Netherlands,Organic Search,
+C52475,2023-09-20,France,Email,51.0
+C52476,2023-07-28,Germany,Organic Search,39.0
+C52477,2024-06-26,Germany,Organic Search,40.0
+C52478,2022-12-27,Germany,Organic Search,18.0
+C52479,2023-03-16,Germany,Organic Search,27.0
+C52480,2022-02-17,France,Direct,51.0
+C52481,2024-04-17,Germany,Direct,18.0
+C52482,2024-06-02,Germany,Email,54.0
+C52483,2021-12-17,Germany,Email,44.0
+C52484,2023-02-20,  Austria ,Referral,29.0
+C52485,2024-09-20,France,Direct,28.0
+C52486,2021-01-10,Austria,Paid Social,61.0
+C52487,2022-10-02,France,Organic Search,55.0
+C52488,2023-09-19,Spain,Email,37.0
+C52489,2022-11-26,Austria,Direct,40.0
+C52490,2022-08-21,Germany,Organic Search,30.0
+C52491,2023-05-22,Italy,Paid Social,40.0
+C52492,2022-03-15,Germany,Paid Social,30.0
+C52493,2023-08-18,Netherlands,Paid Social,37.0
+C52494,2024-03-11,AUSTRIA,Email,60.0
+C52495,2023-10-13,  Germany ,Paid Social,37.0
+C52496,2021-09-13,Netherlands,Direct,
+C52497,2024-08-03,Germany,Referral,
+C52498,2022-03-03,Germany,Organic Search,40.0
+C52499,2024-05-13,Germany,Referral,29.0
+C52500,2023-01-04,Germany,Referral,41.0
+C52501,2024-05-31,Germany,Paid Social,19.0
+C52502,2022-04-30,Netherlands,Paid Social,46.0
+C52503,2022-03-25,France,Referral,
+C52504,2023-07-08,  France ,Paid Social,39.0
+C52505,2021-04-12,Netherlands,Organic Search,34.0
+C52506,2022-06-03,Germany,Paid Social,59.0
+C52507,2024-03-30,Germany,Organic Search,40.0
+C52508,2024-07-27,Austria,Email,61.0
+C52509,2021-08-15,Spain,Organic Search,45.0
+C52510,2024-09-09,France,Email,55.0
+C52511,2024-06-16,Germany,Paid Social,35.0
+C52512,2024-08-28,AUSTRIA,Referral,42.0
+C52513,2024-03-02,DE,Paid Social,53.0
+C52514,2024-02-04,GERMANY,Direct,49.0
+C52515,2023-08-13,Germany,Direct,44.0
+C52516,2024-01-11,Germany,Organic Search,34.0
+C52517,2024-10-16,Netherlands,Email,
+C52518,2021-09-30,Spain,Organic Search,
+C52519,2022-10-29,Netherlands,Referral,54.0
+C52520,2021-07-25,Germany,Email,31.0
+C52521,2024-11-09,Netherlands,Organic Search,29.0
+C52522,2023-05-02,Spain,Organic Search,27.0
+C52523,2024-02-06,France,Paid Social,48.0
+C52524,2024-07-30,Austria,Referral,27.0
+C52525,2024-12-23,Germany,Referral,48.0
+C52526,2022-02-05,Germany,Organic Search,45.0
+C52527,2024-06-18,NETHERLANDS,Organic Search,31.0
+C52528,2024-09-15,France,Paid Social,57.0
+C52529,2021-05-26,Italy,Email,20.0
+C52530,2024-05-01,France,Organic Search,
+C52531,2022-12-26,Germany,Paid Social,42.0
+C52532,2024-01-07,Germany,Direct,18.0
+C52533,2023-07-30,France,Paid Social,57.0
+C52534,2022-07-31,Germany,Referral,50.0
+C52535,2021-12-14,Austria,Paid Social,33.0
+C52536,2021-11-05,Germany,Paid Social,26.0
+C52537,2021-10-06,Germany,Email,19.0
+C52538,2023-12-25,Netherlands,Organic Search,67.0
+C52539,2022-12-21,Germany,Organic Search,27.0
+C52540,2022-05-19,Netherlands,Direct,23.0
+C52541,2024-02-24,France,Direct,41.0
+C52542,2024-02-18,France,Referral,18.0
+C52543,2023-08-30,Austria,Organic Search,26.0
+C52544,2024-10-31,Austria,Organic Search,
+C52545,2023-02-09,Spain,Organic Search,
+C52546,2024-07-25,Germany,Direct,33.0
+C52547,2021-08-01,Germany,Referral,38.0
+C52548,2024-04-16,Austria,Paid Social,33.0
+C52549,2024-12-21,Netherlands,Direct,37.0
+C52550,2024-08-05,Netherlands,Organic Search,29.0
+C52551,2023-10-18,France,Email,31.0
+C52552,2023-12-13,Austria,Organic Search,31.0
+C52553,2022-12-24,Germany,Organic Search,29.0
+C52554,2024-02-10,France,Direct,51.0
+C52555,2024-05-18,Germany,Direct,
+C52556,2024-12-30,Germany,Organic Search,27.0
+C52557,2023-07-03,Netherlands,Organic Search,24.0
+C52558,2021-06-27,DE,Email,36.0
+C52559,2023-11-07,Germany,Organic Search,64.0
+C52560,2021-11-10,Spain,Email,26.0
+C52561,2022-07-06,Austria,Email,36.0
+C52562,2022-11-18,France,Organic Search,39.0
+C52563,2024-04-07,Italy,Organic Search,37.0
+C52564,2022-03-20,France,Organic Search,33.0
+C52565,2022-02-13,Austria,Direct,52.0
+C52566,2021-05-15,Germany,Paid Social,43.0
+C52567,2024-09-01,Germany,Email,48.0
+C52568,2024-02-26,Germany,Organic Search,45.0
+C52569,2021-05-02,  Germany ,Email,49.0
+C52570,2021-03-30,FRANCE,Organic Search,57.0
+C52571,2023-09-23,Germany,Organic Search,54.0
+C52572,2022-09-07,Netherlands,Referral,66.0
+C52573,2023-11-08,Germany,Email,53.0
+C52574,2023-04-18,Germany,Organic Search,30.0
+C52575,2024-10-20,Italy,Paid Social,48.0
+C52576,2022-09-15,NETHERLANDS,Direct,47.0
+C52577,2024-02-10,Italy,Organic Search,61.0
+C52578,2021-06-09,France,Organic Search,26.0
+C52579,2024-11-20,Germany,Paid Social,45.0
+C52580,2024-12-13,France,Organic Search,30.0
+C52581,2024-04-15,France,Email,44.0
+C52582,2023-05-28,Germany,Email,35.0
+C52583,2022-05-25,Spain,Paid Social,44.0
+C52584,2024-07-01,Netherlands,Email,21.0
+C52585,2024-04-12,Austria,Paid Social,48.0
+C52586,2022-05-28,France,Referral,40.0
+C52587,2023-05-10,  Netherlands ,Organic Search,40.0
+C52588,2023-05-25,GERMANY,Paid Social,61.0
+C52589,2024-07-15,Italy,Email,33.0
+C52590,2024-02-15,Germany,Paid Social,42.0
+C52591,2023-12-31,Germany,Organic Search,39.0
+C52592,2024-01-08,Germany,Paid Social,40.0
+C52593,2022-08-18,  Netherlands ,Email,65.0
+C52594,2023-01-20,Italy,Organic Search,39.0
+C52595,2021-05-17,SPAIN,Email,31.0
+C52596,2024-06-05,Netherlands,Referral,60.0
+C52597,2023-04-15,Italy,Email,34.0
+C52598,2023-04-23,Austria,Organic Search,19.0
+C52599,2022-07-07,Germany,Referral,29.0
+C52600,2022-05-06,Netherlands,Organic Search,23.0
+C52601,2023-10-28,Germany,Direct,18.0
+C52602,2022-06-15,Germany,Email,34.0
+C52603,2021-07-05,Germany,Organic Search,
+C52604,2024-05-15,Germany,Referral,52.0
+C52605,2023-01-27,Italy,Paid Social,46.0
+C52606,2023-02-01,Italy,Paid Social,45.0
+C52607,2023-04-13,Germany,Paid Social,27.0
+C52608,2024-07-04,Netherlands,Email,49.0
+C52609,2022-11-06,Germany,Email,55.0
+C52610,2024-05-05,Germany,Direct,43.0
+C52611,2024-11-04,Germany,Organic Search,43.0
+C52612,2024-01-20,Germany,Email,23.0
+C52613,2023-04-14,Germany,Email,51.0
+C52614,2024-04-25,Germany,Email,59.0
+C52615,2023-05-19,Germany,Paid Social,42.0
+C52616,2023-03-21,Germany,Paid Social,31.0
+C52617,2023-08-13,Spain,Referral,36.0
+C52618,2022-11-01,Germany,Organic Search,33.0
+C52619,2021-10-08,Germany,Organic Search,34.0
+C52620,2023-03-22,France,Paid Social,46.0
+C52621,2021-11-20,Germany,Organic Search,41.0
+C52622,2023-03-16,France,Organic Search,50.0
+C52623,2023-09-21,Germany,Organic Search,42.0
+C52624,2024-10-27,Netherlands,Email,28.0
+C52625,2021-04-21,France,Direct,32.0
+C52626,2023-12-06,Netherlands,Paid Social,31.0
+C52627,2023-05-19,FRANCE,Organic Search,36.0
+C52628,2021-03-06,France,Referral,60.0
+C52629,2022-07-14,Germany,Organic Search,61.0
+C52630,2021-11-08,  Germany ,Direct,48.0
+C52631,2022-05-19,France,Email,39.0
+C52632,2022-08-25,Germany,Organic Search,22.0
+C52633,2023-03-03,Germany,Paid Social,41.0
+C52634,2023-08-18,Netherlands,Paid Social,29.0
+C52635,2021-01-04,GERMANY,Referral,58.0
+C52636,2022-02-06,Germany,Organic Search,19.0
+C52637,2021-09-14,  Netherlands ,Direct,43.0
+C52638,2023-09-12,Germany,Referral,28.0
+C52639,2022-11-18,Austria,Direct,38.0
+C52640,2023-09-11,Italy,Direct,46.0
+C52641,2022-05-28,ITALY,Organic Search,50.0
+C52642,2021-03-18,France,Paid Social,37.0
+C52643,2024-11-06,Germany,Referral,47.0
+C52644,2021-10-17,Netherlands,Paid Social,30.0
+C52645,2021-11-26,Netherlands,Organic Search,41.0
+C52646,2022-01-06,Netherlands,Organic Search,50.0
+C52647,2024-12-14,Germany,Organic Search,42.0
+C52648,2023-12-02,Germany,Direct,32.0
+C52649,2023-11-23,Germany,Paid Social,35.0
+C52650,2024-12-19,GERMANY,Email,50.0
+C52651,2021-09-02,Germany,Direct,25.0
+C52652,2024-12-08,Italy,Organic Search,27.0
+C52653,2022-04-26,Germany,Referral,45.0
+C52654,2023-12-08,Netherlands,Organic Search,33.0
+C52655,2023-03-29,Italy,Organic Search,21.0
+C52656,2023-02-07,Germany,Organic Search,54.0
+C52657,2024-10-27,FRANCE,Paid Social,25.0
+C52658,2022-01-11,Netherlands,Paid Social,36.0
+C52659,2024-12-29,Germany,Paid Social,
+C52660,2023-01-31,France,Organic Search,34.0
+C52661,2024-01-07,Austria,Organic Search,27.0
+C52662,2024-12-01,  Austria ,Email,47.0
+C52663,2021-06-18,Austria,Organic Search,39.0
+C52664,2024-10-19,Italy,Referral,50.0
+C52665,2023-10-04,Germany,Direct,31.0
+C52666,2024-03-09,Austria,Email,64.0
+C52667,2022-01-11,DE,Email,18.0
+C52668,2023-08-23,Netherlands,Email,19.0
+C52669,2024-02-04,Austria,Email,59.0
+C52670,2023-05-17,Austria,Direct,44.0
+C52671,2022-01-23,SPAIN,Direct,42.0
+C52672,2022-07-05,Germany,Paid Social,
+C52673,2024-08-13,Netherlands,Email,45.0
+C52674,2021-04-16,Germany,Referral,42.0
+C52675,2024-03-14,Netherlands,Organic Search,26.0
+C52676,2024-12-31,Austria,Paid Social,48.0
+C52677,2021-01-25,Austria,Email,46.0
+C52678,2022-02-04,France,Email,55.0
+C52679,2024-02-04,France,Paid Social,59.0
+C52680,2021-06-24,Germany,Organic Search,42.0
+C52681,2023-10-30,Germany,Organic Search,23.0
+C52682,2024-02-15,Germany,Email,59.0
+C52683,2023-10-28,Spain,Direct,26.0
+C52684,2023-01-11,Germany,Direct,42.0
+C52685,2024-03-01,ITALY,Paid Social,35.0
+C52686,2023-11-05,Germany,Organic Search,33.0
+C52687,2022-05-02,Austria,Referral,47.0
+C52688,2023-09-29,France,Email,41.0
+C52689,2024-09-09,Netherlands,Paid Social,44.0
+C52690,2024-01-27,Netherlands,Paid Social,28.0
+C52691,2023-06-06,Netherlands,Organic Search,36.0
+C52692,2022-11-07,Spain,Referral,29.0
+C52693,2021-08-27,France,Email,
+C52694,2022-07-06,Germany,Paid Social,37.0
+C52695,2021-02-06,Germany,Direct,60.0
+C52696,2024-12-19,Netherlands,Email,35.0
+C52697,2022-05-29,France,Direct,
+C52698,2024-07-04,France,Paid Social,55.0
+C52699,2022-02-19,Netherlands,Paid Social,43.0
+C52700,2022-09-08,Germany,Direct,36.0
+C52701,2023-03-26,AUSTRIA,Direct,33.0
+C52702,2022-11-11,Austria,Direct,27.0
+C52703,2024-06-17,  Austria ,Referral,61.0
+C52704,2024-11-22,Austria,Paid Social,39.0
+C52705,2024-09-03,Spain,Organic Search,18.0
+C52706,2022-01-20,Netherlands,Paid Social,42.0
+C52707,2024-05-25,Italy,Direct,52.0
+C52708,2022-01-09,Germany,Paid Social,40.0
+C52709,2024-10-10,Netherlands,Referral,27.0
+C52710,2023-08-04,Austria,Direct,26.0
+C52711,2022-11-29,France,Direct,27.0
+C52712,2022-01-27,Germany,Direct,
+C52713,2021-02-08,France,Email,37.0
+C52714,2022-07-12,Germany,Paid Social,18.0
+C52715,2024-10-11,Spain,Direct,43.0
+C52716,2024-06-16,  GERMANY ,Organic Search,40.0
+C52717,2024-12-03,Germany,Organic Search,33.0
+C52718,2021-09-30,France,Direct,26.0
+C52719,2023-11-02,Germany,Email,25.0
+C52720,2022-07-27,Germany,Paid Social,51.0
+C52721,2023-09-04,France,Organic Search,41.0
+C52722,2022-11-05,  France ,Paid Social,44.0
+C52723,2022-09-08,Germany,Direct,41.0
+C52724,2023-10-11,Netherlands,Email,42.0
+C52725,2022-03-19,DE,Paid Social,32.0
+C52726,2023-06-02,Austria,Email,36.0
+C52727,2024-01-09,DE,Direct,52.0
+C52728,2021-11-29,Germany,Direct,55.0
+C52729,2024-10-27,Italy,Paid Social,23.0
+C52730,2023-07-20,France,Email,36.0
+C52731,2024-07-08,  Germany ,Organic Search,48.0
+C52732,2024-01-13,Spain,Paid Social,61.0
+C52733,2024-03-15,Germany,Organic Search,59.0
+C52734,2024-03-22,Austria,Paid Social,28.0
+C52735,2024-09-02,Netherlands,Email,53.0
+C52736,2023-11-27,Italy,Paid Social,39.0
+C52737,2022-08-31,Italy,Organic Search,51.0
+C52738,2021-09-27,Germany,Organic Search,47.0
+C52739,2023-11-19,Austria,Organic Search,23.0
+C52740,2021-07-10,Germany,Email,45.0
+C52741,2022-06-30,Netherlands,Organic Search,50.0
+C52742,2021-06-26,Netherlands,Organic Search,38.0
+C52743,2023-09-11,Germany,Direct,35.0
+C52744,2022-02-03,Germany,Organic Search,19.0
+C52745,2023-11-24,Germany,Direct,46.0
+C52746,2024-06-09,Germany,Email,41.0
+C52747,2024-07-11,Germany,Email,27.0
+C52748,2022-10-19,Spain,Email,34.0
+C52749,2023-09-11,France,Organic Search,40.0
+C52750,2023-09-28,Austria,Referral,31.0
+C52751,2023-06-07,Spain,Referral,38.0
+C52752,2024-01-14,Austria,Paid Social,18.0
+C52753,2022-05-07,Germany,Referral,54.0
+C52754,2024-12-12,Spain,Paid Social,38.0
+C52755,2021-09-24,Austria,Direct,25.0
+C52756,2024-07-18,Austria,Referral,18.0
+C52757,2023-11-04,Spain,Organic Search,50.0
+C52758,2022-07-06,Netherlands,Direct,45.0
+C52759,2024-04-22,France,Direct,41.0
+C52760,2021-08-23,Spain,Referral,48.0
+C52761,2024-05-23,France,Organic Search,48.0
+C52762,2023-10-31,Austria,Referral,40.0
+C52763,2021-10-22,  Germany ,Email,35.0
+C52764,2021-08-12,Germany,Paid Social,33.0
+C52765,2024-04-28,France,Direct,43.0
+C52766,2022-09-23,Germany,Email,55.0
+C52767,2024-09-16,Italy,Direct,37.0
+C52768,2024-05-10,Germany,Email,56.0
+C52769,2024-03-02,Austria,Organic Search,42.0
+C52770,2022-08-31,Germany,Direct,43.0
+C52771,2024-03-14,Italy,Email,67.0
+C52772,2024-11-13,Germany,Paid Social,58.0
+C52773,2021-09-09,GERMANY,Paid Social,58.0
+C52774,2022-11-14,Germany,Organic Search,28.0
+C52775,2022-06-19,France,Email,64.0
+C52776,2023-02-20,Italy,Paid Social,37.0
+C52777,2024-04-19,Italy,Direct,35.0
+C52778,2023-06-09,Germany,Direct,18.0
+C52779,2023-10-08,France,Referral,42.0
+C52780,2022-10-26,Germany,Organic Search,
+C52781,2021-12-26,France,Email,43.0
+C52782,2022-08-12,Netherlands,Organic Search,24.0
+C52783,2024-08-18,Germany,Referral,60.0
+C52784,2023-11-14,Netherlands,Paid Social,45.0
+C52785,2023-01-29,Spain,Direct,65.0
+C52786,2024-06-08,DE,Paid Social,26.0
+C52787,2021-07-05,Germany,Organic Search,
+C52788,2022-07-22,Germany,Direct,18.0
+C52789,2022-06-11,Germany,Paid Social,40.0
+C52790,2024-12-18,Germany,Direct,30.0
+C52791,2024-03-11,Netherlands,Direct,33.0
+C52792,2023-12-02,Germany,Paid Social,32.0
+C52793,2021-01-17,Austria,Paid Social,27.0
+C52794,2022-03-21,Spain,Email,23.0
+C52795,2023-12-23,Italy,Referral,33.0
+C52796,2023-01-31,Netherlands,Direct,
+C52797,2024-10-21,GERMANY,Paid Social,52.0
+C52798,2024-05-13,Germany,Referral,42.0
+C52799,2023-05-05,Germany,Organic Search,52.0
+C52800,2024-04-26,Italy,Email,20.0
+C52801,2024-12-08,ITALY,Referral,33.0
+C52802,2023-05-23,  Germany ,Direct,47.0
+C52803,2023-12-31,  Germany ,Paid Social,42.0
+C52804,2024-10-15,France,Paid Social,28.0
+C52805,2022-07-13,Germany,Organic Search,49.0
+C52806,2024-09-14,Italy,Organic Search,32.0
+C52807,2021-09-23,Germany,Paid Social,29.0
+C52808,2024-01-06,Germany,Direct,44.0
+C52809,2024-06-01,France,Paid Social,38.0
+C52810,2023-11-28,GERMANY,Paid Social,32.0
+C52811,2023-07-07,  Germany ,Referral,31.0
+C52812,2023-12-02,Spain,Organic Search,25.0
+C52813,2022-01-16,Germany,Organic Search,33.0
+C52814,2022-05-17,Netherlands,Direct,51.0
+C52815,2022-08-17,Germany,Organic Search,41.0
+C52816,2023-11-09,Germany,Paid Social,50.0
+C52817,2023-04-27,Germany,Email,44.0
+C52818,2022-07-06,Germany,Organic Search,31.0
+C52819,2024-09-10,Germany,Organic Search,18.0
+C52820,2023-01-23,Germany,Organic Search,27.0
+C52821,2023-05-03,Austria,Paid Social,30.0
+C52822,2023-03-15,Austria,Direct,29.0
+C52823,2022-03-16,Italy,Paid Social,50.0
+C52824,2024-04-07,  France ,Paid Social,50.0
+C52825,2023-05-06,Netherlands,Paid Social,65.0
+C52826,2021-02-22,Netherlands,Direct,29.0
+C52827,2024-11-28,GERMANY,Organic Search,57.0
+C52828,2024-07-05,DE,Direct,57.0
+C52829,2024-03-30,France,Paid Social,
+C52830,2024-08-27,Austria,Direct,44.0
+C52831,2024-10-04,France,Paid Social,53.0
+C52832,2022-12-01,Germany,Organic Search,37.0
+C52833,2023-11-24,Italy,Paid Social,36.0
+C52834,2023-11-22,Germany,Organic Search,30.0
+C52835,2022-08-13,ITALY,Referral,18.0
+C52836,2022-05-28,Austria,Email,39.0
+C52837,2021-10-29,Spain,Email,29.0
+C52838,2024-01-19,Austria,Organic Search,25.0
+C52839,2024-05-30,Germany,Email,43.0
+C52840,2024-05-09,Netherlands,Paid Social,21.0
+C52841,2022-10-30,Austria,Direct,48.0
+C52842,2022-04-28,Austria,Referral,44.0
+C52843,2023-05-13,Germany,Email,33.0
+C52844,2023-09-09,Germany,Direct,37.0
+C52845,2024-10-16,Germany,Email,24.0
+C52846,2024-09-02,France,Email,47.0
+C52847,2024-10-13,France,Organic Search,40.0
+C52848,2024-08-09,Spain,Email,41.0
+C52849,2024-11-28,Austria,Paid Social,44.0
+C52850,2023-05-29,Netherlands,Organic Search,30.0
+C52851,2021-05-22,Germany,Referral,20.0
+C52852,2021-08-21,France,Organic Search,49.0
+C52853,2023-02-15,Germany,Email,46.0
+C52854,2022-07-28,Germany,Organic Search,32.0
+C52855,2022-02-21,Germany,Paid Social,
+C52856,2024-11-17,Germany,Direct,53.0
+C52857,2022-04-10,Germany,Organic Search,52.0
+C52858,2024-11-23,FRANCE,Email,31.0
+C52859,2024-05-08,Germany,Email,20.0
+C52860,2023-12-29,Germany,Direct,
+C52861,2024-02-06,Germany,Organic Search,34.0
+C52862,2022-11-22,Netherlands,Referral,56.0
+C52863,2024-01-04,  France ,Paid Social,29.0
+C52864,2022-03-25,  Germany ,Paid Social,31.0
+C52865,2024-11-03,Germany,Paid Social,31.0
+C52866,2022-10-07,Italy,Paid Social,32.0
+C52867,2022-07-24,Netherlands,Paid Social,38.0
+C52868,2024-03-16,Netherlands,Organic Search,23.0
+C52869,2024-01-15,  France ,Paid Social,51.0
+C52870,2023-05-10,Austria,Email,36.0
+C52871,2023-12-19,SPAIN,Paid Social,68.0
+C52872,2022-02-01,Germany,Organic Search,24.0
+C52873,2024-02-03,Netherlands,Paid Social,57.0
+C52874,2022-08-18,DE,Paid Social,55.0
+C52875,2022-08-22,Netherlands,Email,33.0
+C52876,2022-02-06,Germany,Direct,33.0
+C52877,2022-11-23,Germany,Email,27.0
+C52878,2022-11-21,  Italy ,Email,27.0
+C52879,2023-05-14,Spain,Organic Search,38.0
+C52880,2022-04-01,Germany,Direct,38.0
+C52881,2022-04-06,Italy,Paid Social,19.0
+C52882,2023-09-02,  Germany ,Paid Social,66.0
+C52883,2021-12-01,France,Organic Search,35.0
+C52884,2024-02-21,Spain,Organic Search,39.0
+C52885,2024-11-08,Germany,Referral,
+C52886,2023-04-07,France,Organic Search,35.0
+C52887,2024-09-28,Netherlands,Organic Search,34.0
+C52888,2021-09-25,Germany,Organic Search,38.0
+C52889,2021-05-10,France,Direct,38.0
+C52890,2024-03-27,Germany,Referral,48.0
+C52891,2024-05-09,Netherlands,Direct,
+C52892,2024-08-01,Germany,Direct,46.0
+C52893,2021-06-16,GERMANY,Direct,38.0
+C52894,2024-05-25,Austria,Paid Social,41.0
+C52895,2023-01-27,Germany,Organic Search,35.0
+C52896,2022-10-10,France,Paid Social,50.0
+C52897,2022-02-27,Austria,Organic Search,42.0
+C52898,2024-12-28,Austria,Email,36.0
+C52899,2021-07-03,Germany,Organic Search,36.0
+C52900,2024-07-16,Spain,Organic Search,37.0
+C52901,2023-12-27,Austria,Email,38.0
+C52902,2024-04-11,  Germany ,Organic Search,37.0
+C52903,2024-03-17,Austria,Organic Search,31.0
+C52904,2024-08-17,Austria,Organic Search,47.0
+C52905,2022-03-20,  Netherlands ,Email,48.0
+C52906,2021-01-03,FRANCE,Organic Search,59.0
+C52907,2023-11-10,Austria,Organic Search,31.0
+C52908,2022-12-25,ITALY,Organic Search,46.0
+C52909,2021-11-20,France,Referral,18.0
+C52910,2022-03-24,Austria,Organic Search,
+C52911,2022-11-22,Austria,Organic Search,21.0
+C52912,2021-07-20,Spain,Direct,
+C52913,2021-06-16,Italy,Direct,42.0
+C52914,2024-10-13,Germany,Organic Search,31.0
+C52915,2022-10-23,Germany,Organic Search,29.0
+C52916,2024-12-15,Netherlands,Organic Search,32.0
+C52917,2024-11-28,France,Email,47.0
+C52918,2021-12-29,France,Organic Search,27.0
+C52919,2024-03-20,Austria,Direct,37.0
+C52920,2023-11-12,Italy,Referral,33.0
+C52921,2024-02-23,GERMANY,Email,48.0
+C52922,2021-09-20,Austria,Organic Search,
+C52923,2022-03-29,GERMANY,Direct,18.0
+C52924,2021-08-05,France,Email,51.0
+C52925,2023-11-16,Germany,Referral,31.0
+C52926,2024-12-19,France,Organic Search,41.0
+C52927,2024-02-02,France,Email,27.0
+C52928,2024-03-16,Austria,Referral,42.0
+C52929,2024-12-17,Netherlands,Direct,69.0
+C52930,2024-02-09,Germany,Email,40.0
+C52931,2021-05-02,Germany,Paid Social,32.0
+C52932,2024-08-25,GERMANY,Paid Social,35.0
+C52933,2023-01-10,Italy,Email,20.0
+C52934,2021-01-15,Italy,Direct,55.0
+C52935,2023-07-21,Germany,Email,42.0
+C52936,2024-11-02,Germany,Organic Search,25.0
+C52937,2022-07-27,France,Organic Search,26.0
+C52938,2023-07-01,DE,Email,38.0
+C52939,2022-03-01,Germany,Direct,49.0
+C52940,2021-06-18,GERMANY,Organic Search,
+C52941,2021-08-14,Germany,Paid Social,51.0
+C52942,2024-04-02,Germany,Direct,37.0
+C52943,2024-08-22,  GERMANY ,Paid Social,27.0
+C52944,2021-12-30,  Germany ,Organic Search,32.0
+C52945,2022-09-16,Netherlands,Paid Social,59.0
+C52946,2022-04-10,France,Paid Social,21.0
+C52947,2021-03-26,Germany,Organic Search,29.0
+C52948,2023-09-17,France,Email,49.0
+C52949,2024-03-04,France,Email,41.0
+C52950,2024-01-06,AUSTRIA,Email,29.0
+C52951,2023-02-12,Italy,Email,
+C52952,2023-09-19,Germany,Organic Search,50.0
+C52953,2021-09-15,Spain,Organic Search,42.0
+C52954,2022-01-22,Netherlands,Organic Search,31.0
+C52955,2024-10-28,Netherlands,Organic Search,33.0
+C52956,2024-05-09,Germany,Referral,41.0
+C52957,2024-10-19,Germany,Organic Search,22.0
+C52958,2024-10-13,Germany,Email,54.0
+C52959,2024-01-07,Italy,Organic Search,58.0
+C52960,2024-10-24,Netherlands,Organic Search,35.0
+C52961,2023-03-24,Germany,Organic Search,42.0
+C52962,2021-01-13,France,Paid Social,52.0
+C52963,2021-07-01,Germany,Email,61.0
+C52964,2021-10-20,Germany,Referral,57.0
+C52965,2021-09-18,  Netherlands ,Organic Search,18.0
+C52966,2022-12-22,France,Email,34.0
+C52967,2024-03-05,Austria,Referral,44.0
+C52968,2024-06-09,Netherlands,Paid Social,32.0
+C52969,2023-10-31,Netherlands,Organic Search,
+C52970,2022-01-06,Austria,Organic Search,58.0
+C52971,2024-04-25,Germany,Organic Search,28.0
+C52972,2022-12-26,Netherlands,Direct,36.0
+C52973,2021-02-12,Austria,Paid Social,29.0
+C52974,2022-09-03,Germany,Paid Social,36.0
+C52975,2022-11-20,Germany,Referral,35.0
+C52976,2022-08-24,Germany,Paid Social,49.0
+C52977,2024-07-01,GERMANY,Email,27.0
+C52978,2024-05-07,France,Organic Search,18.0
+C52979,2024-02-28,Germany,Paid Social,
+C52980,2021-12-22,Netherlands,Organic Search,26.0
+C52981,2024-06-26,Germany,Organic Search,30.0
+C52982,2024-02-08,Germany,Organic Search,40.0
+C52983,2022-04-09,Germany,Email,25.0
+C52984,2024-01-06,Germany,Email,23.0
+C52985,2023-06-21,Italy,Referral,27.0
+C52986,2023-04-24,Germany,Organic Search,25.0
+C52987,2021-10-25,Germany,Direct,31.0
+C52988,2023-08-04,Germany,Organic Search,31.0
+C52989,2021-09-28,Germany,Referral,46.0
+C52990,2022-02-10,Netherlands,Referral,26.0
+C52991,2021-12-08,Austria,Email,34.0
+C52992,2024-11-18,  Germany ,Paid Social,31.0
+C52993,2022-09-10,NETHERLANDS,Referral,48.0
+C52994,2022-12-27,France,Referral,36.0
+C52995,2022-11-07,Spain,Organic Search,51.0
+C52996,2024-09-25,France,Referral,24.0
+C52997,2023-09-28,Germany,Organic Search,37.0
+C52998,2024-10-16,Netherlands,Paid Social,31.0
+C52999,2022-10-04,Spain,Email,23.0
+C53000,2021-10-31,France,Referral,37.0
+C53001,2023-09-20,Italy,Paid Social,
+C53002,2022-12-13,Spain,Organic Search,28.0
+C53003,2024-06-20,Germany,Paid Social,36.0
+C53004,2024-09-07,Austria,Organic Search,
+C53005,2023-06-07,Netherlands,Paid Social,20.0
+C53006,2024-12-05,France,Paid Social,29.0
+C53007,2023-09-16,France,Referral,33.0
+C53008,2022-08-19,Spain,Organic Search,33.0
+C53009,2023-06-28,Netherlands,Organic Search,35.0
+C53010,2021-04-24,France,Paid Social,18.0
+C53011,2024-06-22,Germany,Organic Search,30.0
+C53012,2021-10-02,FRANCE,Organic Search,44.0
+C53013,2022-10-18,  Spain ,Paid Social,22.0
+C53014,2023-10-01,Austria,Paid Social,34.0
+C53015,2021-05-10,Germany,Organic Search,42.0
+C53016,2021-08-11,Spain,Email,
+C53017,2024-02-29,Spain,Direct,42.0
+C53018,2021-07-24,France,Paid Social,20.0
+C53019,2023-06-13,Germany,Organic Search,49.0
+C53020,2022-12-03,France,Organic Search,42.0
+C53021,2022-06-08,Germany,Organic Search,39.0
+C53022,2022-03-29,Germany,Email,51.0
+C53023,2024-05-11,Netherlands,Email,34.0
+C53024,2024-11-16,  Spain ,Organic Search,31.0
+C53025,2021-12-24,Germany,Organic Search,54.0
+C53026,2024-11-24,Spain,Paid Social,
+C53027,2023-11-05,Spain,Paid Social,30.0
+C53028,2023-12-30,Germany,Direct,37.0
+C53029,2024-03-15,Germany,Organic Search,51.0
+C53030,2024-03-08,Netherlands,Organic Search,37.0
+C53031,2024-07-09,AUSTRIA,Paid Social,45.0
+C53032,2023-06-21,Germany,Organic Search,47.0
+C53033,2023-08-23,Netherlands,Organic Search,31.0
+C53034,2022-11-10,Netherlands,Paid Social,43.0
+C53035,2021-10-10,AUSTRIA,Organic Search,38.0
+C53036,2024-01-25,Austria,Organic Search,23.0
+C53037,2021-04-14,  Germany ,Email,
+C53038,2022-08-26,Germany,Paid Social,30.0
+C53039,2021-09-15,Germany,Organic Search,49.0
+C53040,2022-04-02,Italy,Direct,50.0
+C53041,2023-12-26,Spain,Organic Search,47.0
+C53042,2023-12-15,Austria,Direct,43.0
+C53043,2023-03-30,GERMANY,Direct,43.0
+C53044,2021-09-06,  France ,Paid Social,41.0
+C53045,2023-04-16,Germany,Organic Search,
+C53046,2022-12-23,Germany,Referral,44.0
+C53047,2024-03-26,Germany,Paid Social,21.0
+C53048,2023-10-18,Spain,Organic Search,29.0
+C53049,2023-07-02,Germany,Email,26.0
+C53050,2023-06-26,Netherlands,Paid Social,51.0
+C53051,2024-11-30,  Italy ,Direct,58.0
+C53052,2024-05-04,Netherlands,Email,18.0
+C53053,2023-07-08,Germany,Direct,57.0
+C53054,2023-06-16,Spain,Referral,39.0
+C53055,2021-03-24,Netherlands,Email,50.0
+C53056,2024-11-07,France,Paid Social,44.0
+C53057,2022-11-03,Netherlands,Direct,55.0
+C53058,2022-07-25,Spain,Direct,
+C53059,2024-12-31,France,Referral,22.0
+C53060,2024-03-24,France,Referral,37.0
+C53061,2021-05-22,France,Email,44.0
+C53062,2021-06-29,Germany,Organic Search,35.0
+C53063,2021-03-22,Austria,Direct,46.0
+C53064,2023-11-11,Germany,Organic Search,37.0
+C53065,2021-07-23,Germany,Organic Search,31.0
+C53066,2024-10-29,Germany,Paid Social,25.0
+C53067,2024-11-02,Germany,Email,33.0
+C53068,2023-09-08,GERMANY,Email,40.0
+C53069,2023-12-01,Netherlands,Organic Search,18.0
+C53070,2022-09-22,GERMANY,Organic Search,29.0
+C53071,2021-07-04,Germany,Organic Search,18.0
+C53072,2024-04-14,Spain,Paid Social,31.0
+C53073,2021-10-02,Italy,Organic Search,52.0
+C53074,2021-08-26,France,Email,24.0
+C53075,2022-10-22,Germany,Organic Search,46.0
+C53076,2021-02-10,Germany,Paid Social,72.0
+C53077,2023-04-17,Germany,Paid Social,55.0
+C53078,2024-03-12,Germany,Paid Social,40.0
+C53079,2024-06-20,ITALY,Direct,48.0
+C53080,2023-11-16,Austria,Organic Search,22.0
+C53081,2024-08-05,Germany,Paid Social,19.0
+C53082,2023-03-10,Italy,Email,38.0
+C53083,2024-08-07,France,Organic Search,43.0
+C53084,2023-07-20,Germany,Referral,51.0
+C53085,2022-05-30,France,Direct,31.0
+C53086,2024-11-09,Germany,Email,40.0
+C53087,2022-08-25,Spain,Direct,40.0
+C53088,2021-03-24,  Germany ,Paid Social,
+C53089,2022-07-03,Netherlands,Paid Social,37.0
+C53090,2023-01-13,Germany,Organic Search,28.0
+C53091,2022-12-21,Spain,Organic Search,41.0
+C53092,2023-08-12,Netherlands,Organic Search,40.0
+C53093,2024-09-10,France,Paid Social,33.0
+C53094,2022-09-22,Germany,Paid Social,46.0
+C53095,2023-08-07,Spain,Organic Search,50.0
+C53096,2022-12-05,France,Email,46.0
+C53097,2024-07-11,Germany,Organic Search,25.0
+C53098,2022-01-28,Spain,Paid Social,39.0
+C53099,2021-10-06,DE,Organic Search,27.0
+C53100,2023-07-16,Germany,Email,
+C53101,2024-02-02,France,Paid Social,27.0
+C53102,2024-06-14,GERMANY,Referral,53.0
+C53103,2023-10-30,France,Organic Search,47.0
+C53104,2024-05-22,Germany,Paid Social,52.0
+C53105,2023-02-19,Germany,Direct,
+C53106,2021-04-12,Germany,Organic Search,35.0
+C53107,2021-11-03,Germany,Paid Social,33.0
+C53108,2021-04-28,ITALY,Organic Search,59.0
+C53109,2022-11-18,France,Organic Search,36.0
+C53110,2023-07-07,FRANCE,Paid Social,22.0
+C53111,2022-12-29,Germany,Organic Search,50.0
+C53112,2023-09-25,Netherlands,Paid Social,40.0
+C53113,2023-06-17,Germany,Direct,56.0
+C53114,2024-02-09,Germany,Organic Search,41.0
+C53115,2024-01-27,Netherlands,Organic Search,38.0
+C53116,2022-11-01,France,Referral,
+C53117,2022-12-14,Austria,Paid Social,20.0
+C53118,2023-10-25,Spain,Direct,31.0
+C53119,2023-11-07,Spain,Organic Search,27.0
+C53120,2022-10-27,Germany,Email,18.0
+C53121,2022-11-20,Germany,Direct,48.0
+C53122,2024-02-26,Germany,Organic Search,31.0
+C53123,2024-01-05,AUSTRIA,Referral,49.0
+C53124,2021-12-13,Spain,Email,43.0
+C53125,2023-04-26,Italy,Referral,45.0
+C53126,2024-09-20,Germany,Organic Search,33.0
+C53127,2021-04-22,SPAIN,Paid Social,29.0
+C53128,2024-08-13,France,Organic Search,39.0
+C53129,2022-02-08,Spain,Direct,49.0
+C53130,2023-07-21,France,Organic Search,37.0
+C53131,2023-04-04,Germany,Organic Search,30.0
+C53132,2021-02-03,Germany,Direct,24.0
+C53133,2024-10-12,Italy,Organic Search,40.0
+C53134,2023-05-15,France,Email,31.0
+C53135,2024-11-18,Germany,Organic Search,37.0
+C53136,2022-09-13,  Germany ,Email,35.0
+C53137,2024-08-25,Germany,Organic Search,33.0
+C53138,2024-10-19,Italy,Paid Social,42.0
+C53139,2023-09-21,Germany,Paid Social,45.0
+C53140,2022-04-24,GERMANY,Paid Social,62.0
+C53141,2024-02-17,Austria,Organic Search,47.0
+C53142,2023-09-11,France,Organic Search,57.0
+C53143,2024-11-09,Germany,Email,28.0
+C53144,2023-04-24,Germany,Organic Search,19.0
+C53145,2022-08-15,Germany,Organic Search,38.0
+C53146,2021-12-20,Germany,Paid Social,48.0
+C53147,2024-03-02,Germany,Paid Social,46.0
+C53148,2024-12-07,Germany,Email,53.0
+C53149,2021-03-30,Austria,Paid Social,18.0
+C53150,2024-04-17,Spain,Direct,53.0
+C53151,2024-10-23,Spain,Email,42.0
+C53152,2021-07-31,Germany,Referral,19.0
+C53153,2021-10-21,GERMANY,Email,47.0
+C53154,2024-02-24,Italy,Organic Search,40.0
+C53155,2024-01-06,Austria,Direct,43.0
+C53156,2021-07-16,France,Referral,50.0
+C53157,2024-07-24,Germany,Email,43.0
+C53158,2023-08-11,Germany,Organic Search,20.0
+C53159,2024-10-04,France,Organic Search,36.0
+C53160,2024-09-05,France,Email,19.0
+C53161,2024-07-01,Germany,Paid Social,46.0
+C53162,2023-08-01,Italy,Email,55.0
+C53163,2022-07-18,France,Paid Social,23.0
+C53164,2023-07-20,  Netherlands ,Paid Social,
+C53165,2021-09-30,Germany,Organic Search,27.0
+C53166,2024-01-18,Austria,Organic Search,33.0
+C53167,2021-12-11,Austria,Organic Search,43.0
+C53168,2023-07-26,GERMANY,Referral,33.0
+C53169,2021-06-10,Netherlands,Email,46.0
+C53170,2022-10-04,Netherlands,Direct,51.0
+C53171,2022-06-15,  Spain ,Referral,51.0
+C53172,2023-12-05,Germany,Referral,25.0
+C53173,2024-06-05,  Spain ,Paid Social,55.0
+C53174,2021-06-17,France,Referral,56.0
+C53175,2024-08-09,Germany,Direct,57.0
+C53176,2024-08-19,Germany,Email,36.0
+C53177,2022-12-08,Germany,Organic Search,29.0
+C53178,2024-01-18,GERMANY,Email,26.0
+C53179,2023-03-05,France,Organic Search,25.0
+C53180,2022-01-21,Austria,Organic Search,38.0
+C53181,2023-08-17,Germany,Email,48.0
+C53182,2021-08-28,Italy,Referral,54.0
+C53183,2024-09-06,Germany,Organic Search,32.0
+C53184,2024-10-21,Netherlands,Organic Search,38.0
+C53185,2024-07-11,Italy,Direct,37.0
+C53186,2023-09-28,Spain,Organic Search,30.0
+C53187,2023-09-22,Netherlands,Organic Search,47.0
+C53188,2024-12-17,Austria,Email,42.0
+C53189,2022-07-12,Germany,Referral,40.0
+C53190,2021-08-03,Germany,Paid Social,42.0
+C53191,2023-09-27,DE,Paid Social,45.0
+C53192,2022-11-18,Germany,Paid Social,45.0
+C53193,2022-11-08,Germany,Organic Search,28.0
+C53194,2021-01-24,Germany,Referral,49.0
+C53195,2023-11-07,DE,Referral,41.0
+C53196,2022-08-08,Spain,Paid Social,33.0
+C53197,2022-03-27,Austria,Organic Search,41.0
+C53198,2021-05-03,Austria,Organic Search,42.0
+C53199,2023-01-09,Germany,Organic Search,51.0
+C53200,2024-09-06,Germany,Organic Search,25.0
+C53201,2022-11-30,NETHERLANDS,Organic Search,54.0
+C53202,2024-02-10,Netherlands,Referral,38.0
+C53203,2024-05-04,Germany,Organic Search,32.0
+C53204,2022-11-17,France,Email,32.0
+C53205,2024-07-11,France,Paid Social,26.0
+C53206,2024-02-24,Germany,Referral,18.0
+C53207,2023-09-24,Germany,Direct,46.0
+C53208,2021-01-04,Germany,Paid Social,62.0
+C53209,2021-04-18,Netherlands,Organic Search,19.0
+C53210,2024-12-23,Italy,Referral,27.0
+C53211,2024-05-31,France,Organic Search,47.0
+C53212,2024-11-02,Austria,Organic Search,37.0
+C53213,2024-09-29,Austria,Organic Search,48.0
+C53214,2021-03-06,Germany,Direct,37.0
+C53215,2024-06-10,Netherlands,Organic Search,31.0
+C53216,2023-05-10,France,Paid Social,35.0
+C53217,2024-06-08,France,Paid Social,18.0
+C53218,2021-01-23,Germany,Email,24.0
+C53219,2022-09-16,Spain,Organic Search,49.0
+C53220,2024-04-28,Italy,Direct,52.0
+C53221,2024-06-11,Germany,Referral,55.0
+C53222,2023-12-04,  Germany ,Paid Social,43.0
+C53223,2022-10-06,Germany,Paid Social,18.0
+C53224,2022-10-20,Austria,Referral,30.0
+C53225,2024-11-30,Netherlands,Referral,54.0
+C53226,2023-04-24,Germany,Paid Social,57.0
+C53227,2023-05-04,Austria,Paid Social,54.0
+C53228,2023-09-15,Germany,Organic Search,35.0
+C53229,2023-03-14,France,Organic Search,22.0
+C53230,2023-09-16,Germany,Organic Search,38.0
+C53231,2023-04-15,France,Organic Search,38.0
+C53232,2024-07-16,France,Organic Search,57.0
+C53233,2024-10-06,Germany,Direct,41.0
+C53234,2024-10-28,France,Referral,38.0
+C53235,2023-09-30,Spain,Referral,39.0
+C53236,2023-04-28,France,Email,43.0
+C53237,2024-03-10,Spain,Email,46.0
+C53238,2024-07-28,France,Organic Search,29.0
+C53239,2023-09-28,Austria,Email,25.0
+C53240,2024-03-04,Germany,Organic Search,54.0
+C53241,2024-04-27,AUSTRIA,Paid Social,18.0
+C53242,2024-02-07,Germany,Direct,58.0
+C53243,2024-04-23,Germany,Direct,18.0
+C53244,2022-05-04,Germany,Organic Search,31.0
+C53245,2023-07-10,Germany,Referral,50.0
+C53246,2023-10-29,Italy,Organic Search,38.0
+C53247,2021-01-09,Italy,Organic Search,22.0
+C53248,2024-08-14,  Austria ,Organic Search,43.0
+C53249,2023-11-23,Germany,Organic Search,
+C53250,2021-12-01,Spain,Email,35.0
+C53251,2024-07-05,Austria,Paid Social,31.0
+C53252,2024-03-23,Germany,Organic Search,38.0
+C53253,2024-05-06,France,Direct,31.0
+C53254,2023-02-18,Netherlands,Paid Social,67.0
+C53255,2024-08-13,Germany,Paid Social,35.0
+C53256,2023-03-21,DE,Paid Social,34.0
+C53257,2023-10-07,Austria,Paid Social,
+C53258,2021-01-03,  GERMANY ,Paid Social,59.0
+C53259,2024-01-02,France,Email,18.0
+C53260,2024-03-24,  France ,Direct,42.0
+C53261,2023-10-03,Austria,Organic Search,35.0
+C53262,2023-07-08,  Italy ,Paid Social,21.0
+C53263,2024-06-29,Spain,Organic Search,28.0
+C53264,2024-02-12,Netherlands,Direct,42.0
+C53265,2022-08-30,Netherlands,Organic Search,28.0
+C53266,2024-11-23,Netherlands,Organic Search,41.0
+C53267,2024-03-12,France,Direct,59.0
+C53268,2024-12-20,Germany,Email,40.0
+C53269,2024-12-05,  Netherlands ,Organic Search,21.0
+C53270,2024-10-15,Austria,Organic Search,28.0
+C53271,2024-05-03,France,Paid Social,35.0
+C53272,2023-11-22,Spain,Direct,34.0
+C53273,2022-02-26,NETHERLANDS,Paid Social,40.0
+C53274,2023-09-04,GERMANY,Organic Search,
+C53275,2024-05-13,Germany,Email,59.0
+C53276,2023-08-08,Germany,Paid Social,38.0
+C53277,2024-08-27,Germany,Organic Search,24.0
+C53278,2021-10-20,France,Direct,52.0
+C53279,2023-02-02,GERMANY,Organic Search,53.0
+C53280,2023-07-20,Germany,Direct,41.0
+C53281,2023-04-15,Germany,Referral,35.0
+C53282,2021-10-18,Austria,Organic Search,45.0
+C53283,2022-01-20,Austria,Email,35.0
+C53284,2024-07-27,GERMANY,Referral,18.0
+C53285,2023-06-22,Germany,Email,45.0
+C53286,2021-05-26,DE,Email,49.0
+C53287,2021-02-22,  GERMANY ,Organic Search,55.0
+C53288,2023-06-08,Germany,Organic Search,29.0
+C53289,2022-02-10,Germany,Email,41.0
+C53290,2024-03-10,Germany,Organic Search,41.0
+C53291,2024-06-14,Italy,Organic Search,39.0
+C53292,2022-06-08,France,Paid Social,39.0
+C53293,2023-11-02,Spain,Organic Search,38.0
+C53294,2022-01-22,Germany,Referral,41.0
+C53295,2022-10-10,Germany,Referral,
+C53296,2024-09-16,Italy,Referral,53.0
+C53297,2023-09-05,Germany,Organic Search,29.0
+C53298,2024-09-13,Netherlands,Paid Social,36.0
+C53299,2022-06-03,Italy,Referral,33.0
+C53300,2022-11-20,France,Paid Social,31.0
+C53301,2023-06-05,Germany,Email,19.0
+C53302,2023-06-17,France,Email,38.0
+C53303,2024-12-29,Germany,Paid Social,44.0
+C53304,2021-10-31,Germany,Organic Search,36.0
+C53305,2024-08-10,Germany,Email,38.0
+C53306,2024-08-22,Spain,Organic Search,43.0
+C53307,2023-09-16,Netherlands,Direct,55.0
+C53308,2022-12-11,Germany,Email,33.0
+C53309,2023-08-06,Germany,Organic Search,24.0
+C53310,2022-09-22,Netherlands,Email,37.0
+C53311,2024-06-17,  Spain ,Paid Social,61.0
+C53312,2023-07-10,Germany,Organic Search,24.0
+C53313,2024-10-22,Germany,Direct,46.0
+C53314,2023-12-08,SPAIN,Email,52.0
+C53315,2023-07-30,Spain,Email,
+C53316,2024-03-16,Spain,Referral,43.0
+C53317,2023-07-17,Germany,Paid Social,45.0
+C53318,2024-10-01,Germany,Paid Social,35.0
+C53319,2022-03-21,France,Organic Search,30.0
+C53320,2024-12-06,Germany,Organic Search,31.0
+C53321,2024-07-01,Spain,Paid Social,34.0
+C53322,2024-08-19,Germany,Paid Social,34.0
+C53323,2023-06-20,Netherlands,Referral,32.0
+C53324,2024-07-26,Spain,Paid Social,34.0
+C53325,2022-10-15,Italy,Email,52.0
+C53326,2024-05-10,Netherlands,Referral,23.0
+C53327,2021-12-25,Italy,Direct,18.0
+C53328,2022-10-15,GERMANY,Paid Social,52.0
+C53329,2023-05-03,Germany,Direct,36.0
+C53330,2022-11-08,Germany,Referral,33.0
+C53331,2023-02-11,Italy,Organic Search,37.0
+C53332,2024-07-09,Spain,Paid Social,41.0
+C53333,2022-07-26,Germany,Organic Search,32.0
+C53334,2024-04-22,Germany,Email,44.0
+C53335,2021-07-28,Germany,Email,26.0
+C53336,2024-05-14,Germany,Paid Social,34.0
+C53337,2024-06-10,Spain,Referral,18.0
+C53338,2023-03-04,Germany,Paid Social,52.0
+C53339,2024-03-28,Austria,Paid Social,36.0
+C53340,2024-10-12,FRANCE,Direct,46.0
+C53341,2024-06-19,Germany,Direct,44.0
+C53342,2023-02-16,Germany,Referral,45.0
+C53343,2023-06-22,Italy,Organic Search,38.0
+C53344,2024-05-28,Netherlands,Organic Search,43.0
+C53345,2022-09-23,France,Organic Search,
+C53346,2024-06-22,Germany,Paid Social,24.0
+C53347,2022-11-17,Spain,Organic Search,37.0
+C53348,2024-06-25,Spain,Direct,30.0
+C53349,2021-08-29,AUSTRIA,Email,55.0
+C53350,2021-05-14,Netherlands,Paid Social,43.0
+C53351,2024-12-29,Spain,Organic Search,29.0
+C53352,2024-08-28,Germany,Paid Social,35.0
+C53353,2024-09-10,Netherlands,Paid Social,40.0
+C53354,2024-11-16,Germany,Email,37.0
+C53355,2023-04-23,Netherlands,Organic Search,41.0
+C53356,2022-09-14,Italy,Referral,39.0
+C53357,2021-12-03,Italy,Organic Search,21.0
+C53358,2023-07-14,France,Organic Search,18.0
+C53359,2022-05-25,France,Direct,34.0
+C53360,2024-10-31,Spain,Organic Search,45.0
+C53361,2021-01-14,Italy,Organic Search,34.0
+C53362,2021-12-30,Austria,Email,53.0
+C53363,2022-07-09,Germany,Paid Social,37.0
+C53364,2022-04-17,Germany,Organic Search,54.0
+C53365,2022-06-04,SPAIN,Organic Search,52.0
+C53366,2024-01-15,Austria,Organic Search,51.0
+C53367,2022-11-16,Austria,Paid Social,
+C53368,2023-11-29,Netherlands,Organic Search,38.0
+C53369,2024-09-17,Germany,Referral,53.0
+C53370,2023-11-14,Germany,Direct,41.0
+C53371,2024-02-27,Austria,Organic Search,45.0
+C53372,2023-01-11,Germany,Paid Social,21.0
+C53373,2022-02-01,Netherlands,Organic Search,61.0
+C53374,2022-11-05,Austria,Organic Search,29.0
+C53375,2024-11-28,Spain,Organic Search,18.0
+C53376,2023-12-07,GERMANY,Referral,34.0
+C53377,2022-08-30,AUSTRIA,Paid Social,18.0
+C53378,2023-05-09,Germany,Paid Social,25.0
+C53379,2024-07-25,Germany,Email,
+C53380,2024-01-29,Germany,Referral,33.0
+C53381,2023-09-25,Germany,Organic Search,21.0
+C53382,2024-09-12,Italy,Organic Search,38.0
+C53383,2024-02-02,Spain,Direct,27.0
+C53384,2023-12-31,Germany,Paid Social,48.0
+C53385,2022-03-31,Spain,Email,27.0
+C53386,2021-10-13,France,Email,41.0
+C53387,2024-11-29,  Netherlands ,Paid Social,24.0
+C53388,2023-11-10,Spain,Organic Search,
+C53389,2023-03-23,France,Organic Search,44.0
+C53390,2023-10-29,Germany,Paid Social,
+C53391,2021-06-29,DE,Paid Social,34.0
+C53392,2024-07-11,France,Referral,31.0
+C53393,2022-05-19,Italy,Email,29.0
+C53394,2024-06-23,France,Direct,29.0
+C53395,2023-08-24,GERMANY,Direct,58.0
+C53396,2022-08-28,Germany,Email,31.0
+C53397,2021-04-04,Spain,Organic Search,18.0
+C53398,2024-07-05,Germany,Paid Social,24.0
+C53399,2022-03-06,Netherlands,Email,49.0
+C53400,2021-06-03,Netherlands,Email,35.0
+C53401,2024-05-03,Germany,Organic Search,36.0
+C53402,2022-12-19,Germany,Email,52.0
+C53403,2023-02-14,Germany,Paid Social,29.0
+C53404,2022-07-10,Germany,Paid Social,46.0
+C53405,2024-08-18,Netherlands,Referral,30.0
+C53406,2022-09-30,Austria,Paid Social,45.0
+C53407,2022-05-07,Germany,Paid Social,33.0
+C53408,2022-10-19,France,Email,35.0
+C53409,2022-04-24,Germany,Email,48.0
+C53410,2022-11-01,Germany,Organic Search,47.0
+C53411,2021-08-20,Austria,Email,36.0
+C53412,2022-01-30,Austria,Paid Social,32.0
+C53413,2023-03-25,Austria,Email,57.0
+C53414,2024-09-07,Germany,Organic Search,45.0
+C53415,2021-06-17,France,Direct,
+C53416,2022-05-12,France,Referral,30.0
+C53417,2024-10-05,Italy,Paid Social,50.0
+C53418,2024-09-17,Netherlands,Organic Search,
+C53419,2024-02-10,Italy,Paid Social,36.0
+C53420,2022-06-29,Germany,Email,39.0
+C53421,2023-03-29,France,Email,
+C53422,2022-05-09,Austria,Email,37.0
+C53423,2021-11-30,Germany,Direct,52.0
+C53424,2023-02-01,Netherlands,Paid Social,53.0
+C53425,2023-10-14,France,Email,44.0
+C53426,2023-01-03,Italy,Paid Social,54.0
+C53427,2023-11-24,Germany,Email,38.0
+C53428,2022-09-28,ITALY,Paid Social,46.0
+C53429,2022-12-13,Germany,Referral,50.0
+C53430,2024-06-09,France,Organic Search,50.0
+C53431,2024-09-06,France,Organic Search,49.0
+C53432,2022-11-07,GERMANY,Organic Search,46.0
+C53433,2023-10-09,Italy,Direct,61.0
+C53434,2022-08-31,Spain,Paid Social,32.0
+C53435,2021-06-07,Italy,Paid Social,36.0
+C53436,2024-04-14,Italy,Paid Social,35.0
+C53437,2022-02-23,Netherlands,Paid Social,34.0
+C53438,2023-04-06,France,Direct,
+C53439,2023-06-26,Spain,Direct,54.0
+C53440,2022-03-21,Germany,Referral,26.0
+C53441,2021-09-16,Spain,Referral,40.0
+C53442,2022-12-16,France,Organic Search,21.0
+C53443,2024-11-16,DE,Organic Search,45.0
+C53444,2023-11-29,Germany,Email,29.0
+C53445,2023-02-03,Germany,Email,24.0
+C53446,2021-04-29,GERMANY,Organic Search,40.0
+C53447,2023-11-12,France,Referral,30.0
+C53448,2021-09-11,GERMANY,Organic Search,31.0
+C53449,2023-09-03,GERMANY,Organic Search,40.0
+C53450,2024-04-29,Germany,Organic Search,48.0
+C53451,2023-04-03,Netherlands,Referral,28.0
+C53452,2022-10-03,Germany,Referral,26.0
+C53453,2021-05-22,Spain,Paid Social,38.0
+C53454,2021-03-19,Germany,Referral,44.0
+C53455,2023-04-11,FRANCE,Referral,56.0
+C53456,2024-09-11,Germany,Paid Social,25.0
+C53457,2022-07-05,France,Referral,34.0
+C53458,2023-10-12,France,Organic Search,52.0
+C53459,2024-02-16,NETHERLANDS,Paid Social,62.0
+C53460,2021-06-26,France,Organic Search,26.0
+C53461,2022-01-19,France,Paid Social,29.0
+C53462,2022-11-21,  Germany ,Paid Social,43.0
+C53463,2024-01-31,France,Organic Search,31.0
+C53464,2023-04-24,Germany,Paid Social,29.0
+C53465,2024-04-10,Netherlands,Email,41.0
+C53466,2024-08-26,France,Email,57.0
+C53467,2024-05-06,Austria,Organic Search,22.0
+C53468,2024-12-24,France,Organic Search,56.0
+C53469,2024-05-02,Germany,Paid Social,31.0
+C53470,2024-08-10,Germany,Referral,42.0
+C53471,2024-07-21,Germany,Direct,57.0
+C53472,2024-04-06,France,Organic Search,42.0
+C53473,2024-06-20,Spain,Email,34.0
+C53474,2024-10-31,Austria,Email,47.0
+C53475,2023-06-10,FRANCE,Direct,36.0
+C53476,2023-12-26,Germany,Organic Search,44.0
+C53477,2023-07-31,Spain,Paid Social,36.0
+C53478,2024-08-09,Germany,Email,48.0
+C53479,2023-04-13,Germany,Organic Search,21.0
+C53480,2024-07-09,Spain,Organic Search,26.0
+C53481,2024-06-18,GERMANY,Organic Search,21.0
+C53482,2024-11-26,GERMANY,Paid Social,37.0
+C53483,2022-07-13,Germany,Email,
+C53484,2024-03-14,Netherlands,Email,30.0
+C53485,2024-05-04,Germany,Organic Search,25.0
+C53486,2024-11-01,Netherlands,Direct,56.0
+C53487,2024-10-04,France,Paid Social,26.0
+C53488,2023-10-11,Germany,Direct,23.0
+C53489,2023-10-18,GERMANY,Organic Search,41.0
+C53490,2022-02-16,Spain,Referral,58.0
+C53491,2024-12-08,Germany,Direct,37.0
+C53492,2022-07-24,Austria,Referral,38.0
+C53493,2024-03-31,France,Referral,53.0
+C53494,2024-06-14,  Germany ,Paid Social,
+C53495,2023-04-27,France,Email,43.0
+C53496,2022-05-09,France,Email,31.0
+C53497,2022-03-29,France,Paid Social,43.0
+C53498,2024-08-15,Austria,Direct,22.0
+C53499,2023-07-26,Spain,Organic Search,31.0
+C53500,2021-09-06,DE,Paid Social,55.0
+C53501,2024-03-22,Netherlands,Direct,54.0
+C53502,2022-07-15,FRANCE,Organic Search,43.0
+C53503,2024-09-04,Netherlands,Organic Search,18.0
+C53504,2022-10-19,GERMANY,Organic Search,24.0
+C53505,2022-04-19,Austria,Referral,30.0
+C53506,2021-08-24,Spain,Direct,
+C53507,2023-07-27,  Germany ,Organic Search,23.0
+C53508,2023-05-09,Spain,Email,35.0
+C53509,2024-04-28,Spain,Email,59.0
+C53510,2023-05-28,France,Email,43.0
+C53511,2022-12-10,Spain,Email,41.0
+C53512,2022-08-04,Germany,Direct,26.0
+C53513,2022-08-31,Germany,Paid Social,18.0
+C53514,2024-10-24,GERMANY,Organic Search,23.0
+C53515,2022-02-12,France,Email,18.0
+C53516,2024-12-20,Germany,Paid Social,39.0
+C53517,2022-11-15,Italy,Paid Social,43.0
+C53518,2021-09-02,Germany,Organic Search,26.0
+C53519,2022-07-13,Germany,Organic Search,40.0
+C53520,2021-06-20,Netherlands,Direct,56.0
+C53521,2024-06-08,Germany,Organic Search,61.0
+C53522,2023-07-28,Austria,Email,47.0
+C53523,2022-11-30,Germany,Referral,36.0
+C53524,2024-01-22,Italy,Organic Search,47.0
+C53525,2023-12-17,Netherlands,Organic Search,54.0
+C53526,2024-11-05,Germany,Paid Social,18.0
+C53527,2024-11-25,Germany,Paid Social,56.0
+C53528,2024-02-12,Germany,Paid Social,31.0
+C53529,2024-07-07,Italy,Email,32.0
+C53530,2024-06-11,Netherlands,Organic Search,34.0
+C53531,2023-07-01,France,Organic Search,42.0
+C53532,2024-03-09,Germany,Organic Search,25.0
+C53533,2021-08-09,Spain,Paid Social,35.0
+C53534,2024-05-05,Germany,Paid Social,44.0
+C53535,2024-11-26,Netherlands,Direct,41.0
+C53536,2021-08-25,AUSTRIA,Organic Search,43.0
+C53537,2024-07-25,Germany,Paid Social,34.0
+C53538,2024-10-29,France,Email,46.0
+C53539,2022-06-04,Germany,Email,51.0
+C53540,2023-08-12,Germany,Email,50.0
+C53541,2024-10-24,  Italy ,Organic Search,43.0
+C53542,2024-11-24,Netherlands,Email,49.0
+C53543,2021-11-28,Spain,Paid Social,48.0
+C53544,2022-12-18,France,Referral,70.0
+C53545,2024-03-02,Germany,Organic Search,53.0
+C53546,2022-05-27,Austria,Email,37.0
+C53547,2022-11-12,France,Email,27.0
+C53548,2021-03-15,Germany,Email,35.0
+C53549,2022-01-20,GERMANY,Organic Search,34.0
+C53550,2023-09-28,Netherlands,Email,44.0
+C53551,2024-01-12,Austria,Referral,30.0
+C53552,2024-01-07,Germany,Paid Social,52.0
+C53553,2024-05-27,Spain,Paid Social,21.0
+C53554,2023-03-22,Germany,Organic Search,18.0
+C53555,2022-08-23,  Germany ,Organic Search,36.0
+C53556,2021-02-20,Germany,Referral,28.0
+C53557,2022-05-01,Austria,Paid Social,23.0
+C53558,2022-10-24,  Germany ,Email,30.0
+C53559,2022-03-09,FRANCE,Referral,29.0
+C53560,2021-03-06,Germany,Email,38.0
+C53561,2022-01-28,Netherlands,Email,31.0
+C53562,2024-01-26,Austria,Email,
+C53563,2023-12-16,Germany,Paid Social,
+C53564,2024-11-01,Italy,Organic Search,50.0
+C53565,2024-06-16,Germany,Referral,56.0
+C53566,2023-10-04,Germany,Direct,40.0
+C53567,2021-12-19,Netherlands,Paid Social,41.0
+C53568,2023-09-30,Netherlands,Direct,36.0
+C53569,2021-06-28,Germany,Direct,44.0
+C53570,2023-04-13,France,Paid Social,43.0
+C53571,2023-02-15,Germany,Email,54.0
+C53572,2023-04-08,France,Email,18.0
+C53573,2022-09-02,Netherlands,Organic Search,35.0
+C53574,2024-02-17,Italy,Organic Search,42.0
+C53575,2024-07-30,  France ,Paid Social,38.0
+C53576,2024-05-17,Netherlands,Referral,27.0
+C53577,2023-12-14,France,Paid Social,22.0
+C53578,2023-08-29,Germany,Referral,48.0
+C53579,2021-04-07,  Germany ,Email,29.0
+C53580,2024-03-29,Italy,Email,18.0
+C53581,2023-09-06,Germany,Organic Search,
+C53582,2022-08-19,Austria,Paid Social,44.0
+C53583,2022-11-16,Germany,Organic Search,37.0
+C53584,2024-10-31,Austria,Organic Search,27.0
+C53585,2023-12-10,Germany,Organic Search,37.0
+C53586,2023-06-11,Italy,Organic Search,53.0
+C53587,2023-12-06,Netherlands,Organic Search,19.0
+C53588,2023-03-20,Germany,Email,19.0
+C53589,2023-06-04,Netherlands,Paid Social,30.0
+C53590,2022-09-19,Netherlands,Organic Search,38.0
+C53591,2023-04-25,Germany,Direct,32.0
+C53592,2024-02-17,GERMANY,Paid Social,46.0
+C53593,2021-05-02,Austria,Direct,
+C53594,2024-06-13,Austria,Email,41.0
+C53595,2022-09-07,Germany,Organic Search,45.0
+C53596,2024-02-14,Spain,Direct,41.0
+C53597,2023-12-31,Germany,Direct,38.0
+C53598,2024-01-11,Germany,Email,
+C53599,2023-11-21,Netherlands,Paid Social,26.0
+C53600,2024-11-23,Germany,Paid Social,
+C53601,2023-07-23,Germany,Paid Social,36.0
+C53602,2024-04-08,France,Referral,41.0
+C53603,2024-03-10,Germany,Paid Social,21.0
+C53604,2022-06-22,Germany,Organic Search,39.0
+C53605,2022-09-08,NETHERLANDS,Organic Search,27.0
+C53606,2023-04-03,France,Organic Search,25.0
+C53607,2022-08-30,Spain,Organic Search,30.0
+C53608,2023-01-13,Netherlands,Paid Social,25.0
+C53609,2023-02-16,FRANCE,Direct,45.0
+C53610,2023-11-16,Germany,Organic Search,36.0
+C53611,2022-05-24,Austria,Paid Social,48.0
+C53612,2024-06-23,GERMANY,Organic Search,33.0
+C53613,2023-04-22,Germany,Paid Social,33.0
+C53614,2024-03-11,Spain,Email,60.0
+C53615,2021-08-16,AUSTRIA,Paid Social,19.0
+C53616,2023-06-04,Netherlands,Direct,53.0
+C53617,2021-03-30,GERMANY,Direct,58.0
+C53618,2024-02-06,Germany,Referral,47.0
+C53619,2022-12-10,France,Referral,34.0
+C53620,2024-11-14,  Austria ,Paid Social,55.0
+C53621,2022-11-11,France,Email,34.0
+C53622,2023-09-29,Germany,Paid Social,30.0
+C53623,2022-07-28,Germany,Referral,33.0
+C53624,2023-12-05,Netherlands,Organic Search,31.0
+C53625,2023-05-31,  Netherlands ,Organic Search,27.0
+C53626,2023-01-18,Germany,Organic Search,
+C53627,2022-04-25,GERMANY,Email,29.0
+C53628,2021-10-24,Germany,Email,38.0
+C53629,2021-11-11,Germany,Organic Search,21.0
+C53630,2024-12-31,France,Paid Social,38.0
+C53631,2023-03-18,Germany,Paid Social,24.0
+C53632,2021-01-07,Netherlands,Referral,24.0
+C53633,2024-11-17,Austria,Organic Search,37.0
+C53634,2021-03-05,Italy,Organic Search,51.0
+C53635,2023-03-27,Italy,Email,43.0
+C53636,2024-03-23,Germany,Email,44.0
+C53637,2024-10-11,Germany,Referral,36.0
+C53638,2024-03-18,Germany,Email,34.0
+C53639,2023-05-26,Netherlands,Direct,47.0
+C53640,2024-12-08,Germany,Paid Social,31.0
+C53641,2021-04-30,Germany,Paid Social,48.0
+C53642,2024-12-19,Germany,Direct,53.0
+C53643,2024-08-08,Germany,Organic Search,28.0
+C53644,2024-10-25,NETHERLANDS,Referral,30.0
+C53645,2022-07-23,Netherlands,Organic Search,
+C53646,2021-12-29,FRANCE,Paid Social,20.0
+C53647,2024-01-23,Spain,Organic Search,32.0
+C53648,2023-08-01,Germany,Email,54.0
+C53649,2023-08-10,Germany,Referral,25.0
+C53650,2024-10-21,  Germany ,Organic Search,54.0
+C53651,2023-12-05,  Netherlands ,Organic Search,33.0
+C53652,2022-10-22,Netherlands,Paid Social,63.0
+C53653,2023-03-01,GERMANY,Organic Search,30.0
+C53654,2021-12-10,Italy,Paid Social,36.0
+C53655,2022-04-05,Germany,Direct,27.0
+C53656,2021-12-31,Germany,Organic Search,30.0
+C53657,2024-06-29,Netherlands,Paid Social,54.0
+C53658,2024-03-09,Italy,Paid Social,44.0
+C53659,2023-08-19,Netherlands,Organic Search,50.0
+C53660,2023-01-24,Italy,Organic Search,22.0
+C53661,2024-01-29,Germany,Email,46.0
+C53662,2024-07-02,Netherlands,Email,26.0
+C53663,2024-09-08,Spain,Referral,
+C53664,2023-09-09,FRANCE,Paid Social,41.0
+C53665,2024-07-09,Germany,Email,41.0
+C53666,2023-07-27,Italy,Direct,39.0
+C53667,2023-06-10,Germany,Direct,47.0
+C53668,2024-08-24,Germany,Direct,48.0
+C53669,2023-02-10,Spain,Organic Search,56.0
+C53670,2023-02-23,Spain,Direct,24.0
+C53671,2022-10-12,Italy,Referral,56.0
+C53672,2023-08-05,Spain,Referral,
+C53673,2023-09-06,Germany,Email,
+C53674,2024-01-20,ITALY,Direct,
+C53675,2023-04-12,France,Paid Social,21.0
+C53676,2022-05-21,Netherlands,Referral,32.0
+C53677,2024-08-25,Germany,Email,62.0
+C53678,2022-12-13,Austria,Referral,
+C53679,2024-10-19,FRANCE,Referral,31.0
+C53680,2022-05-02,  Spain ,Organic Search,30.0
+C53681,2023-09-25,Germany,Paid Social,22.0
+C53682,2023-08-27,Germany,Paid Social,48.0
+C53683,2024-07-18,France,Referral,37.0
+C53684,2021-12-21,Germany,Email,63.0
+C53685,2024-10-07,Netherlands,Referral,46.0
+C53686,2023-08-21,GERMANY,Referral,48.0
+C53687,2023-10-26,  FRANCE ,Email,35.0
+C53688,2023-07-25,Germany,Organic Search,25.0
+C53689,2021-04-21,Germany,Email,28.0
+C53690,2023-07-09,Netherlands,Direct,22.0
+C53691,2022-08-07,Germany,Email,
+C53692,2022-12-09,Germany,Direct,33.0
+C53693,2024-01-07,Germany,Direct,49.0
+C53694,2023-07-09,Germany,Paid Social,40.0
+C53695,2021-09-13,Netherlands,Email,34.0
+C53696,2021-07-27,Germany,Paid Social,24.0
+C53697,2022-03-23,Germany,Paid Social,42.0
+C53698,2022-04-02,Netherlands,Organic Search,35.0
+C53699,2023-11-21,France,Organic Search,49.0
+C53700,2022-03-08,Netherlands,Organic Search,29.0
+C53701,2024-09-09,Germany,Email,45.0
+C53702,2022-05-06,ITALY,Organic Search,58.0
+C53703,2021-09-08,Germany,Paid Social,41.0
+C53704,2024-09-03,  Germany ,Paid Social,47.0
+C53705,2022-09-27,SPAIN,Paid Social,45.0
+C53706,2023-04-05,Netherlands,Direct,61.0
+C53707,2024-11-23,Netherlands,Paid Social,42.0
+C53708,2024-11-09,  Spain ,Organic Search,
+C53709,2024-03-20,Germany,Direct,38.0
+C53710,2021-07-17,Spain,Referral,29.0
+C53711,2023-11-04,NETHERLANDS,Email,24.0
+C53712,2024-12-21,Germany,Referral,53.0
+C53713,2024-11-11,Germany,Organic Search,26.0
+C53714,2021-10-12,Germany,Referral,47.0
+C53715,2023-02-23,ITALY,Organic Search,43.0
+C53716,2022-10-28,Germany,Paid Social,49.0
+C53717,2021-12-02,Germany,Organic Search,32.0
+C53718,2024-02-27,Netherlands,Referral,29.0
+C53719,2022-08-24,AUSTRIA,Organic Search,43.0
+C53720,2022-12-12,Germany,Organic Search,34.0
+C53721,2021-09-06,Austria,Organic Search,
+C53722,2023-07-10,France,Email,61.0
+C53723,2022-01-29,Spain,Organic Search,29.0
+C53724,2023-04-14,Germany,Paid Social,26.0
+C53725,2021-12-31,Germany,Paid Social,35.0
+C53726,2024-11-18,Netherlands,Referral,53.0
+C53727,2022-01-03,GERMANY,Organic Search,18.0
+C53728,2023-08-09,France,Direct,52.0
+C53729,2022-04-13,Germany,Paid Social,27.0
+C53730,2021-08-04,  Austria ,Organic Search,41.0
+C53731,2022-04-23,Spain,Organic Search,
+C53732,2021-06-11,Spain,Organic Search,62.0
+C53733,2021-12-22,Italy,Paid Social,39.0
+C53734,2023-07-04,Spain,Organic Search,30.0
+C53735,2024-01-10,France,Direct,34.0
+C53736,2021-08-30,Germany,Paid Social,39.0
+C53737,2023-04-26,Spain,Organic Search,40.0
+C53738,2023-10-20,  Italy ,Paid Social,43.0
+C53739,2022-06-18,Italy,Organic Search,38.0
+C53740,2023-01-21,Austria,Organic Search,21.0
+C53741,2021-07-24,Germany,Organic Search,34.0
+C53742,2022-05-25,Italy,Organic Search,45.0
+C53743,2023-05-30,Italy,Organic Search,30.0
+C53744,2024-12-23,Netherlands,Direct,46.0
+C53745,2024-12-28,Spain,Email,38.0
+C53746,2024-12-12,  France ,Direct,35.0
+C53747,2023-04-02,Italy,Organic Search,52.0
+C53748,2021-08-14,Germany,Direct,18.0
+C53749,2022-11-10,Spain,Paid Social,30.0
+C53750,2022-06-24,Germany,Organic Search,53.0
+C53751,2021-02-15,Germany,Referral,60.0
+C53752,2021-09-18,Germany,Organic Search,65.0
+C53753,2023-05-13,France,Paid Social,39.0
+C53754,2022-12-04,GERMANY,Referral,43.0
+C53755,2022-03-13,Italy,Email,48.0
+C53756,2024-03-21,France,Paid Social,53.0
+C53757,2022-12-30,Spain,Paid Social,
+C53758,2024-08-10,Germany,Organic Search,49.0
+C53759,2022-06-30,Germany,Direct,
+C53760,2023-08-29,Austria,Organic Search,44.0
+C53761,2022-03-20,Netherlands,Organic Search,27.0
+C53762,2023-07-06,France,Organic Search,34.0
+C53763,2022-01-18,Austria,Direct,32.0
+C53764,2022-02-05,Spain,Referral,24.0
+C53765,2023-11-26,Netherlands,Paid Social,18.0
+C53766,2022-08-07,Italy,Direct,33.0
+C53767,2022-02-26,Austria,Organic Search,
+C53768,2024-10-26,Netherlands,Direct,39.0
+C53769,2021-05-10,Germany,Organic Search,45.0
+C53770,2023-10-01,Germany,Paid Social,40.0
+C53771,2023-09-10,Germany,Organic Search,35.0
+C53772,2022-07-16,Austria,Direct,27.0
+C53773,2023-05-12,NETHERLANDS,Direct,49.0
+C53774,2021-08-31,Germany,Email,
+C53775,2024-03-27,Netherlands,Organic Search,33.0
+C53776,2022-05-28,Germany,Organic Search,36.0
+C53777,2022-04-07,Germany,Paid Social,29.0
+C53778,2022-10-27,Italy,Paid Social,32.0
+C53779,2024-09-29,Germany,Organic Search,31.0
+C53780,2024-06-15,Germany,Email,35.0
+C53781,2024-11-11,France,Email,46.0
+C53782,2024-01-10,Germany,Direct,43.0
+C53783,2024-01-23,Austria,Paid Social,57.0
+C53784,2023-06-17,Italy,Paid Social,53.0
+C53785,2024-10-02,Netherlands,Paid Social,61.0
+C53786,2023-07-26,Netherlands,Organic Search,45.0
+C53787,2022-12-27,Germany,Email,45.0
+C53788,2023-12-28,France,Referral,32.0
+C53789,2023-09-08,  Germany ,Organic Search,48.0
+C53790,2021-11-20,Germany,Paid Social,30.0
+C53791,2023-02-19,Spain,Direct,20.0
+C53792,2022-10-25,France,Paid Social,56.0
+C53793,2024-08-05,France,Paid Social,23.0
+C53794,2023-01-30,Germany,Email,43.0
+C53795,2024-07-10,Spain,Email,27.0
+C53796,2023-04-28,Germany,Organic Search,52.0
+C53797,2024-05-01,GERMANY,Referral,53.0
+C53798,2021-12-14,Spain,Direct,
+C53799,2024-10-21,France,Organic Search,53.0
+C53800,2023-06-17,Italy,Organic Search,38.0
+C53801,2022-08-01,Germany,Email,65.0
+C53802,2022-07-01,  Austria ,Email,47.0
+C53803,2022-08-09,ITALY,Paid Social,27.0
+C53804,2023-01-13,France,Paid Social,39.0
+C53805,2024-03-23,Netherlands,Email,36.0
+C53806,2024-11-14,Germany,Paid Social,35.0
+C53807,2024-01-30,AUSTRIA,Organic Search,18.0
+C53808,2023-09-09,Spain,Organic Search,43.0
+C53809,2023-05-06,Netherlands,Paid Social,21.0
+C53810,2024-07-17,Italy,Direct,18.0
+C53811,2024-08-08,Netherlands,Email,34.0
+C53812,2022-09-23,France,Paid Social,
+C53813,2024-11-18,Germany,Direct,28.0
+C53814,2023-02-22,  Netherlands ,Paid Social,18.0
+C53815,2024-06-18,  Spain ,Paid Social,28.0
+C53816,2024-11-30,Netherlands,Organic Search,36.0
+C53817,2024-03-08,Germany,Referral,30.0
+C53818,2022-02-05,France,Email,43.0
+C53819,2023-10-26,Austria,Referral,55.0
+C53820,2021-11-09,Italy,Paid Social,44.0
+C53821,2024-06-07,Germany,Paid Social,50.0
+C53822,2022-09-05,Germany,Organic Search,51.0
+C53823,2024-02-28,Germany,Direct,26.0
+C53824,2024-10-07,Germany,Organic Search,43.0
+C53825,2022-03-14,Italy,Email,50.0
+C53826,2023-02-19,France,Email,33.0
+C53827,2024-01-05,France,Organic Search,29.0
+C53828,2023-03-28,Germany,Paid Social,44.0
+C53829,2022-03-03,France,Organic Search,20.0
+C53830,2021-04-01,Italy,Email,25.0
+C53831,2023-03-10,France,Direct,30.0
+C53832,2024-01-07,Germany,Paid Social,43.0
+C53833,2023-10-12,Germany,Direct,41.0
+C53834,2022-01-25,Italy,Organic Search,50.0
+C53835,2023-05-09,Italy,Paid Social,27.0
+C53836,2023-01-17,Germany,Direct,26.0
+C53837,2022-08-24,  Netherlands ,Direct,44.0
+C53838,2024-04-05,Germany,Paid Social,28.0
+C53839,2022-10-19,France,Email,31.0
+C53840,2023-08-31,Germany,Direct,18.0
+C53841,2024-10-20,AUSTRIA,Referral,41.0
+C53842,2023-08-30,Italy,Email,56.0
+C53843,2023-12-01,Germany,Organic Search,26.0
+C53844,2021-07-27,France,Organic Search,50.0
+C53845,2022-03-09,GERMANY,Email,37.0
+C53846,2021-10-01,Germany,Paid Social,
+C53847,2024-05-13,  Germany ,Organic Search,27.0
+C53848,2024-07-25,Germany,Organic Search,27.0
+C53849,2022-03-25,Italy,Paid Social,34.0
+C53850,2022-05-23,Germany,Paid Social,43.0
+C53851,2022-11-09,Spain,Paid Social,60.0
+C53852,2023-11-01,Germany,Paid Social,21.0
+C53853,2023-12-07,France,Organic Search,32.0
+C53854,2024-02-18,France,Direct,27.0
+C53855,2024-10-02,Italy,Email,23.0
+C53856,2022-09-27,GERMANY,Organic Search,39.0
+C53857,2024-01-18,Germany,Paid Social,38.0
+C53858,2023-09-24,Austria,Paid Social,18.0
+C53859,2022-10-13,Austria,Email,38.0
+C53860,2024-10-04,Netherlands,Email,24.0
+C53861,2021-09-18,Germany,Email,38.0
+C53862,2024-03-17,Germany,Email,53.0
+C53863,2024-04-03,Spain,Organic Search,44.0
+C53864,2024-10-12,Netherlands,Organic Search,40.0
+C53865,2023-08-05,Netherlands,Organic Search,32.0
+C53866,2022-11-07,Germany,Paid Social,39.0
+C53867,2024-07-17,GERMANY,Paid Social,45.0
+C53868,2024-05-19,Italy,Referral,
+C53869,2023-07-13,Austria,Organic Search,37.0
+C53870,2024-05-16,Germany,Email,41.0
+C53871,2022-08-14,Italy,Organic Search,
+C53872,2023-10-30,Netherlands,Paid Social,29.0
+C53873,2024-08-24,Germany,Email,46.0
+C53874,2022-11-01,Germany,Organic Search,48.0
+C53875,2023-06-21,Austria,Paid Social,39.0
+C53876,2024-11-15,Germany,Paid Social,56.0
+C53877,2024-06-16,France,Email,
+C53878,2024-09-14,Austria,Organic Search,35.0
+C53879,2023-02-08,Germany,Direct,23.0
+C53880,2024-12-28,Italy,Direct,55.0
+C53881,2022-01-18,Germany,Referral,47.0
+C53882,2023-08-05,Germany,Organic Search,60.0
+C53883,2023-06-16,Netherlands,Email,64.0
+C53884,2024-06-17,Netherlands,Organic Search,23.0
+C53885,2024-10-05,France,Direct,23.0
+C53886,2024-04-07,Netherlands,Paid Social,18.0
+C53887,2023-12-13,Spain,Organic Search,49.0
+C53888,2023-04-08,Austria,Paid Social,46.0
+C53889,2023-07-25,Spain,Referral,39.0
+C53890,2023-07-24,Germany,Direct,23.0
+C53891,2021-03-06,Germany,Paid Social,37.0
+C53892,2023-07-16,France,Paid Social,40.0
+C53893,2024-08-14,Germany,Referral,47.0
+C53894,2024-03-14,Austria,Referral,41.0
+C53895,2024-06-14,Germany,Referral,46.0
+C53896,2023-02-16,Germany,Paid Social,37.0
+C53897,2023-08-18,Germany,Email,52.0
+C53898,2021-04-14,Germany,Direct,46.0
+C53899,2023-02-05,Germany,Organic Search,24.0
+C53900,2023-06-09,NETHERLANDS,Paid Social,55.0
+C53901,2022-07-24,Netherlands,Organic Search,53.0
+C53902,2021-04-07,Germany,Paid Social,
+C53903,2024-02-22,Germany,Referral,41.0
+C53904,2023-04-18,Spain,Organic Search,58.0
+C53905,2023-03-23,Germany,Paid Social,18.0
+C53906,2022-07-15,France,Organic Search,53.0
+C53907,2023-08-29,FRANCE,Direct,32.0
+C53908,2023-04-22,FRANCE,Referral,51.0
+C53909,2023-06-09,Spain,Paid Social,39.0
+C53910,2023-10-20,Netherlands,Email,23.0
+C53911,2021-01-21,Italy,Organic Search,32.0
+C53912,2024-10-04,Spain,Referral,50.0
+C53913,2021-07-22,Germany,Email,
+C53914,2023-05-09,GERMANY,Organic Search,31.0
+C53915,2022-05-02,Germany,Direct,30.0
+C53916,2023-08-11,Germany,Organic Search,46.0
+C53917,2022-09-03,France,Email,59.0
+C53918,2024-08-18,Germany,Organic Search,18.0
+C53919,2023-02-24,Germany,Email,72.0
+C53920,2023-12-26,Germany,Organic Search,40.0
+C53921,2022-07-13,Netherlands,Organic Search,45.0
+C53922,2021-03-03,Netherlands,Paid Social,33.0
+C53923,2023-03-07,Italy,Direct,38.0
+C53924,2023-08-27,Germany,Organic Search,40.0
+C53925,2023-05-21,Germany,Email,25.0
+C53926,2024-11-26,  Italy ,Paid Social,28.0
+C53927,2024-03-11,Netherlands,Referral,52.0
+C53928,2024-12-27,DE,Organic Search,19.0
+C53929,2022-09-27,France,Email,43.0
+C53930,2024-06-07,Germany,Direct,34.0
+C53931,2023-09-19,Spain,Paid Social,26.0
+C53932,2023-11-25,Netherlands,Paid Social,62.0
+C53933,2024-12-18,France,Direct,27.0
+C53934,2024-01-13,France,Paid Social,24.0
+C53935,2024-09-26,Germany,Paid Social,36.0
+C53936,2024-04-01,GERMANY,Organic Search,29.0
+C53937,2021-11-27,Austria,Referral,38.0
+C53938,2024-03-03,France,Direct,40.0
+C53939,2023-06-22,Germany,Email,41.0
+C53940,2024-10-15,Germany,Email,
+C53941,2024-06-25,Italy,Paid Social,30.0
+C53942,2021-10-08,Germany,Organic Search,46.0
+C53943,2021-12-11,Germany,Organic Search,37.0
+C53944,2021-07-18,Netherlands,Organic Search,32.0
+C53945,2023-07-04,Austria,Organic Search,56.0
+C53946,2021-08-15,Netherlands,Email,
+C53947,2024-03-30,Spain,Organic Search,51.0
+C53948,2023-09-15,Germany,Organic Search,53.0
+C53949,2024-07-25,Italy,Paid Social,53.0
+C53950,2022-09-02,Spain,Organic Search,46.0
+C53951,2023-08-05,FRANCE,Organic Search,38.0
+C53952,2021-11-06,Netherlands,Organic Search,37.0
+C53953,2024-09-12,Germany,Organic Search,35.0
+C53954,2022-03-03,  France ,Paid Social,18.0
+C53955,2021-10-04,Germany,Referral,47.0
+C53956,2022-04-28,Germany,Direct,41.0
+C53957,2024-06-25,ITALY,Referral,48.0
+C53958,2021-10-12,Germany,Email,37.0
+C53959,2023-11-28,NETHERLANDS,Direct,46.0
+C53960,2024-04-23,Germany,Paid Social,21.0
+C53961,2024-04-28,Germany,Email,24.0
+C53962,2022-03-31,Germany,Paid Social,18.0
+C53963,2021-06-28,  Germany ,Paid Social,36.0
+C53964,2023-05-07,Netherlands,Paid Social,29.0
+C53965,2022-04-23,  Italy ,Organic Search,27.0
+C53966,2024-03-03,France,Referral,42.0
+C53967,2022-12-29,Italy,Organic Search,33.0
+C53968,2023-05-07,Netherlands,Email,21.0
+C53969,2021-10-28,Netherlands,Direct,69.0
+C53970,2023-10-04,Germany,Paid Social,38.0
+C53971,2022-03-23,Germany,Organic Search,25.0
+C53972,2024-02-10,SPAIN,Paid Social,30.0
+C53973,2021-07-22,France,Paid Social,36.0
+C53974,2024-12-09,Germany,Direct,36.0
+C53975,2024-02-16,Austria,Email,54.0
+C53976,2022-03-16,Germany,Email,37.0
+C53977,2021-02-15,Austria,Paid Social,60.0
+C53978,2022-11-26,GERMANY,Email,33.0
+C53979,2022-01-19,Italy,Email,43.0
+C53980,2022-05-22,  GERMANY ,Organic Search,50.0
+C53981,2024-08-31,Germany,Organic Search,52.0
+C53982,2023-11-15,Netherlands,Organic Search,54.0
+C53983,2022-03-06,Germany,Paid Social,35.0
+C53984,2023-09-21,Italy,Direct,38.0
+C53985,2022-07-25,Netherlands,Email,18.0
+C53986,2024-12-09,Germany,Paid Social,
+C53987,2021-04-12,Germany,Direct,51.0
+C53988,2024-04-08,Italy,Organic Search,49.0
+C53989,2024-05-21,Netherlands,Organic Search,37.0
+C53990,2021-07-12,Spain,Direct,58.0
+C53991,2022-02-25,Germany,Direct,33.0
+C53992,2023-02-07,Italy,Email,29.0
+C53993,2024-08-26,France,Organic Search,32.0
+C53994,2023-08-28,  Netherlands ,Direct,25.0
+C53995,2024-01-14,Germany,Referral,45.0
+C53996,2024-06-01,Germany,Email,41.0
+C53997,2024-07-17,Italy,Organic Search,45.0
+C53998,2023-06-12,Italy,Paid Social,33.0
+C53999,2023-07-23,Germany,Referral,37.0
